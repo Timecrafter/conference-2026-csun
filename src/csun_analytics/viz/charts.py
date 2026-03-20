@@ -52,7 +52,8 @@ def fig_sessions_per_year(sessions_per_year: dict[int, int]) -> go.Figure:
         )
     )
 
-    # Add YoY growth annotations
+    # Add YoY growth annotations — use category index for x position
+    # because plotly.js 3.x treats string annotations like "2024" as numeric.
     annotations = []
     for i in range(1, len(years)):
         pct = _pct_change(sessions_per_year[years[i - 1]], sessions_per_year[years[i]])
@@ -60,7 +61,8 @@ def fig_sessions_per_year(sessions_per_year: dict[int, int]) -> go.Figure:
             sign = "+" if pct >= 0 else ""
             annotations.append(
                 dict(
-                    x=str(years[i]),
+                    x=i,
+                    xref="x",
                     y=counts[i],
                     text=f"{sign}{pct}%",
                     showarrow=False,

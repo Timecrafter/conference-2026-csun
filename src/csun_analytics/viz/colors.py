@@ -95,7 +95,7 @@ def build_topic_colormap(topics: list[str]) -> dict[str, str]:
 _FONT_FAMILY = "Inter, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif"
 
 DEFAULT_LAYOUT = dict(
-    autotypenumbers="convert types",
+    template="none",
     font=dict(family=_FONT_FAMILY, size=13, color="#2E2E2E"),
     title_font=dict(family=_FONT_FAMILY, size=20, color="#1A1A2E"),
     plot_bgcolor="#FAFAFA",
@@ -113,12 +113,6 @@ DEFAULT_LAYOUT = dict(
         borderwidth=1,
         font=dict(size=12),
     ),
-    xaxis=dict(
-        type="category",
-        gridcolor="#EBEBEB",
-        linecolor="#CCCCCC",
-        zerolinecolor="#CCCCCC",
-    ),
     yaxis=dict(
         gridcolor="#EBEBEB",
         linecolor="#CCCCCC",
@@ -132,5 +126,21 @@ def apply_default_layout(fig: go.Figure, title: str = "", **overrides) -> go.Fig
     layout_kwargs = {**DEFAULT_LAYOUT, **overrides}
     if title:
         layout_kwargs["title_text"] = title
+    # plotly.js 3.x needs explicit categoryorder="array" with categoryarray
+    # to treat numeric-looking strings (e.g. "2023") as categories.
+    if fig.data and hasattr(fig.data[0], "x") and fig.data[0].x is not None:
+        x_vals = list(fig.data[0].x)
+        xaxis_defaults = dict(
+            type="category",
+            categoryorder="array",
+            categoryarray=x_vals,
+            gridcolor="#EBEBEB",
+            linecolor="#CCCCCC",
+            zerolinecolor="#CCCCCC",
+        )
+        xaxis_overrides = overrides.get("xaxis", {})
+        if isinstance(xaxis_overrides, dict):
+            xaxis_defaults.update(xaxis_overrides)
+        layout_kwargs["xaxis"] = xaxis_defaults
     fig.update_layout(**layout_kwargs)
     return fig

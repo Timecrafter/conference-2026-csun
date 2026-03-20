@@ -68,7 +68,7 @@ def generate_charts():
 
     def _save(name: str, fig):
         """Convert figure to inline HTML div and cache it."""
-        html = fig.to_html(full_html=False, include_plotlyjs="cdn")
+        html = fig.to_html(full_html=False, include_plotlyjs="cdn", default_height="500px")
         _CHART_DIVS[name] = html
         # Also save standalone for direct viewing / dashboard export
         ASSETS_DIR.mkdir(parents=True, exist_ok=True)
