@@ -1,0 +1,2367 @@
+[
+  {
+    "name": "Charles LaPierre",
+    "affiliation": "Benetech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Daniel Henderson-Ede",
+    "affiliation": "Mantis & Co",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anita R. Walz",
+    "affiliation": "Virginia Polytechnic Institute and State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jason Megginson",
+    "affiliation": "College Board",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tim Kluthe",
+    "affiliation": "University of Nevada, Las Vegas",
+    "role": "Speaker"
+  },
+  {
+    "name": "Peter Korn",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tarveen Kaur",
+    "affiliation": "Magic EdTech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Movinya Gunatilaka",
+    "affiliation": "Arizona State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Riley Giese",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hyung Nam Kim",
+    "affiliation": "North Carolina A&T State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Erin Lucas",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ashley S. Jenkins",
+    "affiliation": "Seyfarth Shaw",
+    "role": "Speaker"
+  },
+  {
+    "name": "S. Victoria Jaque",
+    "affiliation": "CSUN MS in Assistive Technology Studies and Human Services",
+    "role": "Speaker"
+  },
+  {
+    "name": "James Boreham",
+    "affiliation": "NV Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Alli Hirt",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Karl Groves",
+    "affiliation": "AFixt",
+    "role": "Speaker"
+  },
+  {
+    "name": "Javier Pereira",
+    "affiliation": "CITIC. Talionis Research Group. Universidade da Coruña",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kavana Ramesh",
+    "affiliation": "Fable",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jaunita George",
+    "affiliation": "Navy Federal Credit Union",
+    "role": "Speaker"
+  },
+  {
+    "name": "Laney Davidson",
+    "affiliation": "County of Marin",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hari Palani",
+    "affiliation": "UNAR Labs",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sindhura Jaladhanki",
+    "affiliation": "ETS",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rachael Yomtoob",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Oystein Moseng",
+    "affiliation": "Highcharts",
+    "role": "Speaker"
+  },
+  {
+    "name": "Taliesin Smith",
+    "affiliation": "Department of Physics, University of Colorado Boulder, Boulder, CO",
+    "role": "Speaker"
+  },
+  {
+    "name": "Andrew Flatres",
+    "affiliation": "HumanWare Technologies",
+    "role": "Speaker"
+  },
+  {
+    "name": "Amanda Lin Dietz",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Aidan Tierney",
+    "affiliation": "eBay",
+    "role": "Speaker"
+  },
+  {
+    "name": "Zhigang Zhu",
+    "affiliation": "Department of Computer Science, City College of New York, CUNY",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jonny James",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Liz Heaney",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wilfredo J. Robinson M.",
+    "affiliation": "Saint Louis University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sarah Massengale",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Dawn Henderson",
+    "affiliation": "LexisNexis Legal and Professional",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dominique Archambault",
+    "affiliation": "Laboratoire CHArt, Université Paris 8 Vincennes Saint-Denis",
+    "role": "Speaker"
+  },
+  {
+    "name": "Michael Warner",
+    "affiliation": "Renaissance Learning",
+    "role": "Speaker"
+  },
+  {
+    "name": "Gina Domergue",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Frank Elavsky",
+    "affiliation": "PhD Student, Consultant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Toshihiko Komada",
+    "affiliation": "Nihon University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shantanu Ladkat",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Andreas Stefik",
+    "affiliation": "University of Nevada, Las Vegas",
+    "role": "Speaker"
+  },
+  {
+    "name": "Zhi Huang",
+    "affiliation": "National Library Service for the Blind and Print Disabled, Library of Congress",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kate Tipton",
+    "affiliation": "CSU Northridge",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marita Vindedal",
+    "affiliation": "Highcharts",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kursat Ceylan",
+    "affiliation": "WeWALK",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lucy Greco",
+    "affiliation": "accessaces.com",
+    "role": "Speaker"
+  },
+  {
+    "name": "John Morris",
+    "affiliation": "Shepherd Center",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mary Stores",
+    "affiliation": "Indiana University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hayden Fox",
+    "affiliation": "The Texas A&M University System",
+    "role": "Speaker"
+  },
+  {
+    "name": "Peter Heery",
+    "affiliation": "British Broadcasting Corporation (BBC)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Amin Makkawy",
+    "affiliation": "California State University, Fresno",
+    "role": "Speaker"
+  },
+  {
+    "name": "Parker Hartman",
+    "affiliation": "GBH",
+    "role": "Speaker"
+  },
+  {
+    "name": "Aaron Schneider",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Martin",
+    "affiliation": "Intuit Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Markku Hakkinen",
+    "affiliation": "ETS",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wisam Yasen",
+    "affiliation": "Taskar Center for Accessible Technology at the Paul G. Allen School",
+    "role": "Speaker"
+  },
+  {
+    "name": "Giovanni Galvez",
+    "affiliation": "SyncWords",
+    "role": "Speaker"
+  },
+  {
+    "name": "Andrew Arch",
+    "affiliation": "Intopia",
+    "role": "Speaker"
+  },
+  {
+    "name": "George Kerscher",
+    "affiliation": "DAISY Consortium",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chris Baldomero",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jason Hester",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bakty Motiram",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hiroyuki Nakamura",
+    "affiliation": "Shibaura Institute of Technology",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rolando Mendez",
+    "affiliation": "Teach Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Matt Ater",
+    "affiliation": "Vispero",
+    "role": "Speaker"
+  },
+  {
+    "name": "Derrick Smith",
+    "affiliation": "Auburn University at Montgomery",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anat Nulman",
+    "affiliation": "Assistive Consulting",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nicholas Giudice",
+    "affiliation": "UNAR Labs",
+    "role": "Speaker"
+  },
+  {
+    "name": "Julia Winter",
+    "affiliation": "Alchemie",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jerred Mace",
+    "affiliation": "OneCourt Technologies, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mitchell Levy",
+    "affiliation": "Hamilton CapTel",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jason Tan",
+    "affiliation": "TestParty",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sowjanya Param",
+    "affiliation": "Walmart International",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brett Fiedler",
+    "affiliation": "Department of Physics, University of Colorado Boulder, Boulder, CO",
+    "role": "Speaker"
+  },
+  {
+    "name": "Josh Miele",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Thomas Madura",
+    "affiliation": "San Jose State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Greg Williams",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ferran Gállego",
+    "affiliation": "Code Factory SL",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kate O'Connor",
+    "affiliation": "Onward Search",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dan Tripp",
+    "affiliation": "Siteimprove",
+    "role": "Speaker"
+  },
+  {
+    "name": "Charlii Parker",
+    "affiliation": "Intopia",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kevin Andrews",
+    "affiliation": "Unlocked Freedom Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Cox",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Brittany Barry",
+    "affiliation": "Proto Hologram",
+    "role": "Speaker"
+  },
+  {
+    "name": "Min Xiong",
+    "affiliation": "LexisNexis Legal and Professional",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joy Mistovich",
+    "affiliation": "The Butler Institute of American Art",
+    "role": "Speaker"
+  },
+  {
+    "name": "Roxana Fischer",
+    "affiliation": "Fischer",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bhavika Vershi Bhanushali",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rachael Bradley Montgomery",
+    "affiliation": "Library of Congress",
+    "role": "Speaker"
+  },
+  {
+    "name": "Niraj Parikh",
+    "affiliation": "Center for Assistive Technology Training (CATT)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Andy Ronksley",
+    "affiliation": "British Broadcasting Corporation (BBC)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mohammed Laachir",
+    "affiliation": "Vispero",
+    "role": "Speaker"
+  },
+  {
+    "name": "Earl Huff",
+    "affiliation": "University of Texas at Austin",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ed Summers",
+    "affiliation": "GitHub",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sean Dougherty",
+    "affiliation": "LightHouse for the Blind and Visually Impaired (San Francisco)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Laura Fathauer",
+    "affiliation": "Miami University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cormac Chisholm",
+    "affiliation": "Dev Ally",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mike Williamson",
+    "affiliation": "University of Colorado Boulder",
+    "role": "Speaker"
+  },
+  {
+    "name": "Morgan Solender",
+    "affiliation": "SRI Education",
+    "role": "Speaker"
+  },
+  {
+    "name": "Giovani Camara",
+    "affiliation": "Walmart",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brittany Clark",
+    "affiliation": "Linggo",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brandon Cai",
+    "affiliation": "Independent",
+    "role": "Speaker"
+  },
+  {
+    "name": "Klaus-Peter Hars",
+    "affiliation": "Inventivio GmbH",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Herr",
+    "affiliation": "Allyant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Matthew Janusauskas",
+    "affiliation": "American Foundation for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ciara Salmon",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Dauber",
+    "affiliation": "Nelnet",
+    "role": "Speaker"
+  },
+  {
+    "name": "JoAnna Hansen",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ann Knettler",
+    "affiliation": "GrackleDocs",
+    "role": "Speaker"
+  },
+  {
+    "name": "Francisco Javier Rafful Garfias",
+    "affiliation": "Wichita State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marco Salsiccia",
+    "affiliation": "Intuit Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Elizabeth Bottner",
+    "affiliation": "National Library Service for the Blind and Print Disabled, Library of Congress",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joe Jorgenson",
+    "affiliation": "Accessibyte",
+    "role": "Speaker"
+  },
+  {
+    "name": "Harris Schneiderman",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Pawel Wodkowski",
+    "affiliation": "Atlassian",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ted Drake",
+    "affiliation": "Intuit Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeremy Perkins",
+    "affiliation": "iFactory",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rylin Rodgers",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Katsuhiro Kanamori",
+    "affiliation": "Teikyo university",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cynthia Pickens",
+    "affiliation": "Texas Parks & Wildlife Department - State Parks Division",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sarah Qian",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chukwunonso Henry Nwokoye",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Maria J. P. Peixoto",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Rob Carr",
+    "affiliation": "WebAIM",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sarah Schaidt",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sharon Giovinazzo",
+    "affiliation": "Lighthouse for the Blind and Visually Impaired San Francisco",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sam Joehl",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Perrin Anto",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kai Wong",
+    "affiliation": "Teladoc Health",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kylin Follenweider",
+    "affiliation": "Accessible Community",
+    "role": "Speaker"
+  },
+  {
+    "name": "Laurie Allen",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Samantha Barry",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bruce Sexton",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Lydia Harkey",
+    "affiliation": "The Texas A&M University System",
+    "role": "Speaker"
+  },
+  {
+    "name": "Gus Shitama",
+    "affiliation": "Apple, Inc",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shrirang Sahasrabudhe",
+    "affiliation": "ETS",
+    "role": "Speaker"
+  },
+  {
+    "name": "Suruchi Dhall",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Paul Adam",
+    "affiliation": "CVS Health",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sambhavi Chandrashekar",
+    "affiliation": "D2L",
+    "role": "Speaker"
+  },
+  {
+    "name": "William Zimmer",
+    "affiliation": "Tvillinger Research",
+    "role": "Speaker"
+  },
+  {
+    "name": "Suyash Ekre",
+    "affiliation": "LightHouse for the Blind and Visually Impaired (San Francisco)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shawna Fleming",
+    "affiliation": "Linggo",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sharon Rosenblatt",
+    "affiliation": "Accessibility Partners",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shannon Christensen",
+    "affiliation": "JPMorganChase",
+    "role": "Speaker"
+  },
+  {
+    "name": "Katie Samson",
+    "affiliation": "Tamman, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Katie Dektar",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dan Sullivan",
+    "affiliation": "Allyant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rebecca D Daigneault",
+    "affiliation": "Minot State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Elizabeth Whitaker",
+    "affiliation": "Vispero",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jonathan Whiting",
+    "affiliation": "WebAIM",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ligia Mora",
+    "affiliation": "Crawford Technologies",
+    "role": "Speaker"
+  },
+  {
+    "name": "TJ Squires",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Maxwell Ivey",
+    "affiliation": "The Accessibility Advantage",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mike May",
+    "affiliation": "Mike May Tech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joyeeta Mukherjee",
+    "affiliation": "UNAR Labs",
+    "role": "Speaker"
+  },
+  {
+    "name": "Richard Orme",
+    "affiliation": "DAISY Consortium",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kelly Melcher",
+    "affiliation": "State of Minnesota Department of Human Services",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anjali Lalwani",
+    "affiliation": "Magic EdTech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nhi Nguyen",
+    "affiliation": "Walmart",
+    "role": "Speaker"
+  },
+  {
+    "name": "Charlie Pike",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bofei Wang",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mitchell Evan",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Abigayil Tamara",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Jill Ratliff",
+    "affiliation": "Aira",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mark Miller",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Steve Levine",
+    "affiliation": "Tamman, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sandeep Singh Sangha",
+    "affiliation": "Virginia Polytechnic Institute and State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sam Boot",
+    "affiliation": "British Broadcasting Corporation (BBC)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kaiqi Zhou",
+    "affiliation": "University of North Texas",
+    "role": "Speaker"
+  },
+  {
+    "name": "Alastair Campbell",
+    "affiliation": "nomensa",
+    "role": "Speaker"
+  },
+  {
+    "name": "Eudora Struble",
+    "affiliation": "Wake Forest University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mary Goldberg",
+    "affiliation": "IMPACT Center at the University of Pittsburgh",
+    "role": "Speaker"
+  },
+  {
+    "name": "Noe Barrell",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ankur Garg",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Elaine KA",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jasmyne Ormond",
+    "affiliation": "Amplify Education",
+    "role": "Speaker"
+  },
+  {
+    "name": "Glenda Sims",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mary Craig",
+    "affiliation": "Washington State Department of Services for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Katie Hansen",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dylan Barrell",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lesley Farmer",
+    "affiliation": "CSULB",
+    "role": "Speaker"
+  },
+  {
+    "name": "Katrina Best",
+    "affiliation": "American Printing House for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cordelia McGee-Tubb",
+    "affiliation": "eBay",
+    "role": "Speaker"
+  },
+  {
+    "name": "Divya Nagaraja",
+    "affiliation": "Workday",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kristen Witucki",
+    "affiliation": "Tamman Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Constance Richard",
+    "affiliation": "University of North Texas",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kate Sonka",
+    "affiliation": "Teach Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "JohnRoss Rizzo",
+    "affiliation": "NYU School of Medicine",
+    "role": "Speaker"
+  },
+  {
+    "name": "Stephen Cutchins",
+    "affiliation": "Cvent",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bryan Gould",
+    "affiliation": "GBH",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bruce Walker",
+    "affiliation": "Georgia Institute of Technology",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brandon Biggs",
+    "affiliation": "XR Navigation",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tess Hutley",
+    "affiliation": "Intopia",
+    "role": "Speaker"
+  },
+  {
+    "name": "Fredrik Schill",
+    "affiliation": "Textalk AB",
+    "role": "Speaker"
+  },
+  {
+    "name": "Victoria Wheeler",
+    "affiliation": "Augusta VA Medical Center - Blind Rehab Virtual Assistive Technology Hub",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kristin Yokota",
+    "affiliation": "Continual Engine US LLC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shadi Abou-Zahra",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Billy Gregory",
+    "affiliation": "Ubisoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brissa Quiroz",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Susan Cullen",
+    "affiliation": "Tech For All, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Vivian Tran",
+    "affiliation": "NASA JPL",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lauren Britton",
+    "affiliation": "Hewlett Packard Enterprise",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jordan Wilson",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sandy Shin",
+    "affiliation": "Braille Institute of America",
+    "role": "Speaker"
+  },
+  {
+    "name": "Preety Kumar",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeremy Gonzales",
+    "affiliation": "Siteimprove",
+    "role": "Speaker"
+  },
+  {
+    "name": "Namrata Roy",
+    "affiliation": "Saint Louis University",
+    "role": "Speaker"
+  },
+  {
+    "name": "James Carleton",
+    "affiliation": "eBay",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cvent Test",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Brian Fischler",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Robin Spinks",
+    "affiliation": "RNIB",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sarah Wood",
+    "affiliation": "ETS",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mariana Mejia",
+    "affiliation": "OCAD University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Andy Lin",
+    "affiliation": "Emerging Tech Lab at RLANRC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Darrin Evans",
+    "affiliation": "North Carolina Virtual Learning Community",
+    "role": "Speaker"
+  },
+  {
+    "name": "Flo Truong",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chad Chelius",
+    "affiliation": "Chax Training and Consulting",
+    "role": "Speaker"
+  },
+  {
+    "name": "Volker Sorge",
+    "affiliation": "Helix Opportunity LLC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cathy Pearl",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Pam Mayer",
+    "affiliation": "Workday",
+    "role": "Speaker"
+  },
+  {
+    "name": "Christian Vogler",
+    "affiliation": "Gallaudet University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Seneca Foster",
+    "affiliation": "HCL Tech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Madeleine Rothberg",
+    "affiliation": "GBH",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jayashree Rajagopalan",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Salvador Perez Quintana",
+    "affiliation": "Braille Institute of America",
+    "role": "Speaker"
+  },
+  {
+    "name": "Siri Gubba",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wes Estes",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Antonio Haileselassie",
+    "affiliation": "National Institutes of Health (NIH)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Josh Fennell",
+    "affiliation": "Fizz Studio",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nicola Richardson",
+    "affiliation": "Elsevier",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jacy Meador",
+    "affiliation": "Texas Parks & Wildlife Department - State Parks Division",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Pont Esteban",
+    "affiliation": "Harvard University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brandon Johnson",
+    "affiliation": "Davis Wright Tremaine LLP",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ajay Abraham",
+    "affiliation": "Wichita State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Everette Bacon",
+    "affiliation": "Aira",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jared Smith",
+    "affiliation": "WebAIM",
+    "role": "Speaker"
+  },
+  {
+    "name": "Raja Kushalnagar",
+    "affiliation": "Gallaudet University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brandon Biggs",
+    "affiliation": "Smith-Kettlewell Eye Research Institute and Georgia Institute of Technology",
+    "role": "Speaker"
+  },
+  {
+    "name": "Meredith Tully",
+    "affiliation": "Independent Consultant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Addison Gage",
+    "affiliation": "Willamette University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jennifer Mankoff",
+    "affiliation": "University of Washington",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shayaan Uddin",
+    "affiliation": "Jesuit High School",
+    "role": "Speaker"
+  },
+  {
+    "name": "Delaney Cowart",
+    "affiliation": "Shepherd Center",
+    "role": "Speaker"
+  },
+  {
+    "name": "Haydee G. Garcia-Lazaro",
+    "affiliation": "The Smith-Kettlewell Eye Research Institute",
+    "role": "Speaker"
+  },
+  {
+    "name": "Justin Stockton",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nikita Varma",
+    "affiliation": "Yahoo",
+    "role": "Speaker"
+  },
+  {
+    "name": "Claudio Luís Vera",
+    "affiliation": "A11y Innovation",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mannika Kshettry",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Janette Shew",
+    "affiliation": "Accenture Federal Services",
+    "role": "Speaker"
+  },
+  {
+    "name": "Madison Russell",
+    "affiliation": "Elsevier",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dana Marlowe",
+    "affiliation": "Accessibility Partners",
+    "role": "Speaker"
+  },
+  {
+    "name": "Todd Marquis Boutin",
+    "affiliation": "Straive",
+    "role": "Speaker"
+  },
+  {
+    "name": "Manika Malhotra",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Corvin Bazgan",
+    "affiliation": "LightHouse for the Blind and Visually Impaired (San Francisco)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jay Prabunathan",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeanne Erickson Cooley",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Aaron Farber",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Claire Houston",
+    "affiliation": "GBH",
+    "role": "Speaker"
+  },
+  {
+    "name": "Simon Miner",
+    "affiliation": "Pedal Point Solutions LLC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cori Perlander",
+    "affiliation": "Vispero",
+    "role": "Speaker"
+  },
+  {
+    "name": "Betsy Sirk",
+    "affiliation": "National Aeronautics and Space Administration (NASA)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jenna L. Gorlewicz",
+    "affiliation": "Saint Louis University",
+    "role": "Speaker"
+  },
+  {
+    "name": "James Coughlan",
+    "affiliation": "Smith-Kettlewell Eye Research Institute",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joe Devon",
+    "affiliation": "A11y Audits",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nor Shahniza Shahbudin",
+    "affiliation": "Universiti Teknologi Malaysia",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sarah Welch",
+    "affiliation": "American Printing House for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Drew Metzger",
+    "affiliation": "Augusta VA Medical Center - Blind Rehab Virtual Assistive Technology Hub",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mark Steadman",
+    "affiliation": "Fidelity Investments",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ian Lloyd",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joyce Tsui",
+    "affiliation": "RaLytics",
+    "role": "Speaker"
+  },
+  {
+    "name": "Barbara Maniar",
+    "affiliation": "Olark",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mike Nejat",
+    "affiliation": "Sony",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nathan Gerhard",
+    "affiliation": "Keystone Human Services",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joel Snyder",
+    "affiliation": "Audio Description Associates, LLC / American Council of the Blind's Audio Description Project",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lara Rondberg",
+    "affiliation": "Benetech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Erin Dodson",
+    "affiliation": "Fred Rogers Production",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tara Freedman",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Greg Aikens",
+    "affiliation": "Workday",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kimberly Cline",
+    "affiliation": "LVI America, Inc",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ann McKay-Bacon",
+    "affiliation": "Information Plus Art, LLC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Di Wu",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Alpesh Danabhai Ahir",
+    "affiliation": "Walmart International",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shari Trewin",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Aaron Page",
+    "affiliation": "Allyant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Oliver Emberton",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Elodie Fichet",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hannah Stabler",
+    "affiliation": "University of Nevada, Las Vegas",
+    "role": "Speaker"
+  },
+  {
+    "name": "Gregg Vanderheiden",
+    "affiliation": "Raising the Floor",
+    "role": "Speaker"
+  },
+  {
+    "name": "J. Bern Jordan",
+    "affiliation": "University of Maryland",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tyler Freeman",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mary Jo Mueller",
+    "affiliation": "IBM",
+    "role": "Speaker"
+  },
+  {
+    "name": "Deanna Ferrante",
+    "affiliation": "Macmillan Learning",
+    "role": "Speaker"
+  },
+  {
+    "name": "Vijayshree Vethantham",
+    "affiliation": "Continual Engine US LLC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Molly Bowman",
+    "affiliation": "ServiceNow",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rachel Buchanan",
+    "affiliation": "Vispero",
+    "role": "Speaker"
+  },
+  {
+    "name": "Natalie Newman",
+    "affiliation": "Ershig AT Resource Center - WWU",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kevin White",
+    "affiliation": "W3C",
+    "role": "Speaker"
+  },
+  {
+    "name": "Katsuhito Yamaguchi",
+    "affiliation": "Nihon University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nell K",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bridget DuFour",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rachel Busnardo",
+    "affiliation": "Princeton University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sascha Cowley",
+    "affiliation": "NV Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Pratik Contractor",
+    "affiliation": "ServiceNow",
+    "role": "Speaker"
+  },
+  {
+    "name": "Peter Tucic",
+    "affiliation": "HumanWare Technologies",
+    "role": "Speaker"
+  },
+  {
+    "name": "Manish Agrawal",
+    "affiliation": "IAccessible Inc",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lee Chambers",
+    "affiliation": "Glean",
+    "role": "Speaker"
+  },
+  {
+    "name": "Gregory Hargraves",
+    "affiliation": "Paige Braille",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jonathan Bernal",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mohit Goenka",
+    "affiliation": "Yahoo",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chandrama Mallick",
+    "affiliation": "IIIT Delhi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Asha Jayadevan",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Emily Zimmermann",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Thomas Simpson",
+    "affiliation": "NewHaptics",
+    "role": "Speaker"
+  },
+  {
+    "name": "Patrick Burton",
+    "affiliation": "Benvision",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wesley Hulsizer",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hyun W. Ka",
+    "affiliation": "KAIST",
+    "role": "Speaker"
+  },
+  {
+    "name": "Roger Steinberg",
+    "affiliation": "HumanWare Technologies",
+    "role": "Speaker"
+  },
+  {
+    "name": "Doug Roland",
+    "affiliation": "Feeling Through Studio",
+    "role": "Speaker"
+  },
+  {
+    "name": "John Karr",
+    "affiliation": "American Printing House for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sam Hobson",
+    "affiliation": "Intopia",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bryan Wolynski",
+    "affiliation": "Lighthouse Guild",
+    "role": "Speaker"
+  },
+  {
+    "name": "Joshua Miele",
+    "affiliation": "Amazon Lab126",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Lovell",
+    "affiliation": "LexisNexis Legal and Professional",
+    "role": "Speaker"
+  },
+  {
+    "name": "Paul Rayius",
+    "affiliation": "Allyant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Skylar Covich",
+    "affiliation": "Braille Institute of America",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mahadeo Sukhai",
+    "affiliation": "Ontario Tech University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Montreece Payton-Hardy",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Laurie Pagano",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Keshav Bharadwaj",
+    "affiliation": "UNAR Labs",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jill Power",
+    "affiliation": "Pegasystems",
+    "role": "Speaker"
+  },
+  {
+    "name": "Akihiro Ota",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "James Stout",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kunal Mehta",
+    "affiliation": "Taskar Center for Accessible Technology at the Paul G. Allen School",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ariana Aboulafia",
+    "affiliation": "Center for Democracy & Technology",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nina Roby",
+    "affiliation": "Red Hat",
+    "role": "Speaker"
+  },
+  {
+    "name": "Claudio Luis Vera",
+    "affiliation": "Independent Consultant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anirudh Manjesh",
+    "affiliation": "Arizona State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cynthia Bennett",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rachel Kruzel",
+    "affiliation": "Texthelp",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ben Ogilvie",
+    "affiliation": "ArcTouch",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wendy Chouinard",
+    "affiliation": "Helen Keller National Center",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bryan Nay",
+    "affiliation": "HEROES VR Solutions",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sean Budd",
+    "affiliation": "NV Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ajay Sharma",
+    "affiliation": "HCL Tech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jonathan Pearlman",
+    "affiliation": "IMPACT Center at the University of Pittsburgh",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tetsuya Hirotomi",
+    "affiliation": "Shimane University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tamara Crasto",
+    "affiliation": "OCAD University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Carolina Crespo",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shari Gardner",
+    "affiliation": "SRI Education",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shilpi Kapoor",
+    "affiliation": "BarrierBreak",
+    "role": "Speaker"
+  },
+  {
+    "name": "Patrick Turnage",
+    "affiliation": "Florida School for the Deaf and the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Michael Bervell",
+    "affiliation": "TestParty",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jens Halvarsson",
+    "affiliation": "Textalk AB",
+    "role": "Speaker"
+  },
+  {
+    "name": "Toyohiko Hayashi",
+    "affiliation": "Niigata University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anthony Sahaf",
+    "affiliation": "Gallaudet University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anat Caspi",
+    "affiliation": "Taskar Center for Accessible Technology at the Paul G. Allen School",
+    "role": "Speaker"
+  },
+  {
+    "name": "Angela Young",
+    "affiliation": "Navy Federal Credit Union",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jule Ann Lieberman",
+    "affiliation": "TechOWL, Institute on Disabilities at Temple University",
+    "role": "Speaker"
+  },
+  {
+    "name": "J. Scott Yaruss",
+    "affiliation": "Michigan State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tiffany Wilson",
+    "affiliation": "WINS",
+    "role": "Speaker"
+  },
+  {
+    "name": "Matthew Luken",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Leon McNaught",
+    "affiliation": "CSU Chancellor's Office",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hari Prasath Palani",
+    "affiliation": "Northeastern University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marisha Lamont-Manfre",
+    "affiliation": "University of Colorado Boulder",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ryan Jones",
+    "affiliation": "Vispero",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brian Elton",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dax Castro",
+    "affiliation": "Chax Training and Consulting",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chris Zhang",
+    "affiliation": "AWS Elemental",
+    "role": "Speaker"
+  },
+  {
+    "name": "Carol Christian",
+    "affiliation": "Space Telescope Science Institute",
+    "role": "Speaker"
+  },
+  {
+    "name": "John Lilly",
+    "affiliation": "TPGi",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brianna Wimer",
+    "affiliation": "University of Notre Dame",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rashmi T Garimella",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rick Ferrie",
+    "affiliation": "Savvas Learning Company",
+    "role": "Speaker"
+  },
+  {
+    "name": "Michael Harshbarger",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dee Dyer",
+    "affiliation": "ETS",
+    "role": "Speaker"
+  },
+  {
+    "name": "Yuto Iwakami",
+    "affiliation": "Shibaura Institute of Technology",
+    "role": "Speaker"
+  },
+  {
+    "name": "Terra Masiel",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marcelo Paiva",
+    "affiliation": "Independent Consultant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Sam Ogami",
+    "affiliation": "Workday",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cory Joseph",
+    "affiliation": "CVS Health",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jenn Evans",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Julie Cattiau",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Anne Ross",
+    "affiliation": "Bucknell University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Timothy Gels",
+    "affiliation": "Eschenbach",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jesse Greenberg",
+    "affiliation": "Department of Physics, University of Colorado Boulder, Boulder, CO",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shaun Kane",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Simon Varey",
+    "affiliation": "Fizz Studio",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jaeyun Kim",
+    "affiliation": "KAIST",
+    "role": "Speaker"
+  },
+  {
+    "name": "Elizabeth Linnetz",
+    "affiliation": "Level Access Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Brian Richwine",
+    "affiliation": "Indiana University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jean-Yves Moyen",
+    "affiliation": "Siteimprove",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeanne Wielgus",
+    "affiliation": "Cal Poly Humboldt",
+    "role": "Speaker"
+  },
+  {
+    "name": "Emma Hossenlopp",
+    "affiliation": "Vista Higher Learning",
+    "role": "Speaker"
+  },
+  {
+    "name": "Donald Olson",
+    "affiliation": "National Library Service for the Blind and Print Disabled, Library of Congress",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kyle Shachmut",
+    "affiliation": "Harvard University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kai Matsuguma",
+    "affiliation": "Shibaura Institute of Technology",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jim Stachowiak",
+    "affiliation": "Northwestern University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nikki Kuhn",
+    "affiliation": "Sca11ywag",
+    "role": "Speaker"
+  },
+  {
+    "name": "Stacy Jones",
+    "affiliation": "Los Angeles Unified School District",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeffrey Singleton",
+    "affiliation": "Converge Accessibility LLC",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chuck Adams",
+    "affiliation": "Oracle",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jennifer Strickland",
+    "affiliation": "The MITRE Corporation",
+    "role": "Speaker"
+  },
+  {
+    "name": "Christopher Land",
+    "affiliation": "Oracle",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mark Tamura",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jennifer Wenzel",
+    "affiliation": "American Printing House for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Rachel Comerford",
+    "affiliation": "Macmillan Learning",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jay Pope",
+    "affiliation": "Pope Tech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Takahiro Miura",
+    "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Toshimitsu Yamaguchi",
+    "affiliation": "Niigata University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jason Martin",
+    "affiliation": "American Printing House for the Blind",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jean Ducrot",
+    "affiliation": "Elsevier",
+    "role": "Speaker"
+  },
+  {
+    "name": "Seth Leblond",
+    "affiliation": "CATT - Center for Assistive Technology Training",
+    "role": "Speaker"
+  },
+  {
+    "name": "Doug Schepers",
+    "affiliation": "Fizz Studio",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lainey Feingold",
+    "affiliation": "Law Office of Lainey Feingold",
+    "role": "Speaker"
+  },
+  {
+    "name": "Dave Williams",
+    "affiliation": "RNIB",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ally Bartley",
+    "affiliation": "University of Colorado Boulder",
+    "role": "Speaker"
+  },
+  {
+    "name": "Michael Mace",
+    "affiliation": "Indiana University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Evan Borisinkoff",
+    "affiliation": "Minot State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Tehmina Z. Ali",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Chintan Ghate",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Carolyn Schoenian",
+    "affiliation": "Certified Accessibility Consultant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kristi Saney",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Li Liu",
+    "affiliation": "CSU Northridge",
+    "role": "Speaker"
+  },
+  {
+    "name": "Bryan Ward",
+    "affiliation": "Helen Keller National Center",
+    "role": "Speaker"
+  },
+  {
+    "name": "Vinod Namboodiri",
+    "affiliation": "Lehigh University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ibuki Shoji",
+    "affiliation": "Kogakkan University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marc Angelier",
+    "affiliation": "The Braille Program",
+    "role": "Speaker"
+  },
+  {
+    "name": "Matisse Hamel-Nelis",
+    "affiliation": "Matisse Nelis Consulting",
+    "role": "Speaker"
+  },
+  {
+    "name": "Emily Lawrence",
+    "affiliation": "Accenture Federal Services",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mariah Moon",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Carlos Cordero",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ted Gies",
+    "affiliation": "Elsevier",
+    "role": "Speaker"
+  },
+  {
+    "name": "Neil Soiffer",
+    "affiliation": "Talking Cat Software",
+    "role": "Speaker"
+  },
+  {
+    "name": "Quentin Christensen",
+    "affiliation": "NV Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Owen Chong",
+    "affiliation": "National Aeronautics and Space Administration (NASA)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wilco Fiers",
+    "affiliation": "Deque Systems, Inc.",
+    "role": "Speaker"
+  },
+  {
+    "name": "Fumihito Ito",
+    "affiliation": "Shimane University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Nicholas Seow",
+    "affiliation": "Elsevier",
+    "role": "Speaker"
+  },
+  {
+    "name": "Shane Dittmar",
+    "affiliation": "CVS Health",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marilyn Hoss",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Fernando Macias",
+    "affiliation": "LightHouse for the Blind and Visually Impaired (San Francisco)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Natalina Martiniello",
+    "affiliation": "Université de Montréal",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jennifer Sharp",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "David Barter",
+    "affiliation": "OCAD University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeff Jullion",
+    "affiliation": "Allyant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Hana Levay",
+    "affiliation": "University of Washington",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jay Nemchik",
+    "affiliation": "Elsevier",
+    "role": "Speaker"
+  },
+  {
+    "name": "Megan Cackett",
+    "affiliation": "Google",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jessica Sanford",
+    "affiliation": "Amazon",
+    "role": "Speaker"
+  },
+  {
+    "name": "Kristina Launey",
+    "affiliation": "Seyfarth Shaw",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jen Tennison",
+    "affiliation": "Saint Louis University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Robin Eckelberry",
+    "affiliation": "Nelnet",
+    "role": "Speaker"
+  },
+  {
+    "name": "Maureen Barrientos",
+    "affiliation": "Walmart International",
+    "role": "Speaker"
+  },
+  {
+    "name": "Gerald Hartig",
+    "affiliation": "NV Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jenny Lay-Flurrie",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Cary Supalo",
+    "affiliation": "Educational Testing Service",
+    "role": "Speaker"
+  },
+  {
+    "name": "Wenjing Zheng",
+    "affiliation": "Minot State University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Corbb O'Connor",
+    "affiliation": "Level Access",
+    "role": "Speaker"
+  },
+  {
+    "name": "Eddie Leonard",
+    "affiliation": "Microsoft",
+    "role": "Speaker"
+  },
+  {
+    "name": "Ryan Wieland",
+    "affiliation": "Allyant",
+    "role": "Speaker"
+  },
+  {
+    "name": "Jennifer Zhang",
+    "affiliation": "RaLytics",
+    "role": "Speaker"
+  },
+  {
+    "name": "Will Ringland",
+    "affiliation": "Epic",
+    "role": "Speaker"
+  },
+  {
+    "name": "Manaka Hirao",
+    "affiliation": "Shimane University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Eric Beauchamp",
+    "affiliation": "HumanWare",
+    "role": "Speaker"
+  },
+  {
+    "name": "Erin Callaghan",
+    "affiliation": null,
+    "role": "Speaker"
+  },
+  {
+    "name": "Jeffrey Colon",
+    "affiliation": "Lighthouse for the Blind and Visually Impaired (San Francisco)",
+    "role": "Speaker"
+  },
+  {
+    "name": "Marie Oddoux",
+    "affiliation": "The Braille Program",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mary Albert",
+    "affiliation": "Princeton University",
+    "role": "Speaker"
+  },
+  {
+    "name": "Lindsay Cisar",
+    "affiliation": "Verbit",
+    "role": "Speaker"
+  },
+  {
+    "name": "Carrie Farber",
+    "affiliation": "Walmart",
+    "role": "Speaker"
+  },
+  {
+    "name": "Mark Pope",
+    "affiliation": "Pope Tech",
+    "role": "Speaker"
+  },
+  {
+    "name": "Julia Sohnen",
+    "affiliation": "Apple, Inc",
+    "role": "Speaker"
+  },
+  {
+    "name": "Matthew Schwartz",
+    "affiliation": "Verbit",
+    "role": "Speaker"
+  }
+]

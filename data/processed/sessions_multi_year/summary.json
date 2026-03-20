@@ -1,0 +1,50 @@
+{
+  "total_sessions": 645,
+  "years": [
+    2023,
+    2024
+  ],
+  "tracks": {
+    "General Track": 539,
+    "Exhibitor Track": 66,
+    "Journal Track": 40
+  },
+  "topics": {
+    "Digital Accessibility": 143,
+    "Blind/Low Vision": 100,
+    "": 71,
+    "Education": 55,
+    "Leadership & Strategy": 30,
+    "Artificial Intelligence (AI) & Machine Learning (ML)": 26,
+    "Design": 24,
+    "Web": 18,
+    "Mobile Technology": 17,
+    "Development": 16,
+    "Employment & Workplace": 13,
+    "Information & Communications Technology (ICT)": 13,
+    "Evaluation & Remediation": 13,
+    "Emerging Technologies": 12,
+    "Law, Compliance, and Policy": 10,
+    "Deaf and Hard of Hearing": 10,
+    "Independent Living": 9,
+    "Cognitive & Learning Disabilities": 9,
+    "Research": 9,
+    "Captions & Transcription": 7,
+    "Product Demonstration": 7,
+    "Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)": 6,
+    "Gaming & Interactive Entertainment": 6,
+    "Mobility": 6,
+    "Engineering": 4,
+    "Augmentative and Alternative Communications (AAC)": 4,
+    "School-to-Work Transitioning": 3,
+    "Healthcare & Rehabilitation": 3,
+    "Leisure & Travel": 1
+  },
+  "audience_levels": {
+    "Beginning": 321,
+    "Intermediate": 309,
+    "Advanced": 15
+  },
+  "sessions_with_papers": 0,
+  "avg_presenters_per_session": 1.7
+}

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env.local
+.env.*.local
+
+# Data (large files, scraped content)
+data/raw/html_cache/
+data/raw/papers/
+data/raw/brochures/
+*.pdf
+
+# Generated sites
+site/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+uv.lock

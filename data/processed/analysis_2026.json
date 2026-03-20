@@ -1,0 +1,1296 @@
+{
+  "total_sessions": 359,
+  "unique_presenters": 512,
+  "unique_organizations": 296,
+  "primary_topic_distribution": [
+    {
+      "name": "Digital Accessibility",
+      "count": 138,
+      "percentage": 42.2
+    },
+    {
+      "name": "Design",
+      "count": 62,
+      "percentage": 19.0
+    },
+    {
+      "name": "Blind & Low Vision",
+      "count": 46,
+      "percentage": 14.1
+    },
+    {
+      "name": "Emerging Technologies",
+      "count": 17,
+      "percentage": 5.2
+    },
+    {
+      "name": "Mobile Technology",
+      "count": 11,
+      "percentage": 3.4
+    },
+    {
+      "name": "Product Demonstration",
+      "count": 11,
+      "percentage": 3.4
+    },
+    {
+      "name": "Education",
+      "count": 10,
+      "percentage": 3.1
+    },
+    {
+      "name": "Employment & Workplace",
+      "count": 8,
+      "percentage": 2.4
+    },
+    {
+      "name": "Engineering",
+      "count": 4,
+      "percentage": 1.2
+    },
+    {
+      "name": "Leisure & Travel",
+      "count": 3,
+      "percentage": 0.9
+    },
+    {
+      "name": "Independent Living",
+      "count": 3,
+      "percentage": 0.9
+    },
+    {
+      "name": "ICT",
+      "count": 2,
+      "percentage": 0.6
+    },
+    {
+      "name": "Healthcare & Rehabilitation",
+      "count": 2,
+      "percentage": 0.6
+    },
+    {
+      "name": "AI & Machine Learning",
+      "count": 2,
+      "percentage": 0.6
+    },
+    {
+      "name": "Video & Live Streaming",
+      "count": 2,
+      "percentage": 0.6
+    },
+    {
+      "name": "Research",
+      "count": 2,
+      "percentage": 0.6
+    },
+    {
+      "name": "Cognitive & Learning Disabilities",
+      "count": 1,
+      "percentage": 0.3
+    },
+    {
+      "name": "Web",
+      "count": 1,
+      "percentage": 0.3
+    },
+    {
+      "name": "Law, Compliance & Policy",
+      "count": 1,
+      "percentage": 0.3
+    },
+    {
+      "name": "Leadership & Strategy",
+      "count": 1,
+      "percentage": 0.3
+    }
+  ],
+  "all_topic_distribution": [
+    {
+      "name": "Digital Accessibility",
+      "count": 181,
+      "percentage": 19.4
+    },
+    {
+      "name": "Blind & Low Vision",
+      "count": 111,
+      "percentage": 11.9
+    },
+    {
+      "name": "AI & Machine Learning",
+      "count": 84,
+      "percentage": 9.0
+    },
+    {
+      "name": "Education",
+      "count": 70,
+      "percentage": 7.5
+    },
+    {
+      "name": "Design",
+      "count": 62,
+      "percentage": 6.7
+    },
+    {
+      "name": "Development",
+      "count": 49,
+      "percentage": 5.3
+    },
+    {
+      "name": "Leadership & Strategy",
+      "count": 45,
+      "percentage": 4.8
+    },
+    {
+      "name": "Emerging Technologies",
+      "count": 37,
+      "percentage": 4.0
+    },
+    {
+      "name": "Research",
+      "count": 30,
+      "percentage": 3.2
+    },
+    {
+      "name": "Law, Compliance & Policy",
+      "count": 28,
+      "percentage": 3.0
+    },
+    {
+      "name": "ICT",
+      "count": 28,
+      "percentage": 3.0
+    },
+    {
+      "name": "Evaluation & Remediation",
+      "count": 27,
+      "percentage": 2.9
+    },
+    {
+      "name": "Cognitive & Learning Disabilities",
+      "count": 24,
+      "percentage": 2.6
+    },
+    {
+      "name": "Web",
+      "count": 24,
+      "percentage": 2.6
+    },
+    {
+      "name": "Deaf & Hard of Hearing",
+      "count": 20,
+      "percentage": 2.1
+    },
+    {
+      "name": "Independent Living",
+      "count": 16,
+      "percentage": 1.7
+    },
+    {
+      "name": "Product Demonstration",
+      "count": 16,
+      "percentage": 1.7
+    },
+    {
+      "name": "Employment & Workplace",
+      "count": 14,
+      "percentage": 1.5
+    },
+    {
+      "name": "Mobile Technology",
+      "count": 12,
+      "percentage": 1.3
+    },
+    {
+      "name": "Engineering",
+      "count": 11,
+      "percentage": 1.2
+    },
+    {
+      "name": "Gaming & Interactive Entertainment",
+      "count": 9,
+      "percentage": 1.0
+    },
+    {
+      "name": "Mobility",
+      "count": 8,
+      "percentage": 0.9
+    },
+    {
+      "name": "Captions & Transcription",
+      "count": 7,
+      "percentage": 0.8
+    },
+    {
+      "name": "Augmentative & Alternative Communication",
+      "count": 6,
+      "percentage": 0.6
+    },
+    {
+      "name": "Video & Live Streaming",
+      "count": 4,
+      "percentage": 0.4
+    },
+    {
+      "name": "Leisure & Travel",
+      "count": 3,
+      "percentage": 0.3
+    },
+    {
+      "name": "Healthcare & Rehabilitation",
+      "count": 3,
+      "percentage": 0.3
+    },
+    {
+      "name": "School-to-Work Transition",
+      "count": 2,
+      "percentage": 0.2
+    },
+    {
+      "name": "VR/AR/XR",
+      "count": 1,
+      "percentage": 0.1
+    }
+  ],
+  "audience_level_distribution": [
+    {
+      "name": "Intermediate",
+      "count": 188,
+      "percentage": 52.4
+    },
+    {
+      "name": "Beginning",
+      "count": 149,
+      "percentage": 41.5
+    },
+    {
+      "name": "Not specified",
+      "count": 13,
+      "percentage": 3.6
+    },
+    {
+      "name": "Advanced",
+      "count": 9,
+      "percentage": 2.5
+    }
+  ],
+  "target_audience_distribution": [
+    {
+      "name": "Information & Communications Technology",
+      "count": 224,
+      "percentage": 14.1
+    },
+    {
+      "name": "Higher Education",
+      "count": 153,
+      "percentage": 9.6
+    },
+    {
+      "name": "Research & Development",
+      "count": 151,
+      "percentage": 9.5
+    },
+    {
+      "name": "Disability Specific",
+      "count": 147,
+      "percentage": 9.3
+    },
+    {
+      "name": "K-12 Education",
+      "count": 110,
+      "percentage": 6.9
+    },
+    {
+      "name": "Government",
+      "count": 103,
+      "percentage": 6.5
+    },
+    {
+      "name": "Media & Publishing",
+      "count": 79,
+      "percentage": 5.0
+    },
+    {
+      "name": "Healthcare & Rehabilitation",
+      "count": 75,
+      "percentage": 4.7
+    },
+    {
+      "name": "Entertainment & Recreation",
+      "count": 72,
+      "percentage": 4.5
+    },
+    {
+      "name": "Administration & Business Support",
+      "count": 67,
+      "percentage": 4.2
+    },
+    {
+      "name": "Employment & Human Resources",
+      "count": 64,
+      "percentage": 4.0
+    },
+    {
+      "name": "Marketing",
+      "count": 64,
+      "percentage": 4.0
+    },
+    {
+      "name": "Finance & Banking",
+      "count": 55,
+      "percentage": 3.5
+    },
+    {
+      "name": "Legal",
+      "count": 49,
+      "percentage": 3.1
+    },
+    {
+      "name": "Retail & Wholesale",
+      "count": 44,
+      "percentage": 2.8
+    },
+    {
+      "name": "Transportation",
+      "count": 29,
+      "percentage": 1.8
+    },
+    {
+      "name": "Sales",
+      "count": 26,
+      "percentage": 1.6
+    },
+    {
+      "name": "Insurance",
+      "count": 26,
+      "percentage": 1.6
+    },
+    {
+      "name": "Manufacturing",
+      "count": 25,
+      "percentage": 1.6
+    },
+    {
+      "name": "Agriculture",
+      "count": 12,
+      "percentage": 0.8
+    },
+    {
+      "name": "Military",
+      "count": 11,
+      "percentage": 0.7
+    }
+  ],
+  "sessions_per_day": [
+    {
+      "date": "2026-03-10",
+      "count": 52
+    },
+    {
+      "date": "2026-03-11",
+      "count": 114
+    },
+    {
+      "date": "2026-03-12",
+      "count": 108
+    },
+    {
+      "date": "2026-03-13",
+      "count": 85
+    }
+  ],
+  "location_utilization": [
+    {
+      "name": "Platinum 6",
+      "count": 29,
+      "percentage": 8.1
+    },
+    {
+      "name": "Elite 3 - Journal Track",
+      "count": 24,
+      "percentage": 6.7
+    },
+    {
+      "name": "Orange County 2",
+      "count": 24,
+      "percentage": 6.7
+    },
+    {
+      "name": "Platinum 9",
+      "count": 24,
+      "percentage": 6.7
+    },
+    {
+      "name": "Grand CD",
+      "count": 24,
+      "percentage": 6.7
+    },
+    {
+      "name": "Grand AB",
+      "count": 23,
+      "percentage": 6.4
+    },
+    {
+      "name": "Grand JK",
+      "count": 23,
+      "percentage": 6.4
+    },
+    {
+      "name": "Platinum 8",
+      "count": 23,
+      "percentage": 6.4
+    },
+    {
+      "name": "Grand GH",
+      "count": 22,
+      "percentage": 6.1
+    },
+    {
+      "name": "Orange County 1",
+      "count": 22,
+      "percentage": 6.1
+    },
+    {
+      "name": "Elite 1-2",
+      "count": 21,
+      "percentage": 5.8
+    },
+    {
+      "name": "Platinum 2 - Vispero",
+      "count": 16,
+      "percentage": 4.5
+    },
+    {
+      "name": "Platinum 3 - Deque",
+      "count": 15,
+      "percentage": 4.2
+    },
+    {
+      "name": "Orange County 3-4",
+      "count": 13,
+      "percentage": 3.6
+    },
+    {
+      "name": "Platinum 1 - Level Access",
+      "count": 11,
+      "percentage": 3.1
+    },
+    {
+      "name": "Platinum 4 - Amazon",
+      "count": 10,
+      "percentage": 2.8
+    },
+    {
+      "name": "Orange County 3",
+      "count": 10,
+      "percentage": 2.8
+    },
+    {
+      "name": "Orange County 4",
+      "count": 10,
+      "percentage": 2.8
+    },
+    {
+      "name": "Platinum 7 - AudioEye",
+      "count": 6,
+      "percentage": 1.7
+    },
+    {
+      "name": "Platinum 10",
+      "count": 4,
+      "percentage": 1.1
+    },
+    {
+      "name": "Platinum 5",
+      "count": 4,
+      "percentage": 1.1
+    },
+    {
+      "name": "Platinum Patio",
+      "count": 1,
+      "percentage": 0.3
+    }
+  ],
+  "top_organizations": [
+    {
+      "name": "Vispero",
+      "count": 21,
+      "percentage": 3.3
+    },
+    {
+      "name": "Google",
+      "count": 21,
+      "percentage": 3.3
+    },
+    {
+      "name": "Deque",
+      "count": 15,
+      "percentage": 2.4
+    },
+    {
+      "name": "Level Access",
+      "count": 14,
+      "percentage": 2.2
+    },
+    {
+      "name": "Microsoft",
+      "count": 13,
+      "percentage": 2.1
+    },
+    {
+      "name": "Amazon",
+      "count": 12,
+      "percentage": 1.9
+    },
+    {
+      "name": "AudioEye",
+      "count": 7,
+      "percentage": 1.1
+    },
+    {
+      "name": "California Department of Social Services",
+      "count": 7,
+      "percentage": 1.1
+    },
+    {
+      "name": "Gallaudet University",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Allyant",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Intuit",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "TAB",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "National Library Service for the Blind and Print Disabled, Library of Congress",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Elsevier",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Fizz Studio",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Apple, Inc",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Nike",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "RNIB",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "LG Electronics",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Sony Group Corporation",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Salesforce",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Nelnet",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "TruCare Provider Services",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "National Center on Accessible Digital Educational Materials & Instruction",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "National Aeronautics and Space Administration (NASA)",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Ebay",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Dot Inc",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Intopia",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Mayo Clinic",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Be My Eyes",
+      "count": 4,
+      "percentage": 0.6
+    }
+  ],
+  "top_presenters": [
+    {
+      "name": "Sheri Byrne-Haber",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Corbb O'Connor",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Dylan Barrell",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Preety Kumar",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "David Sloan",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Raja Kushalnagar",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Marco Salsiccia",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Kanit Pamanee",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Meredith Tully",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Gregory Matthews",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Klaus Hoeckner",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Chancey Fleet",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Michael Paciello",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Alysha Hiller",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Brandon Biggs",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Wilco Fiers",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Nat Tarnoff",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Tina Gonzales Childress",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Anna Chou",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Takahiro Miura",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Ann Knettler",
+      "count": 3,
+      "percentage": 0.5
+    },
+    {
+      "name": "Zhigang Zhu",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Michael Fairchild",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Marc Lind",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Bryan Ward",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Rachel Ramos",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Christopher Phillips",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Jena Fahlbush",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Blake Bertuccelli-Booth",
+      "count": 2,
+      "percentage": 0.3
+    },
+    {
+      "name": "Rahul Kumar",
+      "count": 2,
+      "percentage": 0.3
+    }
+  ],
+  "content_tags": {
+    "sessions_with_tags": 0,
+    "unique_tags": 0,
+    "distribution": []
+  },
+  "ai_ml_analysis": {
+    "total_ai_sessions": 48,
+    "percentage_of_all": 13.4,
+    "titles": [
+      "A Multimodal AI-Powered Travel Assistant Geo-App for BLV Users",
+      "Embedding Accessibility into AI Based Software Development",
+      "Accessibility Fairness in AI: Case Study on ChatGPT and Gemini",
+      "Inclusio: A One-Stop Shop for Interoperable, Accessible Graphics",
+      "Usability and Accessibility Regression: A Live-User Data Study",
+      "Accessibility at Scale: Maximizing Coverage and Quality",
+      "Is AI Good for the DeafBlind Community?",
+      "AI for Accessibility: Balancing Automation with Human Oversight",
+      "AI: Your Superpower for Shifting Accessibility Left",
+      "Dark Patterns in Accessibility Settings: How UX Choices Obstruct",
+      "Artificial Intelligence, In & On Your Face",
+      "LMS Quick and Easy PDF Document Accessibility",
+      "Automated Testing for iOS and MacOS Apps",
+      "Beyond the Checker, Manual Testing to Ensure A11y of PDFs.",
+      "Designing Indoor Wayfinding Assistive Technologies",
+      "New Experience for DAISY Books with GenAI",
+      "Productivity Reimagined: Leveraging AI & Copilot in M365 Apps",
+      "Automated Accessibility Testing for Design Systems Using AI",
+      "Using Artificial Intelligence (AI) to Build Accessible Apps",
+      "Identifying Stains in Clothing for Individuals Who Are Blind",
+      "The Digital Accessibility Problem Is Not What You Think It Is",
+      "The Future in Focus: AI-Enabled Devices That Empower",
+      "Copilot for Maps: Privacy\u2011First Conversational Design",
+      "Improving Media Accessibility at Global Scale",
+      "Scaffold Learning with Generative AI: How to Train Your AI Dragon",
+      "Automation Beyond Axe Core",
+      "Custom AI Chatbots for Student Accessibility and Solutions",
+      "Is Your Website \"Automated Checker Friendly\"?",
+      "Unlocking Data Visualization Accessibility with Generative AI",
+      "Birds of a Feather: Accessibility & AI",
+      "Dynamic Generation of Navigable Alt Text for STEM Visuals",
+      "Smart Dashboards for Accessibility Maturity",
+      "Balancing Automation and Human Insight in Mobile Testing",
+      "Storytelling for Inclusive Data Access (With or Without AI)",
+      "A Playbook for Accessible Chatbots and AI Agents",
+      "Enhancing Rules-Based Automated Testing with Machine Learning Inference",
+      "Route Selection by GPS Reliability for the Visually Impaired",
+      "The A11y of Driving",
+      "Accessibility Checklists Lie: What They Miss and Why It Matters",
+      "AccessTrader: A Bridge to Financial Independence for All",
+      "From Compliance to Culture-Scaling Document Accessibility with AI",
+      "Generative AI\u2019s Potential to Supporting Deficits in Reading Comprehension",
+      "Get the Most Out of GitHub with Continuous AI for Accessibility",
+      "Using an AI Agent to Assist Student Data Literacy and Exploration",
+      "AI & The Future of Accessible Documents",
+      "Vibe Coding Accessibility",
+      "Voice ATs in the Age of AI",
+      "AI for Touch: Generative Tools for Scalable Tactile Access"
+    ],
+    "topic_overlap": [
+      {
+        "name": "AI & Machine Learning",
+        "count": 31,
+        "percentage": 25.0
+      },
+      {
+        "name": "Digital Accessibility",
+        "count": 26,
+        "percentage": 21.0
+      },
+      {
+        "name": "Blind & Low Vision",
+        "count": 16,
+        "percentage": 12.9
+      },
+      {
+        "name": "Emerging Technologies",
+        "count": 8,
+        "percentage": 6.5
+      },
+      {
+        "name": "Development",
+        "count": 6,
+        "percentage": 4.8
+      },
+      {
+        "name": "Design",
+        "count": 4,
+        "percentage": 3.2
+      },
+      {
+        "name": "Education",
+        "count": 4,
+        "percentage": 3.2
+      },
+      {
+        "name": "Law, Compliance & Policy",
+        "count": 4,
+        "percentage": 3.2
+      },
+      {
+        "name": "Product Demonstration",
+        "count": 4,
+        "percentage": 3.2
+      },
+      {
+        "name": "Mobile Technology",
+        "count": 3,
+        "percentage": 2.4
+      },
+      {
+        "name": "Evaluation & Remediation",
+        "count": 3,
+        "percentage": 2.4
+      },
+      {
+        "name": "ICT",
+        "count": 2,
+        "percentage": 1.6
+      },
+      {
+        "name": "Deaf & Hard of Hearing",
+        "count": 2,
+        "percentage": 1.6
+      },
+      {
+        "name": "Engineering",
+        "count": 2,
+        "percentage": 1.6
+      },
+      {
+        "name": "Leadership & Strategy",
+        "count": 2,
+        "percentage": 1.6
+      },
+      {
+        "name": "Web",
+        "count": 2,
+        "percentage": 1.6
+      },
+      {
+        "name": "Mobility",
+        "count": 2,
+        "percentage": 1.6
+      },
+      {
+        "name": "Independent Living",
+        "count": 1,
+        "percentage": 0.8
+      },
+      {
+        "name": "Research",
+        "count": 1,
+        "percentage": 0.8
+      },
+      {
+        "name": "Cognitive & Learning Disabilities",
+        "count": 1,
+        "percentage": 0.8
+      }
+    ],
+    "ai_org_distribution": [
+      {
+        "name": "Microsoft",
+        "count": 7,
+        "percentage": 8.5
+      },
+      {
+        "name": "Fizz Studio",
+        "count": 5,
+        "percentage": 6.1
+      },
+      {
+        "name": "Thai Blind People's Foundation",
+        "count": 3,
+        "percentage": 3.7
+      },
+      {
+        "name": "Vispero",
+        "count": 3,
+        "percentage": 3.7
+      },
+      {
+        "name": "AccessibleWorld",
+        "count": 3,
+        "percentage": 3.7
+      },
+      {
+        "name": "San Jose State University",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "Allyant",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "AudioEye",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "Yahoo",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "Amazon",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "Siteimprove",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "Alchemie",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "GrackleDocs",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "Dot Inc",
+        "count": 2,
+        "percentage": 2.4
+      },
+      {
+        "name": "The City College of The City University of New York",
+        "count": 1,
+        "percentage": 1.2
+      }
+    ]
+  },
+  "accessibility_testing_analysis": {
+    "total_sessions": 75,
+    "percentage_of_all": 20.9,
+    "titles": [
+      "A Multimodal AI-Powered Travel Assistant Geo-App for BLV Users",
+      "Digital Accessibility: Legal Update and Hot Topics",
+      "The Evolution of Accessibility: Compliance to Optimized Usability",
+      "Comparing Accessibility of Tooltips, Modals, Popups, Accordions",
+      "Tech4Me: Plug in and Power up Competitive Integrated Employment",
+      "ADA Title II and You: Document Accessibility in Your Office",
+      "Evo-Web: An A11Y-First Approach to Building UI Components at eBay",
+      "Procuring Accessible Technology: Best Practices for Compliance",
+      "Using JAWS Inspect as a Screen Reader UX Experience Design Tool",
+      "Advanced Strategies for Web Accessibility Testing",
+      "Algorithmic Justice: Dismantling AI Bias",
+      "ATaaS: Driving Agility with Scalable Accessibility Teams",
+      "Cross Contextual Explorations of Executive Skills in Schools",
+      "Is 100% Conformance Possible? Balancing Perfect vs Practical",
+      "Accessibility at Scale: Closing the 97% Gap",
+      "Ally Keys: A Keyboard Testing Solution for Mobile",
+      "Better Evaluations for Everyone: What\u2019s New in Updated WCAG-EM",
+      "Systematically Evaluating Equivalent Purpose for Digital Maps",
+      "Automated Testing for iOS and MacOS Apps",
+      "Beyond the Checker, Manual Testing to Ensure A11y of PDFs.",
+      "Future of WCAG 3.0",
+      "Automated Accessibility Testing for Design Systems Using AI",
+      "Beginner\u2019s Guide to Web Accessibility Testing",
+      "Non-Developer Case Study: Section 508 in Non-Web Applications",
+      "Proactive Accessibility for Reducing Legal Risk",
+      "W3C WAI Update 2026: WCAG 2, WCAG 3, User Experiences, Resources",
+      "Who Cares If Screen Readers Say the Right Thing?",
+      "Beyond Compliance: Managing Accessibility as a Product",
+      "Beyond Consumption: BLV Community Producing Mapping Data",
+      "Beyond the Pixels: Re-Anchoring Meaning in Alt Text Systems",
+      "Blurry Lines: Anti-Patterns Impacting Low Vision Experience",
+      "Can You R-E-A-D Me Now?",
+      "Certificate in Foundation of Accessibility at College of the Desert",
+      "Evaluating VLMs to Generate Accessible STEM Image Descriptions",
+      "Extending Web Platform Tests for Accessibility Interoperability",
+      "From Data to Design: Driving UX with Accessibility Metrics",
+      "Breaking Down the Barriers of Workplace Inaccessibility",
+      "Closing Gaps & Improving Access to Digital Materials for Students",
+      "Getting Real about Accessibility Testing",
+      "Improving Media Accessibility at Global Scale",
+      "Making Sense of VPATs and ACRs: What You Need to Know",
+      "Making Unilever\u2019s Packaging Accessible for Everyone",
+      "Storytelling through Captioning",
+      "The PDF Accessibility Index: 2025-2026 Benchmark Report",
+      "Gulf of Evaluation? Don\u2019t Make Me Think\u2026 like a Designer!",
+      "Is Your Website \"Automated Checker Friendly\"?",
+      "Beyond the User Interface: The Importance of Documenting Accessibility Efforts",
+      "Enhancing Employee Experience with Accessible L&D",
+      "Leveraging AI for A11y: Lessons in Validation and Safeguarding",
+      "Beyond Compliance: Building Design Systems for Inclusivity",
+      "Competitive Advantage in Higher Ed",
+      "Scaling Mobile Accessibility with Google Open Source Libraries",
+      "Smart Dashboards for Accessibility Maturity",
+      "Standards in Practice: Accessibility Capabilities Post-Source",
+      "Balancing Automation and Human Insight in Mobile Testing",
+      "A Playbook for Accessible Chatbots and AI Agents",
+      "Enhancing Rules-Based Automated Testing with Machine Learning Inference",
+      "A11Y Research: Tools & Techniques for Meaningful Interviews",
+      "Accessibility Checklists Lie: What They Miss and Why It Matters",
+      "From ACRs to Action: AI Reveals Accessibility Gaps by Community",
+      "Making ArcGIS ESRI Maps Accessible",
+      "Accessible Assessments through Question Test Interoperability 3.0",
+      "CANCELLED: Object Comprehension and Representation by the Congenitally Blind",
+      "From Compliance to Culture-Scaling Document Accessibility with AI",
+      "Transforming Accessibility: AI Approaches for Higher Education",
+      "WCAG Without the Jargon: A Beginner\u2019s Guide",
+      "Fix Accessibility Processes Using the Web Accessibility Framework",
+      "My WCAG Wishlist: Closing Gaps Between Rules and Reality",
+      "Testing ICT Hardware for Multi-Standard Compliance",
+      "Birds of a Feather: Compliance in Practice",
+      "Building a Culture of Accessibility Leadership",
+      "Kurzweil: Math Reading That Works",
+      "\u201cShift-up Accessibility\u201d for Effective Accessibility Governance",
+      "AI & The Future of Accessible Documents",
+      "Mandate to Momentum: Partnering to Build an Accessibility Program"
+    ]
+  },
+  "track_distribution": [
+    {
+      "name": "AH Only Sessions",
+      "count": 355,
+      "percentage": 98.9
+    },
+    {
+      "name": "Unknown",
+      "count": 4,
+      "percentage": 1.1
+    }
+  ],
+  "avg_presenters_per_session": 1.75,
+  "presenter_count_distribution": [
+    {
+      "name": 1,
+      "count": 166,
+      "percentage": 46.2
+    },
+    {
+      "name": 2,
+      "count": 113,
+      "percentage": 31.5
+    },
+    {
+      "name": 3,
+      "count": 45,
+      "percentage": 12.5
+    },
+    {
+      "name": 4,
+      "count": 15,
+      "percentage": 4.2
+    },
+    {
+      "name": 0,
+      "count": 12,
+      "percentage": 3.3
+    },
+    {
+      "name": 5,
+      "count": 8,
+      "percentage": 2.2
+    }
+  ],
+  "presenter_role_distribution": [
+    {
+      "name": "CEO",
+      "count": 23,
+      "percentage": 3.7
+    },
+    {
+      "name": "Not specified",
+      "count": 13,
+      "percentage": 2.1
+    },
+    {
+      "name": "Professor",
+      "count": 9,
+      "percentage": 1.4
+    },
+    {
+      "name": "Executive member",
+      "count": 9,
+      "percentage": 1.4
+    },
+    {
+      "name": "Chief Accessibility Officer",
+      "count": 7,
+      "percentage": 1.1
+    },
+    {
+      "name": "Digital Accessibility Consultant",
+      "count": 7,
+      "percentage": 1.1
+    },
+    {
+      "name": "Accessibility Specialist",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Founder & CEO",
+      "count": 6,
+      "percentage": 1.0
+    },
+    {
+      "name": "Software Engineer",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Director",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Assistive Technology Specialist",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Product Manager",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Assistant Professor",
+      "count": 5,
+      "percentage": 0.8
+    },
+    {
+      "name": "Chief Product Officer",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Dr.",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Technical Assistance Specialist",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Founder",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "VP, Accessibility",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Director of Accessibility",
+      "count": 4,
+      "percentage": 0.6
+    },
+    {
+      "name": "Director, Thought Leadership",
+      "count": 3,
+      "percentage": 0.5
+    }
+  ],
+  "description_stats": {
+    "mean_length": 264.4,
+    "median_length": 269.0,
+    "min_length": 0,
+    "max_length": 587,
+    "sessions_with_description": 355,
+    "sessions_without_description": 4
+  },
+  "learning_objectives": {
+    "sessions_with_objectives": 346,
+    "sessions_without_objectives": 13,
+    "avg_objectives_per_session": 1.82
+  }
+}

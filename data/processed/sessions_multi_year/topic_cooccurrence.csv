@@ -1,0 +1,330 @@
+topic_1,topic_2,count
+Design,Development,71
+Design,Digital Accessibility,58
+Blind/Low Vision,Digital Accessibility,52
+Digital Accessibility,Web,49
+Development,Digital Accessibility,47
+Digital Accessibility,Education,44
+Digital Accessibility,Emerging Technologies,42
+Digital Accessibility,Information & Communications Technology (ICT),41
+Information & Communications Technology (ICT),Web,37
+Design,Web,36
+Development,Web,34
+Digital Accessibility,"Law, Compliance, and Policy",34
+Blind/Low Vision,Information & Communications Technology (ICT),32
+Captions & Transcription,Education,28
+Development,Information & Communications Technology (ICT),27
+Blind/Low Vision,Education,26
+Design,Information & Communications Technology (ICT),26
+Blind/Low Vision,Captions & Transcription,25
+Education,Information & Communications Technology (ICT),25
+Blind/Low Vision,Product Demonstration,25
+Design,Education,24
+Digital Accessibility,Employment & Workplace,24
+Education,Employment & Workplace,24
+Evaluation & Remediation,Web,23
+Blind/Low Vision,Design,23
+Development,Research,23
+Blind/Low Vision,Web,23
+Education,Emerging Technologies,22
+Digital Accessibility,Mobile Technology,22
+Design,Research,22
+Information & Communications Technology (ICT),"Law, Compliance, and Policy",21
+Captions & Transcription,Digital Accessibility,21
+Evaluation & Remediation,Information & Communications Technology (ICT),20
+Education,Web,20
+Digital Accessibility,Research,20
+Evaluation & Remediation,"Law, Compliance, and Policy",19
+Blind/Low Vision,Emerging Technologies,19
+Education,Product Demonstration,19
+Development,Engineering,18
+Development,Evaluation & Remediation,18
+"Law, Compliance, and Policy",Web,18
+Digital Accessibility,Evaluation & Remediation,18
+Design,Evaluation & Remediation,17
+Design,Engineering,17
+Blind/Low Vision,Deaf and Hard of Hearing,17
+Design,Leadership & Strategy,16
+Artificial Intelligence (AI) & Machine Learning (ML),Digital Accessibility,14
+Digital Accessibility,Product Demonstration,14
+Design,Emerging Technologies,14
+Development,Leadership & Strategy,14
+Design,Employment & Workplace,14
+Blind/Low Vision,Mobile Technology,14
+Education,Research,13
+Emerging Technologies,Employment & Workplace,13
+Emerging Technologies,Independent Living,13
+Information & Communications Technology (ICT),Research,13
+Blind/Low Vision,Research,13
+Digital Accessibility,Leadership & Strategy,13
+Blind/Low Vision,Development,13
+Information & Communications Technology (ICT),Leadership & Strategy,12
+Evaluation & Remediation,Leadership & Strategy,12
+Digital Accessibility,Engineering,12
+Captions & Transcription,Emerging Technologies,12
+Mobile Technology,Web,12
+"Law, Compliance, and Policy",Leadership & Strategy,12
+Education,Mobile Technology,11
+Captions & Transcription,Design,11
+Development,Education,11
+Leadership & Strategy,Web,11
+Information & Communications Technology (ICT),Product Demonstration,11
+Digital Accessibility,Healthcare & Rehabilitation,11
+Blind/Low Vision,Cognitive & Learning Disabilities,11
+Cognitive & Learning Disabilities,Deaf and Hard of Hearing,11
+Emerging Technologies,Information & Communications Technology (ICT),10
+Development,Emerging Technologies,10
+Development,Mobile Technology,10
+Engineering,Web,10
+Education,School-to-Work Transitioning,10
+Blind/Low Vision,Employment & Workplace,10
+Blind/Low Vision,Evaluation & Remediation,10
+Employment & Workplace,Leadership & Strategy,10
+Employment & Workplace,Information & Communications Technology (ICT),10
+Emerging Technologies,Healthcare & Rehabilitation,9
+Employment & Workplace,Web,9
+Development,"Law, Compliance, and Policy",9
+Leadership & Strategy,Research,9
+Captions & Transcription,Information & Communications Technology (ICT),9
+Design,Mobile Technology,9
+Artificial Intelligence (AI) & Machine Learning (ML),Blind/Low Vision,9
+Digital Accessibility,Video & Live Streaming,9
+Education,Evaluation & Remediation,9
+Education,"Law, Compliance, and Policy",9
+Deaf and Hard of Hearing,Digital Accessibility,9
+Information & Communications Technology (ICT),Mobile Technology,8
+Design,"Law, Compliance, and Policy",8
+"Law, Compliance, and Policy",Research,8
+Design,Product Demonstration,8
+Digital Accessibility,Independent Living,8
+Emerging Technologies,Mobile Technology,8
+Emerging Technologies,Product Demonstration,8
+Artificial Intelligence (AI) & Machine Learning (ML),Emerging Technologies,8
+Artificial Intelligence (AI) & Machine Learning (ML),Mobile Technology,8
+Blind/Low Vision,Mobility,8
+Captions & Transcription,Independent Living,8
+Captions & Transcription,Deaf and Hard of Hearing,7
+Cognitive & Learning Disabilities,Information & Communications Technology (ICT),7
+Blind/Low Vision,Healthcare & Rehabilitation,7
+Employment & Workplace,School-to-Work Transitioning,7
+Blind/Low Vision,Independent Living,7
+Digital Accessibility,School-to-Work Transitioning,7
+Emerging Technologies,Research,7
+Mobile Technology,Product Demonstration,7
+Research,Web,7
+Emerging Technologies,"Law, Compliance, and Policy",7
+Captions & Transcription,Product Demonstration,7
+Independent Living,Mobile Technology,6
+Captions & Transcription,Mobile Technology,6
+Cognitive & Learning Disabilities,Digital Accessibility,6
+Employment & Workplace,Independent Living,6
+Emerging Technologies,Evaluation & Remediation,6
+Healthcare & Rehabilitation,Independent Living,6
+Independent Living,Research,6
+Emerging Technologies,Leisure & Travel,6
+Blind/Low Vision,Engineering,6
+Employment & Workplace,Evaluation & Remediation,6
+Engineering,Information & Communications Technology (ICT),6
+Independent Living,Information & Communications Technology (ICT),6
+Employment & Workplace,"Law, Compliance, and Policy",5
+Engineering,Product Demonstration,5
+Development,Healthcare & Rehabilitation,5
+Engineering,Evaluation & Remediation,5
+Digital Accessibility,Gaming & Interactive Entertainment,5
+Digital Accessibility,Leisure & Travel,5
+Artificial Intelligence (AI) & Machine Learning (ML),Video & Live Streaming,5
+Digital Accessibility,Mobility,5
+Engineering,Research,5
+Digital Accessibility,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",5
+Emerging Technologies,Web,5
+Emerging Technologies,Mobility,5
+Emerging Technologies,Leadership & Strategy,5
+Artificial Intelligence (AI) & Machine Learning (ML),Research,5
+Deaf and Hard of Hearing,Education,5
+Deaf and Hard of Hearing,Mobility,5
+Evaluation & Remediation,Research,5
+Design,Gaming & Interactive Entertainment,5
+Artificial Intelligence (AI) & Machine Learning (ML),Education,5
+Blind/Low Vision,"Law, Compliance, and Policy",5
+Design,Independent Living,5
+Artificial Intelligence (AI) & Machine Learning (ML),Employment & Workplace,4
+Captions & Transcription,Mobility,4
+Blind/Low Vision,School-to-Work Transitioning,4
+Independent Living,Product Demonstration,4
+Education,Healthcare & Rehabilitation,4
+Deaf and Hard of Hearing,Emerging Technologies,4
+Independent Living,Leisure & Travel,4
+Blind/Low Vision,Video & Live Streaming,4
+Deaf and Hard of Hearing,Video & Live Streaming,4
+Captions & Transcription,School-to-Work Transitioning,4
+Independent Living,"Law, Compliance, and Policy",4
+Artificial Intelligence (AI) & Machine Learning (ML),Cognitive & Learning Disabilities,4
+Information & Communications Technology (ICT),School-to-Work Transitioning,4
+Artificial Intelligence (AI) & Machine Learning (ML),Deaf and Hard of Hearing,4
+Artificial Intelligence (AI) & Machine Learning (ML),Independent Living,4
+Design,Healthcare & Rehabilitation,4
+Artificial Intelligence (AI) & Machine Learning (ML),Engineering,4
+Captions & Transcription,Web,4
+Leisure & Travel,Mobile Technology,4
+Mobile Technology,School-to-Work Transitioning,4
+Artificial Intelligence (AI) & Machine Learning (ML),Development,4
+Evaluation & Remediation,Product Demonstration,4
+Mobile Technology,Research,4
+Development,Product Demonstration,4
+Employment & Workplace,Research,4
+Employment & Workplace,Product Demonstration,4
+Captions & Transcription,Employment & Workplace,4
+Cognitive & Learning Disabilities,Product Demonstration,4
+Cognitive & Learning Disabilities,Education,4
+Captions & Transcription,Evaluation & Remediation,3
+Captions & Transcription,Healthcare & Rehabilitation,3
+Artificial Intelligence (AI) & Machine Learning (ML),Design,3
+"Law, Compliance, and Policy",Mobile Technology,3
+Independent Living,Mobility,3
+Gaming & Interactive Entertainment,Product Demonstration,3
+Healthcare & Rehabilitation,Product Demonstration,3
+Artificial Intelligence (AI) & Machine Learning (ML),Captions & Transcription,3
+Healthcare & Rehabilitation,Mobility,3
+Leisure & Travel,Mobility,3
+Law,and Policy,3
+Evaluation & Remediation,Independent Living,3
+Deaf and Hard of Hearing,Development,3
+Mobile Technology,Video & Live Streaming,3
+Product Demonstration,Web,3
+Augmentative and Alternative Communications (AAC),Deaf and Hard of Hearing,3
+Product Demonstration,School-to-Work Transitioning,3
+Research,Video & Live Streaming,3
+Augmentative and Alternative Communications (AAC),Information & Communications Technology (ICT),3
+Cognitive & Learning Disabilities,Mobile Technology,3
+Augmentative and Alternative Communications (AAC),Mobile Technology,3
+Design,Mobility,3
+Cognitive & Learning Disabilities,Web,3
+Artificial Intelligence (AI) & Machine Learning (ML),Web,3
+Compliance,Law,3
+Compliance,and Policy,3
+Blind/Low Vision,Gaming & Interactive Entertainment,3
+Deaf and Hard of Hearing,Product Demonstration,3
+Deaf and Hard of Hearing,Information & Communications Technology (ICT),3
+Mobility,Product Demonstration,3
+Deaf and Hard of Hearing,Healthcare & Rehabilitation,3
+Cognitive & Learning Disabilities,Emerging Technologies,3
+Artificial Intelligence (AI) & Machine Learning (ML),Product Demonstration,3
+Captions & Transcription,Research,3
+Education,Leisure & Travel,3
+Education,Leadership & Strategy,3
+Employment & Workplace,Engineering,2
+Product Demonstration,Video & Live Streaming,2
+Evaluation & Remediation,Mobile Technology,2
+Captions & Transcription,Video & Live Streaming,2
+Cognitive & Learning Disabilities,Mobility,2
+Education,Independent Living,2
+Gaming & Interactive Entertainment,Independent Living,2
+Gaming & Interactive Entertainment,Information & Communications Technology (ICT),2
+"Law, Compliance, and Policy",Mobility,2
+Augmentative and Alternative Communications (AAC),Research,2
+Product Demonstration,Research,2
+Blind/Low Vision,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",2
+Artificial Intelligence (AI) & Machine Learning (ML),Information & Communications Technology (ICT),2
+Information & Communications Technology (ICT),Video & Live Streaming,2
+Healthcare & Rehabilitation,"Law, Compliance, and Policy",2
+Captions & Transcription,"Law, Compliance, and Policy",2
+Captions & Transcription,Leadership & Strategy,2
+Healthcare & Rehabilitation,Research,2
+Captions & Transcription,Leisure & Travel,2
+Healthcare & Rehabilitation,Web,2
+Deaf and Hard of Hearing,Web,2
+Deaf and Hard of Hearing,Research,2
+Deaf and Hard of Hearing,Mobile Technology,2
+Independent Living,School-to-Work Transitioning,2
+Information & Communications Technology (ICT),Mobility,2
+Artificial Intelligence (AI) & Machine Learning (ML),Healthcare & Rehabilitation,2
+Deaf and Hard of Hearing,Employment & Workplace,2
+Captions & Transcription,Cognitive & Learning Disabilities,2
+Augmentative and Alternative Communications (AAC),Product Demonstration,2
+Education,Gaming & Interactive Entertainment,2
+Captions & Transcription,Development,2
+Blind/Low Vision,Leisure & Travel,2
+School-to-Work Transitioning,Web,2
+Augmentative and Alternative Communications (AAC),Captions & Transcription,2
+Emerging Technologies,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",2
+Augmentative and Alternative Communications (AAC),Cognitive & Learning Disabilities,2
+Emerging Technologies,Video & Live Streaming,2
+Augmentative and Alternative Communications (AAC),Education,2
+Development,School-to-Work Transitioning,2
+Augmentative and Alternative Communications (AAC),Emerging Technologies,2
+Emerging Technologies,School-to-Work Transitioning,2
+Development,Employment & Workplace,2
+Cognitive & Learning Disabilities,Healthcare & Rehabilitation,2
+Education,Video & Live Streaming,2
+Engineering,Independent Living,2
+Artificial Intelligence (AI) & Machine Learning (ML),Leadership & Strategy,2
+Engineering,"Law, Compliance, and Policy",2
+Engineering,Leadership & Strategy,2
+Engineering,Mobile Technology,2
+Engineering,Mobility,2
+Artificial Intelligence (AI) & Machine Learning (ML),Evaluation & Remediation,2
+"Law, Compliance, and Policy",School-to-Work Transitioning,2
+"Law, Compliance, and Policy",Video & Live Streaming,1
+Mobility,Research,1
+Leisure & Travel,Research,1
+Research,School-to-Work Transitioning,1
+Information & Communications Technology (ICT),Leisure & Travel,1
+Video & Live Streaming,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Leisure & Travel,Web,1
+Mobile Technology,Mobility,1
+Mobile Technology,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Leisure & Travel,Video & Live Streaming,1
+Mobility,School-to-Work Transitioning,1
+"Law, Compliance, and Policy",Product Demonstration,1
+Leadership & Strategy,Mobile Technology,1
+"Law, Compliance, and Policy",Leisure & Travel,1
+Information & Communications Technology (ICT),"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Research,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Artificial Intelligence (AI) & Machine Learning (ML),Augmentative and Alternative Communications (AAC),1
+Independent Living,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Cognitive & Learning Disabilities,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Education,Mobility,1
+Education,Engineering,1
+Development,Leisure & Travel,1
+Development,Independent Living,1
+Development,Gaming & Interactive Entertainment,1
+Deaf and Hard of Hearing,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Deaf and Hard of Hearing,Leisure & Travel,1
+Deaf and Hard of Hearing,Independent Living,1
+Deaf and Hard of Hearing,Design,1
+Cognitive & Learning Disabilities,Research,1
+Emerging Technologies,Gaming & Interactive Entertainment,1
+Cognitive & Learning Disabilities,Evaluation & Remediation,1
+Augmentative and Alternative Communications (AAC),Web,1
+Augmentative and Alternative Communications (AAC),Video & Live Streaming,1
+Augmentative and Alternative Communications (AAC),Mobility,1
+Augmentative and Alternative Communications (AAC),Independent Living,1
+Augmentative and Alternative Communications (AAC),Healthcare & Rehabilitation,1
+Augmentative and Alternative Communications (AAC),Digital Accessibility,1
+Artificial Intelligence (AI) & Machine Learning (ML),"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Artificial Intelligence (AI) & Machine Learning (ML),Mobility,1
+Emerging Technologies,Engineering,1
+Employment & Workplace,Gaming & Interactive Entertainment,1
+Independent Living,Video & Live Streaming,1
+Gaming & Interactive Entertainment,Mobility,1
+Independent Living,Leadership & Strategy,1
+Healthcare & Rehabilitation,School-to-Work Transitioning,1
+Healthcare & Rehabilitation,Mobile Technology,1
+Healthcare & Rehabilitation,Leisure & Travel,1
+Healthcare & Rehabilitation,Leadership & Strategy,1
+Healthcare & Rehabilitation,Information & Communications Technology (ICT),1
+Gaming & Interactive Entertainment,"Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",1
+Gaming & Interactive Entertainment,School-to-Work Transitioning,1
+Gaming & Interactive Entertainment,Research,1
+Gaming & Interactive Entertainment,"Law, Compliance, and Policy",1
+Employment & Workplace,Healthcare & Rehabilitation,1
+Gaming & Interactive Entertainment,Healthcare & Rehabilitation,1
+Evaluation & Remediation,School-to-Work Transitioning,1
+Engineering,School-to-Work Transitioning,1
+Engineering,Healthcare & Rehabilitation,1
+Engineering,Gaming & Interactive Entertainment,1
+Employment & Workplace,Video & Live Streaming,1
+Employment & Workplace,Mobility,1
+Employment & Workplace,Mobile Technology,1
+Employment & Workplace,Leisure & Travel,1
+Video & Live Streaming,Web,1

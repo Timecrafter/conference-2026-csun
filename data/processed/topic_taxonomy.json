@@ -1,0 +1,253 @@
+{
+  "canonical_topics": {
+    "AI & Machine Learning": {
+      "variants": [
+        "Artificial Intelligence (AI) & Machine Learning (ML)",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "description": "Applications of artificial intelligence and machine learning in accessibility."
+    },
+    "Augmentative & Alternative Communication": {
+      "variants": [
+        "Augmentative and Alternative Communications (AAC)"
+      ],
+      "description": "AAC devices, methods, and technologies for people with speech/communication disabilities."
+    },
+    "Blind & Low Vision": {
+      "variants": [
+        "Blind/Low Vision"
+      ],
+      "description": "Technologies, tools, and strategies for people who are blind or have low vision."
+    },
+    "Captions & Transcription": {
+      "variants": [
+        "Captions & Transcription",
+        "Captions and Transcription"
+      ],
+      "description": "Captioning, transcription, and real-time text alternatives for audio content."
+    },
+    "Cognitive & Learning Disabilities": {
+      "variants": [
+        "Cognitive & Learning Disabilities",
+        "Cognitive and Learning Disabilities"
+      ],
+      "description": "Accessibility for people with cognitive, learning, and intellectual disabilities."
+    },
+    "Deaf & Hard of Hearing": {
+      "variants": [
+        "Deaf and Hard of Hearing"
+      ],
+      "description": "Technologies and accommodations for deaf and hard-of-hearing individuals."
+    },
+    "Design": {
+      "variants": [
+        "Design"
+      ],
+      "description": "Accessible design practices, inclusive design, UX/UI for accessibility."
+    },
+    "Development": {
+      "variants": [
+        "Development"
+      ],
+      "description": "Software development techniques and coding practices for accessibility."
+    },
+    "Digital Accessibility": {
+      "variants": [
+        "Digital Accessibility"
+      ],
+      "description": "Broad digital accessibility topics including web, mobile, and digital content accessibility."
+    },
+    "Education": {
+      "variants": [
+        "Education"
+      ],
+      "description": "Accessible education, learning technologies, and inclusive pedagogy."
+    },
+    "Emerging Technologies": {
+      "variants": [
+        "Emerging Technologies"
+      ],
+      "description": "New and emerging technologies with accessibility implications."
+    },
+    "Employment & Workplace": {
+      "variants": [
+        "Employment & Workplace",
+        "Employment and Workplace"
+      ],
+      "description": "Workplace accessibility, employment for people with disabilities, accommodations."
+    },
+    "Engineering": {
+      "variants": [
+        "Engineering"
+      ],
+      "description": "Engineering approaches to accessibility solutions."
+    },
+    "Evaluation & Remediation": {
+      "variants": [
+        "Evaluation & Remediation",
+        "Evaluation and Remediation"
+      ],
+      "description": "Accessibility testing, evaluation, auditing, and remediation practices."
+    },
+    "Gaming & Interactive Entertainment": {
+      "variants": [
+        "Gaming & Interactive Entertainment",
+        "Gaming and Interactive Entertainment"
+      ],
+      "description": "Accessible gaming, interactive entertainment, and game accessibility."
+    },
+    "Healthcare & Rehabilitation": {
+      "variants": [
+        "Healthcare & Rehabilitation",
+        "Healthcare and Rehabilitation"
+      ],
+      "description": "Healthcare accessibility, rehabilitation technology, and assistive healthcare."
+    },
+    "ICT": {
+      "variants": [
+        "Information & Communications Technology",
+        "Information & Communications Technology (ICT)",
+        "Information and Communications Technology (ICT)"
+      ],
+      "description": "Information and communications technology accessibility standards and practices."
+    },
+    "Independent Living": {
+      "variants": [
+        "Independent Living"
+      ],
+      "description": "Technologies and services supporting independent living for people with disabilities."
+    },
+    "Law, Compliance & Policy": {
+      "variants": [
+        "Compliance",
+        "Law",
+        "Law, Compliance, and Policy",
+        "Law/Compliance & Policy",
+        "Law/Compliance and Policy",
+        "and Policy"
+      ],
+      "description": "Accessibility law, compliance requirements, policy, and legal frameworks."
+    },
+    "Leadership & Strategy": {
+      "variants": [
+        "Leadership & Strategy",
+        "Leadership and Strategy"
+      ],
+      "description": "Organizational leadership, strategy, and program management for accessibility."
+    },
+    "Leisure & Travel": {
+      "variants": [
+        "Leisure & Travel",
+        "Leisure and Travel"
+      ],
+      "description": "Accessible leisure, travel, recreation, and tourism."
+    },
+    "Mobile Technology": {
+      "variants": [
+        "Mobile Technology"
+      ],
+      "description": "Mobile device and app accessibility."
+    },
+    "Mobility": {
+      "variants": [
+        "Mobility"
+      ],
+      "description": "Physical mobility, wheelchair technology, and movement accessibility."
+    },
+    "Product Demonstration": {
+      "variants": [
+        "Product Demonstration"
+      ],
+      "description": "Vendor product demonstrations and showcases."
+    },
+    "Research": {
+      "variants": [
+        "Research"
+      ],
+      "description": "Academic and applied research in assistive technology and accessibility."
+    },
+    "School-to-Work Transition": {
+      "variants": [
+        "School-to-Work Transitioning"
+      ],
+      "description": "Transition services and support from education to employment."
+    },
+    "VR/AR/XR": {
+      "variants": [
+        "Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)",
+        "Virtual Reality (VR)/Augmented Reality (AR) & Cross/Mixed Reality (XR)",
+        "Virtual Reality (VR)/Augmented Reality (AR)/Cross and Mixed Reality (XR)"
+      ],
+      "description": "Virtual, augmented, and mixed reality accessibility."
+    },
+    "Video & Live Streaming": {
+      "variants": [
+        "Video & Live Streaming",
+        "Video and Live Streaming"
+      ],
+      "description": "Accessible video content, live streaming, and media accessibility."
+    },
+    "Web": {
+      "variants": [
+        "Web"
+      ],
+      "description": "Web accessibility, WCAG, HTML/CSS/JS accessibility."
+    }
+  },
+  "variant_to_canonical": {
+    "Artificial Intelligence (AI) & Machine Learning (ML)": "AI & Machine Learning",
+    "Artificial Intelligence (AI) and Machine Learning (ML)": "AI & Machine Learning",
+    "Augmentative and Alternative Communications (AAC)": "Augmentative & Alternative Communication",
+    "Blind/Low Vision": "Blind & Low Vision",
+    "Captions & Transcription": "Captions & Transcription",
+    "Captions and Transcription": "Captions & Transcription",
+    "Cognitive & Learning Disabilities": "Cognitive & Learning Disabilities",
+    "Cognitive and Learning Disabilities": "Cognitive & Learning Disabilities",
+    "Compliance": "Law, Compliance & Policy",
+    "Deaf and Hard of Hearing": "Deaf & Hard of Hearing",
+    "Design": "Design",
+    "Development": "Development",
+    "Digital Accessibility": "Digital Accessibility",
+    "Education": "Education",
+    "Emerging Technologies": "Emerging Technologies",
+    "Employment & Workplace": "Employment & Workplace",
+    "Employment and Workplace": "Employment & Workplace",
+    "Engineering": "Engineering",
+    "Evaluation & Remediation": "Evaluation & Remediation",
+    "Evaluation and Remediation": "Evaluation & Remediation",
+    "Gaming & Interactive Entertainment": "Gaming & Interactive Entertainment",
+    "Gaming and Interactive Entertainment": "Gaming & Interactive Entertainment",
+    "Healthcare & Rehabilitation": "Healthcare & Rehabilitation",
+    "Healthcare and Rehabilitation": "Healthcare & Rehabilitation",
+    "Independent Living": "Independent Living",
+    "Information & Communications Technology": "ICT",
+    "Information & Communications Technology (ICT)": "ICT",
+    "Information and Communications Technology (ICT)": "ICT",
+    "Law": "Law, Compliance & Policy",
+    "Law, Compliance, and Policy": "Law, Compliance & Policy",
+    "Law/Compliance & Policy": "Law, Compliance & Policy",
+    "Law/Compliance and Policy": "Law, Compliance & Policy",
+    "Leadership & Strategy": "Leadership & Strategy",
+    "Leadership and Strategy": "Leadership & Strategy",
+    "Leisure & Travel": "Leisure & Travel",
+    "Leisure and Travel": "Leisure & Travel",
+    "Mobile Technology": "Mobile Technology",
+    "Mobility": "Mobility",
+    "Product Demonstration": "Product Demonstration",
+    "Research": "Research",
+    "School-to-Work Transitioning": "School-to-Work Transition",
+    "Video & Live Streaming": "Video & Live Streaming",
+    "Video and Live Streaming": "Video & Live Streaming",
+    "Virtual Reality (VR), Augmented Reality (AR), & Cross/Mixed Reality (XR)": "VR/AR/XR",
+    "Virtual Reality (VR)/Augmented Reality (AR) & Cross/Mixed Reality (XR)": "VR/AR/XR",
+    "Virtual Reality (VR)/Augmented Reality (AR)/Cross and Mixed Reality (XR)": "VR/AR/XR",
+    "Web": "Web",
+    "and Policy": "Law, Compliance & Policy"
+  },
+  "session_reclassifications": {},
+  "metadata": {
+    "source": "rule-based normalization with LLM refinement available via --force flag",
+    "original_topic_count": 48,
+    "canonical_topic_count": 29
+  }
+}

@@ -1,0 +1,1620 @@
+{
+  "sessions_per_year": {
+    "2023": 316,
+    "2024": 329,
+    "2025": 342,
+    "2026": 359
+  },
+  "yoy_growth": {
+    "2023-2024": 4.1,
+    "2024-2025": 4.0,
+    "2025-2026": 5.0
+  },
+  "topic_trends": [
+    {
+      "topic": "Digital Accessibility",
+      "count_2023": 184,
+      "share_2023": 58.2,
+      "count_2024": 203,
+      "share_2024": 61.7,
+      "count_2025": 224,
+      "share_2025": 65.5,
+      "count_2026": 181,
+      "share_2026": 50.4,
+      "share_change_pp": -7.8
+    },
+    {
+      "topic": "Blind & Low Vision",
+      "count_2023": 116,
+      "share_2023": 36.7,
+      "count_2024": 124,
+      "share_2024": 37.7,
+      "count_2025": 127,
+      "share_2025": 37.1,
+      "count_2026": 111,
+      "share_2026": 30.9,
+      "share_change_pp": -5.8
+    },
+    {
+      "topic": "AI & Machine Learning",
+      "count_2023": 23,
+      "share_2023": 7.3,
+      "count_2024": 41,
+      "share_2024": 12.5,
+      "count_2025": 81,
+      "share_2025": 23.7,
+      "count_2026": 84,
+      "share_2026": 23.4,
+      "share_change_pp": 16.1
+    },
+    {
+      "topic": "Education",
+      "count_2023": 91,
+      "share_2023": 28.8,
+      "count_2024": 100,
+      "share_2024": 30.4,
+      "count_2025": 114,
+      "share_2025": 33.3,
+      "count_2026": 70,
+      "share_2026": 19.5,
+      "share_change_pp": -9.3
+    },
+    {
+      "topic": "Design",
+      "count_2023": 80,
+      "share_2023": 25.3,
+      "count_2024": 92,
+      "share_2024": 28.0,
+      "count_2025": 93,
+      "share_2025": 27.2,
+      "count_2026": 62,
+      "share_2026": 17.3,
+      "share_change_pp": -8.0
+    },
+    {
+      "topic": "Development",
+      "count_2023": 68,
+      "share_2023": 21.5,
+      "count_2024": 71,
+      "share_2024": 21.6,
+      "count_2025": 82,
+      "share_2025": 24.0,
+      "count_2026": 49,
+      "share_2026": 13.6,
+      "share_change_pp": -7.9
+    },
+    {
+      "topic": "Leadership & Strategy",
+      "count_2023": 39,
+      "share_2023": 12.3,
+      "count_2024": 39,
+      "share_2024": 11.9,
+      "count_2025": 63,
+      "share_2025": 18.4,
+      "count_2026": 45,
+      "share_2026": 12.5,
+      "share_change_pp": 0.2
+    },
+    {
+      "topic": "Emerging Technologies",
+      "count_2023": 43,
+      "share_2023": 13.6,
+      "count_2024": 59,
+      "share_2024": 17.9,
+      "count_2025": 66,
+      "share_2025": 19.3,
+      "count_2026": 37,
+      "share_2026": 10.3,
+      "share_change_pp": -3.3
+    },
+    {
+      "topic": "Research",
+      "count_2023": 45,
+      "share_2023": 14.2,
+      "count_2024": 38,
+      "share_2024": 11.6,
+      "count_2025": 51,
+      "share_2025": 14.9,
+      "count_2026": 30,
+      "share_2026": 8.4,
+      "share_change_pp": -5.8
+    },
+    {
+      "topic": "ICT",
+      "count_2023": 62,
+      "share_2023": 19.6,
+      "count_2024": 78,
+      "share_2024": 23.7,
+      "count_2025": 77,
+      "share_2025": 22.5,
+      "count_2026": 28,
+      "share_2026": 7.8,
+      "share_change_pp": -11.8
+    },
+    {
+      "topic": "Law, Compliance & Policy",
+      "count_2023": 42,
+      "share_2023": 13.3,
+      "count_2024": 46,
+      "share_2024": 14.0,
+      "count_2025": 48,
+      "share_2025": 14.0,
+      "count_2026": 28,
+      "share_2026": 7.8,
+      "share_change_pp": -5.5
+    },
+    {
+      "topic": "Evaluation & Remediation",
+      "count_2023": 48,
+      "share_2023": 15.2,
+      "count_2024": 36,
+      "share_2024": 10.9,
+      "count_2025": 49,
+      "share_2025": 14.3,
+      "count_2026": 27,
+      "share_2026": 7.5,
+      "share_change_pp": -7.7
+    },
+    {
+      "topic": "Cognitive & Learning Disabilities",
+      "count_2023": 16,
+      "share_2023": 5.1,
+      "count_2024": 18,
+      "share_2024": 5.5,
+      "count_2025": 44,
+      "share_2025": 12.9,
+      "count_2026": 24,
+      "share_2026": 6.7,
+      "share_change_pp": 1.6
+    },
+    {
+      "topic": "Web",
+      "count_2023": 65,
+      "share_2023": 20.6,
+      "count_2024": 75,
+      "share_2024": 22.8,
+      "count_2025": 56,
+      "share_2025": 16.4,
+      "count_2026": 24,
+      "share_2026": 6.7,
+      "share_change_pp": -13.9
+    },
+    {
+      "topic": "Deaf & Hard of Hearing",
+      "count_2023": 27,
+      "share_2023": 8.5,
+      "count_2024": 17,
+      "share_2024": 5.2,
+      "count_2025": 23,
+      "share_2025": 6.7,
+      "count_2026": 20,
+      "share_2026": 5.6,
+      "share_change_pp": -2.9
+    },
+    {
+      "topic": "Independent Living",
+      "count_2023": 25,
+      "share_2023": 7.9,
+      "count_2024": 23,
+      "share_2024": 7.0,
+      "count_2025": 22,
+      "share_2025": 6.4,
+      "count_2026": 16,
+      "share_2026": 4.5,
+      "share_change_pp": -3.4
+    },
+    {
+      "topic": "Product Demonstration",
+      "count_2023": 35,
+      "share_2023": 11.1,
+      "count_2024": 31,
+      "share_2024": 9.4,
+      "count_2025": 23,
+      "share_2025": 6.7,
+      "count_2026": 16,
+      "share_2026": 4.5,
+      "share_change_pp": -6.6
+    },
+    {
+      "topic": "Employment & Workplace",
+      "count_2023": 48,
+      "share_2023": 15.2,
+      "count_2024": 35,
+      "share_2024": 10.6,
+      "count_2025": 51,
+      "share_2025": 14.9,
+      "count_2026": 14,
+      "share_2026": 3.9,
+      "share_change_pp": -11.3
+    },
+    {
+      "topic": "Mobile Technology",
+      "count_2023": 34,
+      "share_2023": 10.8,
+      "count_2024": 39,
+      "share_2024": 11.9,
+      "count_2025": 31,
+      "share_2025": 9.1,
+      "count_2026": 12,
+      "share_2026": 3.3,
+      "share_change_pp": -7.5
+    },
+    {
+      "topic": "Engineering",
+      "count_2023": 20,
+      "share_2023": 6.3,
+      "count_2024": 23,
+      "share_2024": 7.0,
+      "count_2025": 30,
+      "share_2025": 8.8,
+      "count_2026": 11,
+      "share_2026": 3.1,
+      "share_change_pp": -3.2
+    },
+    {
+      "topic": "Gaming & Interactive Entertainment",
+      "count_2023": 12,
+      "share_2023": 3.8,
+      "count_2024": 6,
+      "share_2024": 1.8,
+      "count_2025": 15,
+      "share_2025": 4.4,
+      "count_2026": 9,
+      "share_2026": 2.5,
+      "share_change_pp": -1.3
+    },
+    {
+      "topic": "Mobility",
+      "count_2023": 7,
+      "share_2023": 2.2,
+      "count_2024": 21,
+      "share_2024": 6.4,
+      "count_2025": 18,
+      "share_2025": 5.3,
+      "count_2026": 8,
+      "share_2026": 2.2,
+      "share_change_pp": 0.0
+    },
+    {
+      "topic": "Captions & Transcription",
+      "count_2023": 33,
+      "share_2023": 10.4,
+      "count_2024": 37,
+      "share_2024": 11.2,
+      "count_2025": 15,
+      "share_2025": 4.4,
+      "count_2026": 7,
+      "share_2026": 1.9,
+      "share_change_pp": -8.5
+    },
+    {
+      "topic": "Augmentative & Alternative Communication",
+      "count_2023": 6,
+      "share_2023": 1.9,
+      "count_2024": 9,
+      "share_2024": 2.7,
+      "count_2025": 8,
+      "share_2025": 2.3,
+      "count_2026": 6,
+      "share_2026": 1.7,
+      "share_change_pp": -0.2
+    },
+    {
+      "topic": "Video & Live Streaming",
+      "count_2023": 9,
+      "share_2023": 2.8,
+      "count_2024": 8,
+      "share_2024": 2.4,
+      "count_2025": 5,
+      "share_2025": 1.5,
+      "count_2026": 4,
+      "share_2026": 1.1,
+      "share_change_pp": -1.7
+    },
+    {
+      "topic": "Healthcare & Rehabilitation",
+      "count_2023": 15,
+      "share_2023": 4.7,
+      "count_2024": 18,
+      "share_2024": 5.5,
+      "count_2025": 20,
+      "share_2025": 5.8,
+      "count_2026": 3,
+      "share_2026": 0.8,
+      "share_change_pp": -3.9
+    },
+    {
+      "topic": "Leisure & Travel",
+      "count_2023": 7,
+      "share_2023": 2.2,
+      "count_2024": 7,
+      "share_2024": 2.1,
+      "count_2025": 8,
+      "share_2025": 2.3,
+      "count_2026": 3,
+      "share_2026": 0.8,
+      "share_change_pp": -1.4
+    },
+    {
+      "topic": "School-to-Work Transition",
+      "count_2023": 17,
+      "share_2023": 5.4,
+      "count_2024": 9,
+      "share_2024": 2.7,
+      "count_2025": 13,
+      "share_2025": 3.8,
+      "count_2026": 2,
+      "share_2026": 0.6,
+      "share_change_pp": -4.8
+    },
+    {
+      "topic": "VR/AR/XR",
+      "count_2023": 10,
+      "share_2023": 3.2,
+      "count_2024": 3,
+      "share_2024": 0.9,
+      "count_2025": 6,
+      "share_2025": 1.8,
+      "count_2026": 1,
+      "share_2026": 0.3,
+      "share_change_pp": -2.9
+    }
+  ],
+  "primary_topic_trends": [
+    {
+      "topic": "Digital Accessibility",
+      "count_2023": 75,
+      "share_2023": 23.7,
+      "count_2024": 68,
+      "share_2024": 20.7,
+      "count_2025": 124,
+      "share_2025": 36.3,
+      "count_2026": 138,
+      "share_2026": 38.4
+    },
+    {
+      "topic": "Design",
+      "count_2023": 10,
+      "share_2023": 3.2,
+      "count_2024": 14,
+      "share_2024": 4.3,
+      "count_2025": 90,
+      "share_2025": 26.3,
+      "count_2026": 62,
+      "share_2026": 17.3
+    },
+    {
+      "topic": "Blind & Low Vision",
+      "count_2023": 49,
+      "share_2023": 15.5,
+      "count_2024": 51,
+      "share_2024": 15.5,
+      "count_2025": 12,
+      "share_2025": 3.5,
+      "count_2026": 46,
+      "share_2026": 12.8
+    },
+    {
+      "topic": "Emerging Technologies",
+      "count_2023": 4,
+      "share_2023": 1.3,
+      "count_2024": 8,
+      "share_2024": 2.4,
+      "count_2025": 7,
+      "share_2025": 2.0,
+      "count_2026": 17,
+      "share_2026": 4.7
+    },
+    {
+      "topic": "Mobile Technology",
+      "count_2023": 6,
+      "share_2023": 1.9,
+      "count_2024": 11,
+      "share_2024": 3.3,
+      "count_2025": 22,
+      "share_2025": 6.4,
+      "count_2026": 11,
+      "share_2026": 3.1
+    },
+    {
+      "topic": "Product Demonstration",
+      "count_2023": 6,
+      "share_2023": 1.9,
+      "count_2024": 1,
+      "share_2024": 0.3,
+      "count_2025": 11,
+      "share_2025": 3.2,
+      "count_2026": 11,
+      "share_2026": 3.1
+    },
+    {
+      "topic": "Education",
+      "count_2023": 28,
+      "share_2023": 8.9,
+      "count_2024": 27,
+      "share_2024": 8.2,
+      "count_2025": 3,
+      "share_2025": 0.9,
+      "count_2026": 10,
+      "share_2026": 2.8
+    },
+    {
+      "topic": "Employment & Workplace",
+      "count_2023": 11,
+      "share_2023": 3.5,
+      "count_2024": 2,
+      "share_2024": 0.6,
+      "count_2025": 1,
+      "share_2025": 0.3,
+      "count_2026": 8,
+      "share_2026": 2.2
+    },
+    {
+      "topic": "Engineering",
+      "count_2023": 2,
+      "share_2023": 0.6,
+      "count_2024": 2,
+      "share_2024": 0.6,
+      "count_2025": 5,
+      "share_2025": 1.5,
+      "count_2026": 4,
+      "share_2026": 1.1
+    },
+    {
+      "topic": "Independent Living",
+      "count_2023": 3,
+      "share_2023": 0.9,
+      "count_2024": 6,
+      "share_2024": 1.8,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 3,
+      "share_2026": 0.8
+    },
+    {
+      "topic": "Leisure & Travel",
+      "count_2023": 0,
+      "share_2023": 0.0,
+      "count_2024": 1,
+      "share_2024": 0.3,
+      "count_2025": 1,
+      "share_2025": 0.3,
+      "count_2026": 3,
+      "share_2026": 0.8
+    },
+    {
+      "topic": "AI & Machine Learning",
+      "count_2023": 5,
+      "share_2023": 1.6,
+      "count_2024": 21,
+      "share_2024": 6.4,
+      "count_2025": 23,
+      "share_2025": 6.7,
+      "count_2026": 2,
+      "share_2026": 0.6
+    },
+    {
+      "topic": "Healthcare & Rehabilitation",
+      "count_2023": 2,
+      "share_2023": 0.6,
+      "count_2024": 1,
+      "share_2024": 0.3,
+      "count_2025": 16,
+      "share_2025": 4.7,
+      "count_2026": 2,
+      "share_2026": 0.6
+    },
+    {
+      "topic": "ICT",
+      "count_2023": 5,
+      "share_2023": 1.6,
+      "count_2024": 8,
+      "share_2024": 2.4,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 2,
+      "share_2026": 0.6
+    },
+    {
+      "topic": "Research",
+      "count_2023": 3,
+      "share_2023": 0.9,
+      "count_2024": 6,
+      "share_2024": 1.8,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 2,
+      "share_2026": 0.6
+    },
+    {
+      "topic": "Video & Live Streaming",
+      "count_2023": 0,
+      "share_2023": 0.0,
+      "count_2024": 0,
+      "share_2024": 0.0,
+      "count_2025": 5,
+      "share_2025": 1.5,
+      "count_2026": 2,
+      "share_2026": 0.6
+    },
+    {
+      "topic": "Cognitive & Learning Disabilities",
+      "count_2023": 4,
+      "share_2023": 1.3,
+      "count_2024": 5,
+      "share_2024": 1.5,
+      "count_2025": 1,
+      "share_2025": 0.3,
+      "count_2026": 1,
+      "share_2026": 0.3
+    },
+    {
+      "topic": "Law, Compliance & Policy",
+      "count_2023": 5,
+      "share_2023": 1.6,
+      "count_2024": 5,
+      "share_2024": 1.5,
+      "count_2025": 17,
+      "share_2025": 5.0,
+      "count_2026": 1,
+      "share_2026": 0.3
+    },
+    {
+      "topic": "Leadership & Strategy",
+      "count_2023": 14,
+      "share_2023": 4.4,
+      "count_2024": 16,
+      "share_2024": 4.9,
+      "count_2025": 1,
+      "share_2025": 0.3,
+      "count_2026": 1,
+      "share_2026": 0.3
+    },
+    {
+      "topic": "Web",
+      "count_2023": 6,
+      "share_2023": 1.9,
+      "count_2024": 12,
+      "share_2024": 3.6,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 1,
+      "share_2026": 0.3
+    },
+    {
+      "topic": "Augmentative & Alternative Communication",
+      "count_2023": 0,
+      "share_2023": 0.0,
+      "count_2024": 4,
+      "share_2024": 1.2,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "Captions & Transcription",
+      "count_2023": 4,
+      "share_2023": 1.3,
+      "count_2024": 3,
+      "share_2024": 0.9,
+      "count_2025": 1,
+      "share_2025": 0.3,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "Deaf & Hard of Hearing",
+      "count_2023": 7,
+      "share_2023": 2.2,
+      "count_2024": 3,
+      "share_2024": 0.9,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "Development",
+      "count_2023": 6,
+      "share_2023": 1.9,
+      "count_2024": 10,
+      "share_2024": 3.0,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "Evaluation & Remediation",
+      "count_2023": 8,
+      "share_2023": 2.5,
+      "count_2024": 5,
+      "share_2024": 1.5,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "Gaming & Interactive Entertainment",
+      "count_2023": 4,
+      "share_2023": 1.3,
+      "count_2024": 2,
+      "share_2024": 0.6,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "Mobility",
+      "count_2023": 0,
+      "share_2023": 0.0,
+      "count_2024": 6,
+      "share_2024": 1.8,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "School-to-Work Transition",
+      "count_2023": 1,
+      "share_2023": 0.3,
+      "count_2024": 2,
+      "share_2024": 0.6,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    },
+    {
+      "topic": "VR/AR/XR",
+      "count_2023": 4,
+      "share_2023": 1.3,
+      "count_2024": 2,
+      "share_2024": 0.6,
+      "count_2025": 0,
+      "share_2025": 0.0,
+      "count_2026": 0,
+      "share_2026": 0.0
+    }
+  ],
+  "ai_ml_trend": {
+    "2023": {
+      "count": 29,
+      "percentage": 9.2
+    },
+    "2024": {
+      "count": 48,
+      "percentage": 14.6
+    },
+    "2025": {
+      "count": 31,
+      "percentage": 9.1
+    },
+    "2026": {
+      "count": 48,
+      "percentage": 13.4
+    }
+  },
+  "organization_trends": [
+    {
+      "organization": "Amazon",
+      "total_sessions": 54,
+      "sessions_2023": 15,
+      "sessions_2024": 13,
+      "sessions_2025": 17,
+      "sessions_2026": 9,
+      "growth_pct": -40.0
+    },
+    {
+      "organization": "TPGi",
+      "total_sessions": 50,
+      "sessions_2023": 16,
+      "sessions_2024": 21,
+      "sessions_2025": 13,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "Vispero",
+      "total_sessions": 40,
+      "sessions_2023": 9,
+      "sessions_2024": 7,
+      "sessions_2025": 7,
+      "sessions_2026": 17,
+      "growth_pct": 88.9
+    },
+    {
+      "organization": "Allyant",
+      "total_sessions": 31,
+      "sessions_2023": 5,
+      "sessions_2024": 18,
+      "sessions_2025": 5,
+      "sessions_2026": 3,
+      "growth_pct": -40.0
+    },
+    {
+      "organization": "Google",
+      "total_sessions": 23,
+      "sessions_2023": 3,
+      "sessions_2024": 6,
+      "sessions_2025": 7,
+      "sessions_2026": 7,
+      "growth_pct": 133.3
+    },
+    {
+      "organization": "Level Access",
+      "total_sessions": 21,
+      "sessions_2023": 4,
+      "sessions_2024": 5,
+      "sessions_2025": 1,
+      "sessions_2026": 11,
+      "growth_pct": 175.0
+    },
+    {
+      "organization": "Microsoft",
+      "total_sessions": 19,
+      "sessions_2023": 2,
+      "sessions_2024": 1,
+      "sessions_2025": 7,
+      "sessions_2026": 9,
+      "growth_pct": 350.0
+    },
+    {
+      "organization": "Crawford Technologies",
+      "total_sessions": 18,
+      "sessions_2023": 15,
+      "sessions_2024": 1,
+      "sessions_2025": 1,
+      "sessions_2026": 1,
+      "growth_pct": -93.3
+    },
+    {
+      "organization": "Deque Systems, Inc.",
+      "total_sessions": 16,
+      "sessions_2023": 0,
+      "sessions_2024": 0,
+      "sessions_2025": 13,
+      "sessions_2026": 3,
+      "growth_pct": -76.9
+    },
+    {
+      "organization": "Intuit",
+      "total_sessions": 14,
+      "sessions_2023": 5,
+      "sessions_2024": 5,
+      "sessions_2025": 0,
+      "sessions_2026": 4,
+      "growth_pct": -20.0
+    },
+    {
+      "organization": "American Printing House",
+      "total_sessions": 13,
+      "sessions_2023": 5,
+      "sessions_2024": 7,
+      "sessions_2025": 0,
+      "sessions_2026": 1,
+      "growth_pct": -80.0
+    },
+    {
+      "organization": "Chax Training and Consulting",
+      "total_sessions": 13,
+      "sessions_2023": 5,
+      "sessions_2024": 3,
+      "sessions_2025": 3,
+      "sessions_2026": 2,
+      "growth_pct": -60.0
+    },
+    {
+      "organization": "Intopia",
+      "total_sessions": 12,
+      "sessions_2023": 2,
+      "sessions_2024": 3,
+      "sessions_2025": 4,
+      "sessions_2026": 3,
+      "growth_pct": 50.0
+    },
+    {
+      "organization": "Gallaudet University",
+      "total_sessions": 12,
+      "sessions_2023": 4,
+      "sessions_2024": 3,
+      "sessions_2025": 2,
+      "sessions_2026": 3,
+      "growth_pct": -25.0
+    },
+    {
+      "organization": "Elsevier",
+      "total_sessions": 11,
+      "sessions_2023": 2,
+      "sessions_2024": 1,
+      "sessions_2025": 5,
+      "sessions_2026": 3,
+      "growth_pct": 50.0
+    },
+    {
+      "organization": "RNIB",
+      "total_sessions": 11,
+      "sessions_2023": 2,
+      "sessions_2024": 4,
+      "sessions_2025": 2,
+      "sessions_2026": 3,
+      "growth_pct": 50.0
+    },
+    {
+      "organization": "Deque",
+      "total_sessions": 11,
+      "sessions_2023": 0,
+      "sessions_2024": 0,
+      "sessions_2025": 0,
+      "sessions_2026": 11,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "HumanWare",
+      "total_sessions": 10,
+      "sessions_2023": 3,
+      "sessions_2024": 3,
+      "sessions_2025": 1,
+      "sessions_2026": 3,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "DAISY Consortium",
+      "total_sessions": 10,
+      "sessions_2023": 3,
+      "sessions_2024": 2,
+      "sessions_2025": 4,
+      "sessions_2026": 1,
+      "growth_pct": -66.7
+    },
+    {
+      "organization": "University of Washington",
+      "total_sessions": 10,
+      "sessions_2023": 1,
+      "sessions_2024": 5,
+      "sessions_2025": 4,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "National Library Service for the Blind and Print Disabled, Library of Congress",
+      "total_sessions": 9,
+      "sessions_2023": 0,
+      "sessions_2024": 3,
+      "sessions_2025": 3,
+      "sessions_2026": 3,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "WebAIM",
+      "total_sessions": 9,
+      "sessions_2023": 0,
+      "sessions_2024": 4,
+      "sessions_2025": 3,
+      "sessions_2026": 2,
+      "growth_pct": -50.0
+    },
+    {
+      "organization": "CVS Health",
+      "total_sessions": 8,
+      "sessions_2023": 6,
+      "sessions_2024": 0,
+      "sessions_2025": 2,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "Tsukuba University of Technology",
+      "total_sessions": 8,
+      "sessions_2023": 4,
+      "sessions_2024": 1,
+      "sessions_2025": 0,
+      "sessions_2026": 3,
+      "growth_pct": -25.0
+    },
+    {
+      "organization": "Raising the Floor",
+      "total_sessions": 8,
+      "sessions_2023": 4,
+      "sessions_2024": 2,
+      "sessions_2025": 1,
+      "sessions_2026": 1,
+      "growth_pct": -75.0
+    },
+    {
+      "organization": "Oracle",
+      "total_sessions": 8,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 4,
+      "sessions_2026": 2,
+      "growth_pct": 100.0
+    },
+    {
+      "organization": "Yahoo",
+      "total_sessions": 7,
+      "sessions_2023": 1,
+      "sessions_2024": 3,
+      "sessions_2025": 1,
+      "sessions_2026": 2,
+      "growth_pct": 100.0
+    },
+    {
+      "organization": "Texthelp",
+      "total_sessions": 7,
+      "sessions_2023": 3,
+      "sessions_2024": 3,
+      "sessions_2025": 1,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "Benetech",
+      "total_sessions": 7,
+      "sessions_2023": 2,
+      "sessions_2024": 1,
+      "sessions_2025": 2,
+      "sessions_2026": 2,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "Smith-Kettlewell Eye Research Institute",
+      "total_sessions": 7,
+      "sessions_2023": 3,
+      "sessions_2024": 1,
+      "sessions_2025": 2,
+      "sessions_2026": 1,
+      "growth_pct": -66.7
+    },
+    {
+      "organization": "Siteimprove",
+      "total_sessions": 7,
+      "sessions_2023": 1,
+      "sessions_2024": 2,
+      "sessions_2025": 3,
+      "sessions_2026": 1,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "American Printing House for the Blind",
+      "total_sessions": 7,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 3,
+      "sessions_2026": 2,
+      "growth_pct": 100.0
+    },
+    {
+      "organization": "Harvard University",
+      "total_sessions": 7,
+      "sessions_2023": 0,
+      "sessions_2024": 4,
+      "sessions_2025": 2,
+      "sessions_2026": 1,
+      "growth_pct": -75.0
+    },
+    {
+      "organization": "Fidelity Investments",
+      "total_sessions": 6,
+      "sessions_2023": 5,
+      "sessions_2024": 0,
+      "sessions_2025": 1,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "U.S. Access Board",
+      "total_sessions": 6,
+      "sessions_2023": 3,
+      "sessions_2024": 3,
+      "sessions_2025": 0,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "Saint Louis University",
+      "total_sessions": 6,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 3,
+      "sessions_2026": 1,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "Workday",
+      "total_sessions": 6,
+      "sessions_2023": 0,
+      "sessions_2024": 3,
+      "sessions_2025": 2,
+      "sessions_2026": 1,
+      "growth_pct": -66.7
+    },
+    {
+      "organization": "Apple Inc",
+      "total_sessions": 6,
+      "sessions_2023": 0,
+      "sessions_2024": 6,
+      "sessions_2025": 0,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "National Aeronautics and Space Administration (NASA)",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 0,
+      "sessions_2025": 2,
+      "sessions_2026": 2,
+      "growth_pct": 100.0
+    },
+    {
+      "organization": "Accessibility Partners",
+      "total_sessions": 5,
+      "sessions_2023": 2,
+      "sessions_2024": 0,
+      "sessions_2025": 2,
+      "sessions_2026": 1,
+      "growth_pct": -50.0
+    },
+    {
+      "organization": "Access Austria/HGBS",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 0,
+      "sessions_2026": 3,
+      "growth_pct": 200.0
+    },
+    {
+      "organization": "Navy Federal Credit Union",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 3,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "Teach Access",
+      "total_sessions": 5,
+      "sessions_2023": 2,
+      "sessions_2024": 0,
+      "sessions_2025": 2,
+      "sessions_2026": 1,
+      "growth_pct": -50.0
+    },
+    {
+      "organization": "Fable",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 2,
+      "sessions_2025": 1,
+      "sessions_2026": 1,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "The MITRE Corporation",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 3,
+      "sessions_2025": 1,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "UNAR Labs",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 2,
+      "sessions_2026": 1,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "IBM",
+      "total_sessions": 5,
+      "sessions_2023": 3,
+      "sessions_2024": 0,
+      "sessions_2025": 1,
+      "sessions_2026": 1,
+      "growth_pct": -66.7
+    },
+    {
+      "organization": "Shibaura Institute of Technology",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 1,
+      "sessions_2025": 3,
+      "sessions_2026": 0,
+      "growth_pct": null
+    },
+    {
+      "organization": "CSU Northridge",
+      "total_sessions": 5,
+      "sessions_2023": 1,
+      "sessions_2024": 0,
+      "sessions_2025": 3,
+      "sessions_2026": 1,
+      "growth_pct": 0.0
+    },
+    {
+      "organization": "CNIB",
+      "total_sessions": 5,
+      "sessions_2023": 3,
+      "sessions_2024": 2,
+      "sessions_2025": 0,
+      "sessions_2026": 0,
+      "growth_pct": null
+    }
+  ],
+  "presenter_continuity": {
+    "presenters_appearing_1_year": 1031,
+    "presenters_appearing_2_years": 213,
+    "presenters_appearing_3_years": 82,
+    "presenters_appearing_4_years": 32,
+    "top_returning_presenters": [
+      {
+        "name": "Nikita Varma",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Yahoo"
+      },
+      {
+        "name": "S. Victoria Jaque",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "CSUN ATHS MS program"
+      },
+      {
+        "name": "Ted Gies",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Elsevier"
+      },
+      {
+        "name": "Betsy Sirk",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "National Aeronautics and Space Administration (NASA)"
+      },
+      {
+        "name": "Sharon Rosenblatt",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Accessibility Partners"
+      },
+      {
+        "name": "Dana Marlowe",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Accessibility Partners"
+      },
+      {
+        "name": "Andrew Flatres",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Humanware"
+      },
+      {
+        "name": "Ted Drake",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Intuit"
+      },
+      {
+        "name": "George Kerscher",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "DAISY Consortium"
+      },
+      {
+        "name": "Charles LaPierre",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Benetech"
+      },
+      {
+        "name": "Lesley Farmer",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "California St. University Long Beach"
+      },
+      {
+        "name": "Marc Angelier",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "The Braille Program"
+      },
+      {
+        "name": "Richard Orme",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "DAISY Consortium"
+      },
+      {
+        "name": "Dave Williams",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Dot Inc"
+      },
+      {
+        "name": "Dax Castro",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Chax Training and Consulting"
+      },
+      {
+        "name": "Katsuhito Yamaguchi",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Nihon University"
+      },
+      {
+        "name": "Toshihiko Komada",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Nihon University"
+      },
+      {
+        "name": "Jeffrey Singleton",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Converge Accessibility LLC"
+      },
+      {
+        "name": "Rick Ferrie",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Savvas Learning Company"
+      },
+      {
+        "name": "Jennifer Strickland",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Maryland Department of IT"
+      },
+      {
+        "name": "Nicholas Giudice",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "UNAR Labs"
+      },
+      {
+        "name": "Derrick Smith",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Auburn University at Montgomery"
+      },
+      {
+        "name": "Gregg Vanderheiden",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Raising the Floor"
+      },
+      {
+        "name": "Mahadeo Sukhai",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "IDEA-STEM"
+      },
+      {
+        "name": "Gus Shitama",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Apple, Inc"
+      },
+      {
+        "name": "Ryan Jones",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Vispero"
+      },
+      {
+        "name": "Elizabeth Whitaker",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Vispero"
+      },
+      {
+        "name": "Rachel Buchanan",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Vispero"
+      },
+      {
+        "name": "Matt Ater",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Vispero"
+      },
+      {
+        "name": "Terra Masiel",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "num_years": 4,
+        "organization": "Amazon"
+      }
+    ]
+  },
+  "new_topics_by_year": {
+    "2023": [
+      "AI & Machine Learning",
+      "Augmentative & Alternative Communication",
+      "Blind & Low Vision",
+      "Captions & Transcription",
+      "Cognitive & Learning Disabilities",
+      "Deaf & Hard of Hearing",
+      "Design",
+      "Development",
+      "Digital Accessibility",
+      "Education",
+      "Emerging Technologies",
+      "Employment & Workplace",
+      "Engineering",
+      "Evaluation & Remediation",
+      "Gaming & Interactive Entertainment",
+      "Healthcare & Rehabilitation",
+      "ICT",
+      "Independent Living",
+      "Law, Compliance & Policy",
+      "Leadership & Strategy",
+      "Leisure & Travel",
+      "Mobile Technology",
+      "Mobility",
+      "Product Demonstration",
+      "Research",
+      "School-to-Work Transition",
+      "VR/AR/XR",
+      "Video & Live Streaming",
+      "Web"
+    ],
+    "2024": [],
+    "2025": [],
+    "2026": []
+  },
+  "audience_level_trends": {
+    "2023": {
+      "Intermediate": {
+        "count": 154,
+        "percentage": 48.7
+      },
+      "Beginning": {
+        "count": 151,
+        "percentage": 47.8
+      },
+      "Advanced": {
+        "count": 11,
+        "percentage": 3.5
+      }
+    },
+    "2024": {
+      "Beginning": {
+        "count": 170,
+        "percentage": 51.7
+      },
+      "Intermediate": {
+        "count": 155,
+        "percentage": 47.1
+      },
+      "Advanced": {
+        "count": 4,
+        "percentage": 1.2
+      }
+    },
+    "2025": {
+      "Intermediate": {
+        "count": 191,
+        "percentage": 55.8
+      },
+      "Beginning": {
+        "count": 144,
+        "percentage": 42.1
+      },
+      "Advanced": {
+        "count": 6,
+        "percentage": 1.8
+      },
+      "Not specified": {
+        "count": 1,
+        "percentage": 0.3
+      }
+    },
+    "2026": {
+      "Intermediate": {
+        "count": 188,
+        "percentage": 52.4
+      },
+      "Beginning": {
+        "count": 149,
+        "percentage": 41.5
+      },
+      "Not specified": {
+        "count": 13,
+        "percentage": 3.6
+      },
+      "Advanced": {
+        "count": 9,
+        "percentage": 2.5
+      }
+    }
+  },
+  "description_quality_trends": {
+    "2023": {
+      "mean_desc_length": 1201.6,
+      "median_desc_length": 1271.5,
+      "sessions_with_learning_objectives": 0,
+      "pct_with_learning_objectives": 0.0
+    },
+    "2024": {
+      "mean_desc_length": 1214.9,
+      "median_desc_length": 1252.0,
+      "sessions_with_learning_objectives": 0,
+      "pct_with_learning_objectives": 0.0
+    },
+    "2025": {
+      "mean_desc_length": 234.7,
+      "median_desc_length": 240.0,
+      "sessions_with_learning_objectives": 0,
+      "pct_with_learning_objectives": 0.0
+    },
+    "2026": {
+      "mean_desc_length": 264.4,
+      "median_desc_length": 269.0,
+      "sessions_with_learning_objectives": 346,
+      "pct_with_learning_objectives": 96.4
+    }
+  }
+}

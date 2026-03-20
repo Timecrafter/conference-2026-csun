@@ -1,0 +1,566 @@
+id,first_name,last_name,name,company,title,biography,linkedin_url,twitter_url,facebook_url,category_id,year
+1fdcd219-076b-4254-ad44-1046e1dac022,Dana,Marlowe,Dana Marlowe,Accessibility Partners,Principal Partner,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7764ca15-c5a8-4379-b628-0d222a5632fc,Kiran,Kaja,Kiran Kaja,Amazon,Principal Product Mgr Tech - Worldwide Stores Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+20450421-a3c6-42e4-8508-39735b37c208,Alison,George,Alison George,Capital One UK,Digital Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+eb16ba7e-1858-48ef-84b5-a98c46c9ea25,Angela,Young,Angela Young,Epsilon,"Advisor, Digital Solutions Consulting - Accessibility Training & Awareness",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+55c910b5-ab5a-412d-9f46-237b592ed212,Sucheta,Narang,Sucheta Narang,AccessibleWorld,Founder and CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+02bda7db-677d-49b3-97e5-8bad0e79a993,Jing,He,Jing He,Google,Senior UX Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5b59c419-b50c-4a1e-a146-4658e854e712,Abishua,Abraham,Abishua Abraham,Amazon,Sr Program Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f67a388b-5d22-4278-9b14-17ad8841d95d,Matthew,Shifrin,Matthew Shifrin,Bricks For The Blind,Founder,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+309e0000-5046-4290-9f16-99160d1d3545,Ethan,Richtsmeier,Ethan Richtsmeier,Santa Ana Unified School District,AT/AAC Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1ec90d07-e429-4056-8dc9-6e55c452046c,Carissa,Merrill,Carissa Merrill,Mayo Clinic,Lead Accessibility Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cc286f69-fc2c-4f31-b37d-c86f6a9a9dc7,Noe,Barrell,Noe Barrell,Deque,Staff Machine Learning Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0f49d0d0-bf49-48b9-8fc2-fec4429863e3,Jayashree,Prabunathan,Jayashree Prabunathan,Google LLC,Manager Accessibility Analyst,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3195a111-8983-4a43-85b5-7d3f91a6627d,Alpesh Danabhai,Ahir,Alpesh Danabhai Ahir,Walmart Inc.,Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+570dc2d7-60d3-40e8-8a28-540dbb830452,Sarah,Wegwerth,Sarah Wegwerth,Alchemie,Director of Academics,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0aaa11ba-ef5b-4725-bf90-8045730287a6,Beth,Decker,Beth Decker,National Center for Accessible Media at GBH,Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ee2ae587-f60a-4dc8-8ab6-12659eb2de2c,Sile,O'Modhrain,Sile O'Modhrain,NewHaptics,Co-Founder / CXO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a2c76fc5-e867-4381-83ff-57dde32161c2,Lauren,Race,Lauren Race,New York University,Accessibility Designer & Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+17eed264-0320-4896-9b6c-7701aa11a066,Andy,Bailey,Andy Bailey,Be My Eyes,CMO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+371f94ff-86ad-48b7-89b1-ec10df1d4760,Robert,Grill,Robert Grill,Maximus,Director of Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bb752557-fde7-4f24-bfd3-3767879febe2,Terra,Masiel,Terra Masiel,Amazon,Sr. Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3d9996d2-d2b1-4718-9eff-896521577c04,Andreas,Putz,Andreas Putz,Amazon,Applied Scientist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7112782a-637f-4507-bb8c-48beb27a9e23,Abid,Virani,Abid Virani,Fable,Co-Founder & COO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+684cf809-65e6-4543-990e-8875b17000c0,Elizabeth,Whitaker,Elizabeth Whitaker,Vispero,Director of User Education and Outreach,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+821afbc0-0f00-4d47-881c-2f97cf67eb5d,Yesol,Kwak,Yesol Kwak,SK Happiness Foundation,Project Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e5ebacbb-c8f6-444c-bbba-3044f734cd0c,Tanya,Mallan,Tanya Mallan,Sonoma SELPA Adaptive Technology Center,Speech Pathologist/AAC Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+deda7e04-eee3-4d79-965b-439fd46886c5,Paige,DeVries,Paige DeVries,Gallaudet University,"Graduate Student, Accessible Human-Centered Computing and Policy",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+062cc84f-5ea3-43ac-b6d9-a3927d097f03,Jiyeon,Lee,Jiyeon Lee,LG Electronics,LG Electronics Accessibility: Inclusive Design through Education & Community,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8a5f520d-af2a-4b56-bf5a-095ecc50d64f,Rachel,Buchanan,Rachel Buchanan,Vispero,"Director, Technical Support",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b320040d-c530-47c2-ac93-a11247787f1f,Jonathan,Mosen,Jonathan Mosen,National Federation of the Blind,Executive Director for Accessibility Excellence,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a0a85a47-cb20-456d-a088-5f8f0949ced0,Jordan,Wagner,Jordan Wagner,The Ohio State University Nisonger Center,"Project Manager, Technology Projects","Working as a Direct Support Professional, Jordan Wagner began his work in the field of intellectual and developmental disabilities (IDD) more than 15 years ago as a psychology student at The Ohio State University. In this role, he made many friends who had developmental disabilities and assisted them in areas where it was difficult for them to help themselves. He sought to encourage independence for those with whom he worked. After earning his Bachelor of Arts in Psychology, Mr. Wagner now works at OSU Nisonger Center, a University Center for Excellence in Developmental Disabilities (UCEDD), as Project Manager for Nisonger Center Technology Projects. In this role, Jordan incorporates his experience assisting individuals with IDD, his passion for promoting independence, and his enthusiasm for technology. With the collaborative effort of the Technology Projects team, Mr. Wagner has conducted research activities about technology related services to support individuals with IDD and developed educational trainings and experiences, including virtual and in-person experiences with the Smart Home Discovery Place, Nisonger Center’s explorable smart home demonstration environment.",https://www.linkedin.com/in/jordan-wagner-67956813/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5c4cb748-5243-4558-a969-41bddaba9e4d,Katie,Wainwright,Katie Wainwright,Google,UX Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7768b1c4-771c-4df4-8c66-b4140c34583e,Rick,Ferrie,Rick Ferrie,Savvas Learning Company,VP of Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1170cc02-0c5f-471e-a184-7dbeb4b9fa8c,Akheel,Firoz,Akheel Firoz,Microsoft,Product Manager 2,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ba0c5f48-46ea-40c8-ba04-bbeb50283ae3,Lars Holm,Sørensen,Lars Holm Sørensen,Acquia,Accessibility Expert,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+041691b8-39f6-4550-acf0-0387fa234c14,Christy,Riddell,Christy Riddell,Sonoma SELPA Adaptive Technology Center,Speech Pathologist/AAC Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2654e62d-4eec-4a49-b9d6-9b09789d12d2,Hrishi,Rao,Hrishi Rao,NewHaptics,UX Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fb43347d-f715-4a50-b87b-521a06cc2a9a,Ian,O'Bara,Ian O'Bara,Level Access,Senior Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a672336e-f8eb-4a64-b3c0-3878c0cbb0b2,Jaime,Young,Jaime Young,ServiceNow,UX Research Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+986334b5-abf2-4a75-bcae-38539aac3f53,Katsuhito,Yamaguchi,Katsuhito Yamaguchi,Nihon University,Senior Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e478af39-09ac-4684-8652-eacbf0a8ac0e,Dylan,Isaac,Dylan Isaac,University of Chicago Illinois,Accessibility Engineer & Consultant,"Dylan Isaac is the founder of Enablement Engineering, an AI accessibility consultancy based in Buffalo, NY. Previously Lead AI Engineer at Deque Systems, Dylan invented axe Assistant before turning his focus to building AI systems that extend human capability rather than replace it — a philosophy he calls ""enablement engineering."" 
+
+His current work centers on Equalify Reflow, a multi-agent pipeline for converting PDFs into accessible, semantic markup. Dylan believes accessibility practitioners have been solving AI alignment problems for decades, and he's here to make that case loudly.",https://www.linkedin.com/in/dylan--isaac/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0af71f6c-75f0-4610-84b2-718b99d68ac3,Joyce Marie,Bursasco,Joyce Marie Bursasco,CSUN,IT Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3512cf7a-14b8-4a32-9243-25531d4172ef,Sumner,Davenport,Sumner Davenport,SMDA Web Accessibility Team,Specialist Web Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3aea8f81-fdbc-4c32-925d-4c91130c4178,Lainey,Feingold,Lainey Feingold,Law Office of Lainey Feingold,"lawyer, author, public speaker",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+13a2c646-64d7-440a-88bf-298e71331566,Timothy,Kluthe,Timothy Kluthe,UNLV,Ph.D. Student,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f4d4aed3-413c-46cc-9591-603e2b89bfb0,Mark,Miller,Mark Miller,Independent Consultant,W3C Invited Expert,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cbc520f6-f132-4f0b-9b1e-3ad6177ae7db,Daniel,Damelin,Daniel Damelin,The Concord Consortium,Senior Scientist,"Daniel Damelin has worked in the field of education for 30 years, as a teacher, curriculum and technology developer, professional development leader, and educational researcher. Currently a Senior Scientist at the non-profit Concord Consortium, he has worked on numerous grant funded projects that resulted in open educational resources to support the learning of science through simulation and data visualization, inquiry-oriented curriculum and pedagogy, and formative assessment.
+",https://www.linkedin.com/in/ddamelin/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f55b073c-ed35-487f-bb32-dcee547008e7,Yue-Ting,Siu,Yue-Ting Siu,CATT-NW/WSSB,Program Coordinator,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+15bfeebf-ab0f-4425-8fb2-a4079733a0cb,Jonathan,Pearlman,Jonathan Pearlman,University of Pittsburgh,N/A,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0c70e206-fc46-44bc-9878-c7f1f92dbc41,Chancey,Fleet,Chancey Fleet,New York Public Library,Assistive Technology Coordinator,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+149ee0f3-0239-4af6-a4e0-b1e91617afd7,Hyung,Kim,Hyung Kim,North Carolina Agricultural and Technical State University,Dr.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c97de5b4-2385-40d5-adb9-c2034aad26e2,Mary Ann,Jawili,Mary Ann Jawili,AccessibleWorld,Lead Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b6418c55-b2cc-49a5-a09a-ba153038ffa4,J.,Mankoff,J. Mankoff,UW CREATE,Director,,https://www.linkedin.com/in/jennifer-mankoff-aa9587226/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+69f8e190-e0fa-4f1b-9b7d-c885cd248924,Bonnie,Parisi,Bonnie Parisi,Salesforce,"VP, Product Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2ade9c64-988d-4760-a819-981989af8c89,Daniel,Tarekegn,Daniel Tarekegn,Google,"Senior Program Manager Lead, Search Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e7aac183-5898-42f7-8403-c7fb55fb1e37,Kristin,Wilson,Kristin Wilson,Cencora,Digital Portfolio Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3a7ff627-b964-423d-8bc0-7b67e96b7ebb,Joanne,Hawley,Joanne Hawley,Nelnet,Accessibility Team Lead,,https://www.linkedin.com/in/joannehawley,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6d8cdc4f-fab4-4603-8ae2-3fb6623fde67,Miwa,Murata,Miwa Murata,Takasaki University of Health and Walfare,Associate Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+de99d2b4-d683-44be-b9cb-f65e4b1426e9,Ali,Afzal,Ali Afzal,Apple,Accessibility Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+10709563-4f16-4ae1-8d5d-9dc2fab06ab2,Ryota,Uchida,Ryota Uchida,Sony Group Corporation,Senior Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b33f69ac-9643-45bb-9dbd-0a2fd0439ac3,Patrick,Sturdivant,Patrick Sturdivant,Deque Systems,VP & Principal Accessibility Strategist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4485a921-2674-417a-b4bc-a7895a756391,Andrew,Crook,Andrew Crook,Paramount Global,Lead Accessibility Architect,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+89bcfbc3-d43b-4dfc-a994-e0382263740a,Preety,Kumar,Preety Kumar,Deque,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+381e773d-f002-46cf-8764-3a7c1d82a909,Patrick,Murphy,Patrick Murphy,Vispero,Chief Technology Officer of Hardware,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8de62a22-9a2d-4790-86d1-7f75dce5df47,Dan,Gardner,Dan Gardner,ViewPlus Technologies,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0805beda-ccfe-4f7c-ab70-594ae1ae4ab6,Marcia,Barnard-Borelli,Marcia Barnard-Borelli,California Department of Social Services,Digital Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6e6172f1-3678-4288-8626-9c5b3fbfc1dd,John,Sweet,John Sweet,Paramount Streaming,"VP, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+79c84204-9241-46d8-9199-0502f1dfde95,Cassandra,Zuria,Cassandra Zuria,Intuit,Senior Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+62163c22-9779-4a55-b470-ee530c0359be,Ted,Drake,Ted Drake,Intuit,Head of Accessibility and Inclusive Design,"Ted Drake is the Head of Accessibility and Inclusive Design at Intuit, a financial software company that creates Credit Karma, Mailchimp, TurboTax and QuickBooks. Ted leads a distributed team of Accessibility Champions; working together to power prosperity. Prior to Intuit, Ted co-founded Yahoo’s Accessibility Lab and was a developer evangelist. Ted speaks regularly at technology and design conferences and is a board member of Magical Bridge Foundation,  steering committee for  Web4All,  and Co-Program Chair for CSUN Assistive Technology Conference.
+",https://www.linkedin.com/in/draket/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+50d46fc7-8e6e-4b72-8503-85d5a756f904,Jason,Stark,Jason Stark,Described and Captioned Media Program,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2255315f-0a6d-4ed2-af79-e8d949c7a55d,Kittipong,Sutthi,Kittipong Sutthi,Thai Blind People's Foundation,Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dd6a2c1c-e4c5-4fa4-9786-9172fc4d643a,Ali,Forelli,Ali Forelli,Google,Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+055e8ab8-f815-4170-b1ff-9223a4bb9d73,Sarah,Hummer,Sarah Hummer,"Saint Mary's College, Notre Dame",Instructional Technologist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0ef08684-a626-42eb-8484-6130e78c361a,Jory,Cunningham,Jory Cunningham,Amazon AWS,Senior Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+200664b0-e34d-46fe-a7e8-ea687b762f6e,Jared,Smith,Jared Smith,WebAIM,Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d9815fd1-971e-491a-a188-853f132b5f55,Kamonwan,Inaram,Kamonwan Inaram,National Braille Promotion and Development Fund,Board Member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e1cff183-d362-4f02-8407-d34e18e99b12,Kristina,Launey,Kristina Launey,Seyfarth Shaw LLP,Partner,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cb8e1db1-89b6-4d5c-898f-e1d7f3718d63,Kyle,Sisk,Kyle Sisk,DCMP,CTO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+18f634ef-4d9b-4d55-8e90-b67f4796b707,Jonathan,Gorges,Jonathan Gorges,College of the Desert,Instructional Computer Support Specialist/Adjunct Faculty,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+435318ce-8cde-4b43-9ec9-fe472561fd44,Allison,Mello,Allison Mello,California School for the Blind,Assistive Technology Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f5863e14-de99-464b-8ef7-18153c325d3d,Cat,Johnson,Cat Johnson,Khan Academy,Senior Frontend Engineer,I am a Senior Frontend Engineer at Khan Academy and I’ve been working in the industry for over 8+ years. During my day job I work mostly on React web components and focus on Accessible Technology. On my off hours I love talking about how to create more accessible and inclusive web applications and writing about new technology creating positive social impact in our world today. I firmly believe technology can be used to create a more inclusive and equitable world as long as we keep it in check.,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ebc960c0-75e7-4133-94ab-7b83780d2457,Gregory,Matthews,Gregory Matthews,California Department of Social Services,Digital Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d5c078d4-697b-49e4-8cc2-ce4799bf5e1e,Tatsuo,Fujiwara,Tatsuo Fujiwara,Sony Group Corporation,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1b89efec-db57-4f2d-a7dd-d326d24c9218,Hao,Tang,Hao Tang,BMCC/CUNY,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e5efb5e3-272a-490a-843a-e4dae0362a48,Maxine,Williams,Maxine Williams,Meta,"VP, Accessibility & Engagement",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0d14f5a3-596e-48f4-a5b8-cb3d2ee095fb,Ryan,Jones,Ryan Jones,Vispero,"SVP, Global Accessibility Strategy and Advocacy",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+47c3ae0c-b321-4330-b298-a1d52f5cc579,Charlotte,McCleary,Charlotte McCleary,Fizz Studio,Software Developer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f74003f6-1078-4c95-aee8-2c757036864a,Ryan,Bonheyo,Ryan Bonheyo,Communication Service for the Deaf,"Director of Business Development, CSD Access",,https://www.linkedin.com/in/ryan-bonheyo/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5b4056e5-cf9d-41f8-8f44-19f179dda014,Andrew,Buck,Andrew Buck,The Ohio State University Nisonger Center,Research Assistant Professor and LEND Special Education Faculty Member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0fb87065-f37b-4566-b36d-8ceb08694e92,Renata,Drucker,Renata Drucker,Microsoft,Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+789db635-24ec-4c82-aa70-47ebaf6e74f1,Adrian,Ledda,Adrian Ledda,Activision,"Director, Inclusive Game Design","Adrian is the Director of Inclusive Game Design at Activision. Since 2009, he has worked with our game teams as an engineer and designer, and now leads efforts to improve inclusivity through innovation in our gaming experiences and technology.",https://www.linkedin.com/in/adrian-ledda/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ae5630a9-b830-446f-a8da-1dd7ed189a76,Jeffrey,Singleton,Jeffrey Singleton,Converge Accessibility LLC,Principal,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5e9c40d5-659b-420e-9850-351a4dabb1f8,Michael,Fairchild,Michael Fairchild,Microsoft,Senior Technical Program Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+55d85e4b-00a4-461e-82f9-795742911cdf,Claudio,Vera,Claudio Vera,A11yInnovation,Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+af67cb81-1bb4-4e92-a35f-64b9c04b42a7,Nina,Krauss,Nina Krauss,SAP SE,Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7ae23223-9b41-4480-86c8-00779771661e,Zane,McHattie,Zane McHattie,Hilton,"Senior Manager, Digital Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b79492d8-46da-493f-8b26-1ebebc02ffe2,Randy,Bascue,Randy Bascue,Ebay,"Staff Product Designer, Design Systems",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+aa1003cf-c358-45da-b939-03c8fb0b9274,Isabella,Blake,Isabella Blake,UC Irvine,"Student (class of 2026), UC Irvine","I’m an autistic scholar-activist working to maximize quality of life for the disabled community through accessible, high-quality health services and human-rights-oriented health policy.
+",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+31aefa58-89e4-497c-91b1-82ec6878589f,Sowjanya,Param,Sowjanya Param,Walmart,Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a46b011c-bba7-4aa5-a70c-c46a6158ba9e,Michael,May,Michael May,American Printing House,Navigation Technology Advisor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6b8fd7ae-ef7a-4f46-a15d-91ab6bab1b9e,Heather,Bridgman,Heather Bridgman,AT&AEM Center at OCALI,Assistive Technology and Accessible Educational Materials Specialist,"Heather Bridgman is an Assistive Technology and Accessible Educational Materials Specialist with the AT&AEM Center at OCALI. She is a rehabilitation engineer and has worked in both the medical and educational environments. Her specialties include computer access, augmentative communication, online learning, and digital accessibility. She has a master’s degree in systems engineering with a concentration in rehabilitation as well as a teaching license in high school mathematics. She is certified as a RESNA Assistive Technology Professional, an IAAP Accessible Document Specialist, and teaches AT courses at Ashland University. Recent projects include development of SIFTS (sifts.ocali.org)  which is an AT feature-matching tool and the online modules known as ATIM (Assistive Technology Internet Modules) https://atinternetmodules.org/. She is also a co-author of the book, Show Me: A Teacher’s Guide to Video Modeling.",https://www.linkedin.com/in/heather-bridgman-55053bb/,https://x.com/ataem_ocali,https://www.facebook.com/profile.php?id=100057101334341,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9e883ac8-b5ae-478c-b32a-b0f2b7e47681,Toshihiko,Komada,Toshihiko Komada,Nihon University,Associate Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a3a97c1a-a4c5-4da1-8d76-34500e48a566,Tom,Hoffmann,Tom Hoffmann,1EdTech,Assessment Standards Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5103d0fb-7a4b-4640-9f78-ace39583cf0a,Clint,Covington,Clint Covington,Microsoft,"Principal Program Manager, Experiences + Devices Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8bf49ec6-b777-4d27-b37b-4a0875b5834d,Mohit,Goenka,Mohit Goenka,Yahoo,Director of Engineering,"Mohit Goenka is a dynamic Engineering Leader at Yahoo, where he serves as the Director of Engineering spearheading growth initiatives. With a wealth of experience across Android, iOS, and Web, he has successfully built and led global teams responsible for some of the world’s most complex applications, including Yahoo Mail, Yahoo Messenger, and Grindr. His versatile career spans roles from web developer and product manager to engineering leader, providing him with a holistic perspective on inclusive product development.
+
+A prolific innovator, Mohit is a Yahoo Super Star award recipient and a Master Inventor, holding an extensive portfolio of patents. His commitment to the tech community is reflected in nearly two decades of speaking engagements, including a consistent presence at the CSUN Assistive Technology Conference (2018–2026) and TechEx North America.
+
+Mohit holds a Master of Science in Computer Science from the University of Southern California (USC), where his research focused on Game Theory and Human Behavior. Beyond the office, he is a published poet archived in the USC Libraries, an avid traveler, and a board game strategist.",https://www.linkedin.com/in/mohitgoenka,https://x.com/mohitgoenka,https://www.facebook.com/mohitgoenka,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e395d060-852d-4a4c-8cd4-41023e324b9c,Wisam,Yasen,Wisam Yasen,Taskar Center for Accessible technology - University of Washington,Lead software engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+01c44727-4e00-4360-a27b-c6b09d6f7acb,NM,Dayton,NM Dayton,Google,Accessibility Standards Technical Program Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a539e14d-380d-4bc5-9da6-660fe44cfca9,Eralee,Rivera,Eralee Rivera,Mayo Clinic,Senior XD Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e942403e-2e5d-4391-ba71-41b3c2d61155,Jonathan,Castaneda,Jonathan Castaneda,Cencora,"Sr. Product Design Manager, Design Systems and Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+480b0f4b-06af-4de5-963b-663f3e65c699,Andreas,Stefik,Andreas Stefik,"University of Nevada, Las Vegas",Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e2345c12-56ce-4715-975f-0a8335f9a32b,James,Coughlan,James Coughlan,Smith-Kettlewell Eye Research Institute,Senior Scientist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2d373a70-44c8-4f95-a472-deb35dc047ee,Jeanette,Head,Jeanette Head,Khan Academy,Engineering Manager & Accessibility Architect,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+83c35036-4858-4031-90ab-6b6e777d4fd1,Reina,Nakanishi,Reina Nakanishi,Shimizu Corporation,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+37d1b411-0e13-4145-9c59-6459c3858be5,Thomas,Starbranch,Thomas Starbranch,Havard Business School Online,"Program Director, Digital Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a45aaef7-8683-45e0-aea8-49df72503c15,Ariana,Aboulafia,Ariana Aboulafia,Center for Democracy & Technology,"Project Lead, Disability Rights in Tech Policy",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a95bc5d2-b0a5-46fd-ac5e-953d704d8afd,Judith,Dixon,Judith Dixon,,Author,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+57ae2e2c-1ad4-411e-874a-877a56e0a19d,Hannah,Williams,Hannah Williams,UNLV,Ph.D. Candidate,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a65447b2-1ac0-4878-906b-867ffe94e2d9,Nat,Tarnoff,Nat Tarnoff,Level Access,Principal Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f143f860-d481-4f40-91a6-28ed0e6a3ccb,Inka Ilona,Taagehoj,Inka Ilona Taagehoj,Acquia,Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0da7127a-5ae1-419d-87d2-ad0efcff578e,Chetan,Bakhru,Chetan Bakhru,JPMorgan Chase,VP Accessibility Lead,,https://www.linkedin.com/in/chetan-bakhru-pmp-15a6632a,https://x.com/cbakhru,https://www.facebook.com/chetan.bakhru/,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1b9b438e-bdc6-4275-894e-a1d75dc87ff9,George,Kerscher,George Kerscher,DAISY Consortium,Chief Innovations Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f95ae2c3-880c-4e1a-b744-067fddf94c5d,Radostina,Tsvetkova,Radostina Tsvetkova,Norwegian Directorate of Labour and Welfare (NAV),Senior Advisor in Digital Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+386449b2-def3-4a52-8a47-052bde7b7178,Lakshmi,Ziskin,Lakshmi Ziskin,Amazon - Prime Video,Sr. Product Manager - Prime Video Localization and Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fe18ed2c-aa66-4d38-90ff-0bba2bd0bde3,Fan,Zhang,Fan Zhang,Meta,Principal Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ad32f2bf-a926-43a1-a928-7caaddea887f,Marc,Lind,Marc Lind,Nelnet,"Director, Nelnet Digital Accessibility Services",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6efc914e-6fe5-49cb-ad12-faedcee6c598,Laura,Fathauer,Laura Fathauer,Miami University of Ohio,Web Content Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2232e7eb-bbfa-4550-9da4-eec88456e956,Andrew,Gliga,Andrew Gliga,Ebay,"Sr MTS, Software Engineer",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+78afd2c9-5f20-498c-969a-dc2674013f56,Nichapa,Akethanapisan,Nichapa Akethanapisan,Bangkok School for the Blind,Teacher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c4fc91ce-0b50-4eff-8df3-d4918cd7200c,Sid,Janga,Sid Janga,Google,Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+abd05fd8-e438-4dfc-b104-d9de73d057e2,Jason,Ferreira,Jason Ferreira,Dow Jones,Accessibility Lead,,https://www.linkedin.com/in/jason-ferreira-51aaa189/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e7bc9293-34c8-4c8f-9400-312118741918,Jena,Fahlbush,Jena Fahlbush,National Center on Accessible Digital Educational Materials & Instruction,Technical Assistance Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3d48d82b-1a20-4cac-9293-ca10188e6ac7,Bobby,Ly,Bobby Ly,Intopia,Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d27fcbc9-a2f0-4ce5-b5a1-0e7d4d506407,Nicole,Woodson,Nicole Woodson,Yahoo,Senior Inclusive Designer,,https://www.linkedin.com/in/nicolecondawoodson/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+62665d31-9e54-496e-98ff-601dc7f94e5e,Lesley,Farmer,Lesley Farmer,California St. University Long Beach,Professor Emerita of Library Media,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3bdfe9d0-613e-45ce-b338-b2a4079b25d2,Remu,Hida,Remu Hida,Sony Group Corporation,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ed770c4e-b718-4845-8f39-a5280faa82f0,Prajjol Raj,Puri,Prajjol Raj Puri,Université de Montréal,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a54bdd73-cc0f-4678-a8c0-7b3173c8b346,Robin,Eckelberry,Robin Eckelberry,Nelnet,IT Software Engineer and Trainer - Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ac4cc199-9980-47b4-884b-d72697be6603,Ryan,McCleary,Ryan McCleary,Fizz Studio,Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+467f2b90-9e90-44bd-be90-d18c852a50c7,Amy,Li,Amy Li,Elsevier,Senior Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e692afe3-bf36-4f7f-9114-73df9bc08507,Shambhavi,Thakur,Shambhavi Thakur,"National Centre for Assistive Health Technologies, Indian Institute of Technology Delhi",Project Scientist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5534c4d0-f8ab-47de-910b-5ad599d7f1ae,Ian,McBurnie,Ian McBurnie,eBay,"Distinguished MTS, Software Engineer",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d697ada1-e3fb-4241-a427-b429fca1cf1f,Oriol,Gomez,Oriol Gomez,Dow Jones,Accessibility Lead,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d1deeddc-3d9e-4e0d-a677-ad186cd69917,Kunal,Mehta,Kunal Mehta,Taskar Center for Accessible Technology - University of Washington,UX Designer,,https://www.linkedin.com/in/kunal-mehta-a29594138/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+93ace57a-2f6d-445c-89fb-ccd063888204,Lisa,Sousa,Lisa Sousa,Franklin Pierce University,Generative AI’s Potential to Supporting Deficits in Reading Comprehension,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2297688e-1e90-4d1e-8733-3ab8d2429f1e,Agustya,Mehta,Agustya Mehta,Meta,"Director, Concept Engineering",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b470eec4-4a83-4ab1-9e8f-c72549d993b4,Der,Xiong,Der Xiong,California Department of Social Services,Digital Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8394bc46-2c63-4ccc-a3ed-679f438d0dc3,Eric,Beauchamp,Eric Beauchamp,HumanWare,Director of Product Management,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c103cc89-a86d-4888-a238-aaee9882f07e,Michael,Barnes,Michael Barnes,Whitworth,Undergraduate Student,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7415c199-3ea2-468b-bf3d-e4c6c6808990,Sarahelizabeth,Baguhn,Sarahelizabeth Baguhn,American Foundation for the Blind,Research Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+51793a79-21bc-447a-9cc1-797b8627d414,Brandon,Vasquez,Brandon Vasquez,The City College at The City University of New York,N/A,,https://www.linkedin.com/in/brandon-vasquez-swe/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ea0e09e2-8edf-4346-883b-d89ce8307fad,Jennifer,Wenzel,Jennifer Wenzel,American Printing House for the blind,Technology Product Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fa6f51c6-cdb4-4fdf-bbd1-2f598422343a,Erika,Lehmkuhl,Erika Lehmkuhl,Google,"Staff UX Designer, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+23aa39fa-9c88-43a6-8c7b-098b49452098,Manas,Singh,Manas Singh,Oracle America Inc,Senior design resercher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+299b5981-cc4f-469d-b030-fb39b39ba301,Lucy,Greco,Lucy Greco,accessaces.com,Accessibility evangelist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0b8c70ef-0094-49f0-94d2-f58c1472e24a,Steve,Kerr,Steve Kerr,Google,Accessibility Analyst,"Steve Kerr is an Accessibility Analyst at Google and currently serves as the Vice-Chair of ITI’s Accessibility Committee. With a career spanning technical leadership for accessible procurements in the Canadian federal government to product accessibility at Google, Steve offers a unique, 360-degree perspective on Accessibility Conformance Reports (ACRs) using the Voluntary Product Accessibility Template (VPAT®). As a member of the ITI VPAT working group, he helped develop the latest versions of the template. Steve is dedicated to demystifying the VPAT process for both creators and evaluators and has co-developed widely utilized training webinars on the subject. A self-described ""conformance nerd,"" Steve bridges the gap between public sector procurement requirements and private sector product development.",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f7347dc0-f2d4-49b5-8716-268aae9bd7f0,Shilpi,Kapoor,Shilpi Kapoor,BarrierBreak,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9f110ab3-4090-490e-947f-8263b7effcad,Sarah,Margolis-Greenbaum,Sarah Margolis-Greenbaum,Intuit,Accessibility Program Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+59b00a17-d0e1-40d5-ba61-1ac1f77ac52b,Jeremy,Gonzales,Jeremy Gonzales,Siteimprove,Senior Digital Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5d418679-7b79-41ce-9e83-78fdd77c85ef,Thomas,Simpson,Thomas Simpson,NewHaptics,Head of Product,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+85897064-b02a-4627-a9a7-e5d8407c1286,Kaiqi,Zhou,Kaiqi Zhou,University of North Texas,Assistant Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dd83d823-c675-4750-bfb8-376866c227f1,Ashley,Neal,Ashley Neal,TruCare Provider Services,COO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+337321a9-f55c-49c4-af80-a9f259ced498,Peter,Loftus,Peter Loftus,Level Access,"Engagement Manager, Digital Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dc816b4a-1f66-42d6-9954-9e7ef1c851f1,Parker,Hartman,Parker Hartman,National Center for Accessible Media at GBH,Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0e10be7c-2faf-48c6-b6d4-8dda42319353,Brianna,Burrows,Brianna Burrows,T-Mobile,Digital Accessibility Manager,"As a passionate advocate for people-first products, I’ve spent my career at the intersection of technology and accessibility, ensuring that innovation serves everyone. With extensive experience in digital accessibility, software engineering, and a deep commitment to creating inclusive solutions, I’ve worked to harness the power of technology to remove barriers and empower users.
+
+Driven by the belief that accessible products can change lives, I thrive on collaborating with diverse teams to build solutions that reflect the needs of every user. As a technology leader, I focus on leveraging emerging tools and best practices to enhance user experiences while championing inclusivity at every level.",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3b658878-df04-42b0-b1e0-0fb0aa3a0bae,Michael,Elgo,Michael Elgo,ServiceNow,Principal Product Manager - Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4e5522cb-085b-4a20-98ce-bf0f31d4519f,Marc,Powell,Marc Powell,Unilever,Making Unilever’s Packaging Accessible for Everyone.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+473b6ee0-19f9-41e3-8ed7-0f6db77aca6e,Aaron,Holmes,Aaron Holmes,Mira Costa College,Access Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0742fc80-5323-4c3f-b2d3-5f0db48904f9,Ashley,Jenkins,Ashley Jenkins,Seyfarth Shaw LLP,Associate,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+354b9356-ec08-47d5-ab7b-af98c3a97bfc,Blake,Bertuccelli-Booth,Blake Bertuccelli-Booth,University of Illinois Chicago,Assistant Director of Digital Accessibility Engineering,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1910e920-acb5-4846-a62c-3dd6c3057540,Janina,Sajka,Janina Sajka,Sajka Associates,Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+53aea795-46dc-4332-8e50-c954f526ba77,Jason,Yan,Jason Yan,Google,N/A,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4115865d-7677-4396-b14a-0fa9375b4e91,Bryan,Bashin,Bryan Bashin,Be My Eyes,Vice-Chair,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+74c0fbeb-f418-4893-8524-def120dfc52b,Maureen,Barrientos,Maureen Barrientos,Walmart Inc.,Accessibility Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2f81701c-b7f4-444e-9a1c-540502b3dd0f,Daeun,Chung,Daeun Chung,Wellesley College,Daeun Chung,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3331f66c-9eee-4d94-83e2-1bfa95959229,Sarah,Wood,Sarah Wood,Educational Testing Service,Accessibility Scientist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9947e958-e686-45df-a8fa-67998c9ee133,Nicolò,Donati,Nicolò Donati,Zanichelli Publisher & University of Bologna,PhD(c) in Artificial Intelligence,"Nicolò Donati is a PhD student in Artificial Intelligence at the University of Bologna's Department of Computer Science and Engineering (DISI), focusing on ""Generative AI for Innovative Writing and Editing Support Systems."" He holds a Master's degree in Artificial Intelligence and a Bachelor's degree in Computer Engineering from the University of Bologna.
+
+Since November 2023, Donati has collaborated with the Language Technologies Lab (LT-Lab), contributing to the automatic generation of educational exercises and content, as well as designing writing assistants aligned with professional editorial standards. In partnership with Zanichelli Editore, a leading Italian educational publisher, he analyzes editorial workflows to identify inefficiencies and applies natural language processing techniques including abstractive summarization and stylistic adaptation to enhance content quality and efficiency. His work leverages large language models to evaluate textual coherence and compliance with editorial guidelines, building toward a robust tool that meets expert-level criteria.​
+
+Donati maintains active research collaborations with industrial partners including Expert.ai, NIER Engineering, BitBang, BiRex, and Bonfiglioli. Beyond his doctoral research, he serves as a teaching tutor in the Department of Pharmacy and Biotechnology at Bologna. His research interests span natural language processing, large language model evaluation, generative AI, and retrieval-augmented generation (RAG). He has presented work at prestigious venues, including ECAI 2025, where he presented: ""Do Large Language Models understand how to be judges?"". Donati developed methods to assess whether large language models can function as reliable evaluators for educational writing, particularly for rubric-based assessment. Your work identifies challenges in interpreting hierarchical criteria and cross-genre generalization, while proposing solutions through fine-tuning and diverse benchmarks.",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d480001e-9e13-4c71-9281-be76375ae4d9,Matthew,Luken,Matthew Luken,Deque,"SVP, Global Programs & Regulatory Affairs; European Partnerships","Matthew Luken is a Senior Vice President, Global Programs & Regulatory Affairs; European Partnerships, consulting with companies of all sizes, markets, and industries to grow their digital accessibility programs. 
+
+Prior to Deque, Matthew built and ran U.S. Bank’s digital accessibility program, providing accessibility design reviews, compliance testing services, defect remediation consulting, and more. He also served as Head of UXDesign’s Accessibility Center of Practice.
+
+As an expert in digital accessibility, user experience, and service design, Matthew has worked with over 500 brands, covering every vertical and category. He also advises digital designers and accessibility professionals through mentorship programs.
+",https://www.linkedin.com/in/matthewluken/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+64fa54a8-c376-440c-815f-a23dab1e0ac4,Joe,Kocher,Joe Kocher,Deque,Engagement Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f37880dc-0fd4-4aa3-9bdb-820a58012e92,Brian,Bates,Brian Bates,Moreno Valley Unified School District,Professional Development Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+52e6984d-4915-4675-b2c2-fec5ce8edad1,Marco,Salsiccia,Marco Salsiccia,BlindSVG,Creator,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c12e01e0-9a3b-42b1-a6ad-8f6b0587bd91,Eric,Crozier,Eric Crozier,Elsevier,"Senior Software Engineer & Tech Lead, Shadow Health Accessibility Team",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d9f1a046-c3f9-4278-8270-5588dfc28d99,Parakorn,Kamdech,Parakorn Kamdech,TAB,Executive member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+40b80779-5f18-47d7-bf33-d9a00aa37aa9,Sarah,Heldmann,Sarah Heldmann,Wood County Board of Developmental Disabilities,"COTA/L, ATP",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+94e63a72-92d0-415a-9dc1-84a2d718a6fd,Siny,Joseph,Siny Joseph,Kansas State University,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+455b1c5b-449a-4d96-8980-c7a502392588,Peter,Korn,Peter Korn,Amazon,Director of Accessibility - Amazon Devices and Services,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a763859c-6b81-4be9-a300-db18dd834a90,Amy,Nailor,Amy Nailor,Dow Jones,"Senior Product Designer, Design Systems",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a3de3cc1-a11b-4bf7-9916-09c15e859e3d,Anna,Hernandez,Anna Hernandez,Amazon,Senior UX Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6f481d59-702b-4a83-bb47-9ea1773d9bc1,S. Victoria,Jaque,S. Victoria Jaque,CSUN ATHS MS program,Academic Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+85347685-a9fa-4185-a3a0-7b40b7becd34,Sarah,Welch,Sarah Welch,American Printing House for the Blind,Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+71bbe6e9-2400-4f33-8bd6-c2977e39fabd,Jenny,Wheeler,Jenny Wheeler,American Printing House for the Blind,Outreach Specialist - Southwest,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a13d87f1-66ae-4784-b401-4398c1fb6021,Christina,Healey,Christina Healey,National Center for Accessible Media at GBH,Accessibility Analyst,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cc08cbc3-3083-443c-8f4a-c81032833708,Pete,Bruhn,Pete Bruhn,Onward Search,"Director, Digital Accessibility Solutions",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+caa1d05f-c013-458a-9a6d-00fa85486112,Samantha,Evans,Samantha Evans,"International Association of Accessibility Professionals (IAAP), A Division of G3ict",Certification Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7052b5b2-6575-4c62-b7dd-9b476ad34f14,Matt,Ater,Matt Ater,Vispero,Senior Vice President,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+485bcd51-440d-4b03-8a09-d510b4e60457,Sambhavi,Chandrashekar,Sambhavi Chandrashekar,D2L Corporation,Global Accessibility Lead,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7148182b-9438-4fc0-a7b3-49c2ffebdeac,Aparna,Pasi,Aparna Pasi,DEQUE SYSTEMS INC,Vice President,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8e125316-80ba-4400-b373-977d639c2783,Emily,Hooser,Emily Hooser,Southern Utah University,Research Assistant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ceb0f825-3de4-407d-bf2d-d65331ceae0d,Erin,Lucas,Erin Lucas,Johnson & Johnson,Senior Accessibility Strategist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3cac85e1-1bef-4d8a-9930-4d5aead4d824,Deborah,Gilden PhD.,Deborah Gilden PhD.,The Smith-Kettlewell Eye Reseach Institute,Senior Scientist Emerita,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cd144907-618c-4586-83af-c1084aed55e1,Irla,Bocianoski Rebelo,Irla Bocianoski Rebelo,SAP SuccessFactors,User Experience Design Expert and Accessibility Lead,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+017ec7f6-5d59-4522-bfeb-686ac282ae43,Ronald,Peterson,Ronald Peterson,University of San Diego,Technical Advisor - ExSJ Community Partner,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e7a45fd6-9048-49bb-8574-0c66e922e407,James,Stout,James Stout,Google,"Engineering Director, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ef481cc3-bd7b-4f95-a988-d44ed0900d84,Rumi,Hirabayashi,Rumi Hirabayashi,University of Tokyo,Dr.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0c2fe715-383c-4755-b730-0c9de8984ede,Vanessa,Bull,Vanessa Bull,East Bay Innovations (EBI),AT Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+efa78fec-9fe9-47d3-92b8-8d4107a74194,Kyle,Shachmut,Kyle Shachmut,Harvard University,"Sr Director, Digital Accessibility","Kyle Shachmut is a senior leader, community builder and researcher that focuses on digital accessibility in higher education. 
+
+Kyle is the Senior Director of Digital Accessibility at Harvard University, providing strategic direction to digital accessibility efforts across Harvard’s schools. He frequently works at the intersections of information technology, disability inclusion and academic administration. He led creation of Harvard's Digital Accessibility Services team and collaborates with institutional leaders to guide governance of the University's Digital Accessibility Policy. Previously, his focus area included a universal design approach integrating accessibility into at-scale learning experiences through HarvardX—Harvard’s initiative that creates online courses through the Office of the Vice Provost for Advances in Learning.
+
+Beyond Harvard, Kyle is co-chair of the EDUCAUSE IT Accessibility Community Group, the largest affinity group for accessibility professionals in higher education. He has advocated for greater accessibility in community and professional associations for over a decade, advising local state and federal policymakers. In 2021, he received the 'Rising Star Award' among higher ed technology professionals from Educause. 
+
+Outside of higher education, Kyle serves on the Global Leadership Council of the International Association of Accessibility Professionals (IAAP). The GLC provides governance and direction to the IAAP, which his a membership organization that helps advance the profession through certification, continuing education and member support. Kyle frequently consults speaks and writes about matters related to digital accessibility, public policy, technology in education, universal design and more. ",https://linkedin.com/in/kyleshachmut,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+16e14727-d583-42a7-9b6b-62c0cc2c42d9,Ajay,Sharma,Ajay Sharma,HCLTECH,Technical Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d03bd333-412b-4e71-ac5a-3c023f25a690,John,Taylor,John Taylor,LG Electronics USA,Senior Vice President,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e1acd7b3-5ac4-4a5e-a14b-2cda2c49a29c,Doug,Geoffray,Doug Geoffray,Microsoft,"Senior Technical Program Manager, Experiences + Devices Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a30fb387-bf78-42bf-8824-9912797484ce,Chikako,Asai,Chikako Asai,Sony Group Corporation,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+603e9523-6ee5-4471-a3fe-26839dfc3acd,Chris,Nooney,Chris Nooney,Amazon,"Sr. Manager, Product Management and Tech",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+49a38f2c-732f-4cab-b7c0-c48aea2035a8,Bryan,Ward,Bryan Ward,Helen Keller National Center for DeafBlind Youths and Adults,Is AI Good for the DeafBlind Community?,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8de6ee23-a427-4d87-bbf4-3bbdcf4418a1,Geoff,Freed,Geoff Freed,onfocusAccess Consulting,Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8940c114-f340-4eab-90f7-f121a472b9d7,Caroline,Desrosiers,Caroline Desrosiers,Scribely,Founder & CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6277c830-2e62-4c10-a699-cd803242c8a3,Patrick,Long,Patrick Long,"Innosearch AI, Inc.",Co-founder / CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0b489ef2-a08f-4bdf-9afc-3284c7e128be,Robin,Spinks,Robin Spinks,RNIB,Head of Inclusive Design,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e65a6e5f-2d87-449b-b8b3-f04c13c927e1,Kathryn,Scheuring,Kathryn Scheuring,Braille Institute,Low Vision Occupational Therapist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+26ac2211-1b4f-4efa-807e-0101beff5f5b,Ryan,Wieland,Ryan Wieland,Allyant,"VP, Digital Accessibility Sales",,https://www.linkedin.com/in/ryan-wieland,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6312d407-9dba-4e73-912c-4f5571d032a6,Ann,Knettler,Ann Knettler,GrackleDocs,"Vice President, Consulting",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4699a4db-8d62-473b-9c82-c733eea9bcd7,Doug,Schepers,Doug Schepers,Fizz Studio,Founder & CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f6662760-b3d7-48a6-a91f-52e39de03dbe,Blake,Mason,Blake Mason,TruCare Provider Services,Executive Vice President,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+46db93b2-53c5-413c-9be8-18112c4675f8,Ronna,ten Brink,Ronna ten Brink,n/a,Lead Experience Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dceee786-826a-4a2b-ab48-05f703ce6f80,Manish,Agrawal,Manish Agrawal,IAccessible Inc,Founder and CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c4598315-7c03-48b3-b3c5-c0affa5a2710,Mateo,Osorio Delhonte,Mateo Osorio Delhonte,Southern Utah University,Research Assistant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ad7e6b54-2884-4408-9456-1cdd8e847149,Simon,Varey,Simon Varey,Fizz Studio,"Data Linguistics Architect, AI Engineer",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d47fa8b1-3f2c-462f-87c5-77376454348a,Matt,Kaplowitz,Matt Kaplowitz,Bridge Multimedia,CEO and Chief Creative Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+620a5418-c664-435b-8fd8-12f35ef42113,Michelle,Engstrom,Michelle Engstrom,State of Minnesota Department of Human Services,Digital Accessibility Trainer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f2cf9694-a851-43ae-bd9b-2cd27661c96e,Andrew,Flatres,Andrew Flatres,Humanware,Senior Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+80e3a1b4-6482-46ad-afcf-6b0736ae9cfc,Kanit,Pamanee,Kanit Pamanee,Thailand Association of the Blind,Executive member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4867966e-106b-4e9b-9637-0b1689781d44,Sharon,Rosenblatt,Sharon Rosenblatt,Accessibility Partners,Director of Communications,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7a491837-73e6-4233-b9b1-30645bd25c44,Tara,Brown-Ogilvie,Tara Brown-Ogilvie,Helen Keller National Center for DeafBlind Youths and Adults,Research & Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0b6657eb-5d51-4979-b902-687117284b14,Glenda,Sims,Glenda Sims,Deque,Chief Information Accessibility Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c71678f7-8631-4010-8744-7744288978a5,Christian,Vogler,Christian Vogler,Gallaudet University,"Director, Technology Access Program",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f4d681a3-7a38-4489-bef3-e20b95bdcf6f,Leo,Kapusta,Leo Kapusta,Hilton,"Senior Associate, Digital Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2d7c182f-459e-4bd7-8e3c-5b078212b5c7,David,Sloan,David Sloan,Vispero,Chief Accessibility Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8170704c-d794-4fdb-a1e4-4279f92c4236,Angel,Peterson,Angel Peterson,Penn State University Libraries,Production Specialist and Accessibility Coordinator,,https://www.linkedin.com/in/angelpeterson/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2a7d7216-664b-4bce-ae21-9bba4af1b772,Sam,Hobson,Sam Hobson,Intopia,Senior Digital Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f865c1e7-180c-4976-8799-992848658bd4,Alyssa,Williams,Alyssa Williams,Amplify,Product Design Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c4dc5390-5a15-4055-847d-1e497fd63aed,Patrick,Lane,Patrick Lane,Tech First SHIFT,Education Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c38fbbb7-fd88-4cae-93ee-51d9abfb8ed6,Megan,McGowan,Megan McGowan,McGraw Hill,Lead Accessibility Content Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0c5989dd-3154-4504-9b82-3ac93d9d930a,Divya,Nagaraja,Divya Nagaraja,Workday,Senior Accessibility Product Manger,,https://www.linkedin.com/in/divya-nagaraja-6459508b/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1b27dd91-4f5d-4dd7-97f0-606cddbb9811,Leah,Simon,Leah Simon,Amplify,"Computation Layer Specialist, Accessibility Lead",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+43a26aed-90d1-4028-8afe-36e498c0c767,Brett,Lewis,Brett Lewis,Vispero,Director of Engineering,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c230e36b-f614-4dbf-95af-2accd870e3ef,Bill,Bernstein,Bill Bernstein,Elsevier,Principal UX Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7429d6a8-1528-4af4-8ec0-fff624f2de94,Eudora,Struble,Eudora Struble,Wake Forest University,"Director, Technology Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+91e2aa82-db5c-46a2-a667-84cd15452b7e,Nicholas,Cook,Nicholas Cook,Assistiv Labs,Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6460c0ce-84a7-46da-b68d-765f72bd52ac,Melissa,Caruso,Melissa Caruso,Braille Institute,Certified Occupational Therapy Assistant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1204c6ad-4b92-4ff8-b984-05d9149fc610,Amy,Walldorf,Amy Walldorf,Allyant,Document Accessibility Consultant  -Government  |,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bf98ddbb-b709-4bab-918d-2a8e4b2574b5,James,Likely,James Likely,Mayo Clinic,Senior Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+46aefaa5-9803-46bd-84c0-eb51efcce0fb,Mina,Lamarra,Mina Lamarra,Huntington Beach High School,"Student (class of 2026), Huntington Beach High School",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+01922869-86bc-4f69-a34c-8479f671237c,Marc,Bourget,Marc Bourget,Meta,"Product Manager, Assistive Tech",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8f61d1c9-4472-481a-9174-8152405538a4,Gregg,Vanderheiden,Gregg Vanderheiden,Raising the Floor,"President,   Professor Emeritus",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+662fa5a9-79f3-4cce-b92d-8e629ec17d2f,Alex,Russomanno,Alex Russomanno,NewHaptics,Co-Founder / CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0ad2b454-78d0-4a27-a612-0853cf472b6d,Jay,Kolvoord,Jay Kolvoord,Strategies to Empower People (STEP),CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+24924359-853c-47d4-8102-e97ccc14c356,Achi,Mishra,Achi Mishra,Northwestern University,PhD Student,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+de2c7265-28a6-4337-8b98-32f7e49a6c0e,Odesma,Dalrymple,Odesma Dalrymple,University of San Diego,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ab5b4ac9-8426-4050-9167-af9622165b27,Bryan,Wolynski,Bryan Wolynski,Cleveland Sight Center,Chief of Vision Rehabilitation,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+22bb020c-d6b6-46cd-9572-0eba17d426f4,Kamran,Khan,Kamran Khan,"Natively Fluent, Inc.",President,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3695966c-7b62-490b-817d-688a2dcb0489,Daniel,Sullivan,Daniel Sullivan,Allyant,Chief Revenue Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4ef1b1ab-bcd3-4a4e-bb13-28adb6dc8680,Michael,Harshbarger,Michael Harshbarger,"Deque Systems, Inc.",Senior Technical Accessibility Instructor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+52ac63ee-1963-4d57-8226-20f2b280ff04,Eduardo,Meza Etienne,Eduardo Meza Etienne,Disability:IN DC Metro,Chief Accessibility Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0d82dc41-9aad-4b21-9aa1-f526d2954377,Alysha,Hiller,Alysha Hiller,"National Library Service for the Blind and Print Disabled, Library of Congress",Assistive Technology Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+723b1cf3-5343-4821-9f5d-d29a74bb82fa,Julie,Zaclis Antao,Julie Zaclis Antao,Information Technology Industry Council (ITI),Manager of Policy Analysis,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4b12482a-b2b5-4a38-85ab-d22d6c1bc61b,Daniel,Norman,Daniel Norman,Google,Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+281a45ab-f43a-4b5b-8051-bf80302dcb1f,Masaki,Matsuo,Masaki Matsuo,Tsukuba University of Technology,Assistant Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a578bcda-8fa6-4d1e-8acd-77f57d9a0d8d,Anna,Dresner,Anna Dresner,"National Library Service for the Blind and Print Disabled, Library of Congress",Assistive Technology Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c276a81e-82f0-4f22-b57e-58c05406e039,Ed,Summers,Ed Summers,GitHub,Head of Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c39fdf58-3287-4f95-a97f-29567a84e543,Yuko,Taniguchi,Yuko Taniguchi,Sony Group Corporation,Dr.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dcb5b0d4-1c32-4d58-9f0a-4aeeab05e9d7,Gus,Shitama,Gus Shitama,"Apple, Inc",Marketing Program Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fd53ab65-ec21-4392-8792-9bbe9ded567a,Emily,Mathias,Emily Mathias,Deque,Strategic Consulting,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c8e0283b-448b-41a3-9e5a-413fabb9cf6e,Taliesin,Smith,Taliesin Smith,"PhET Interactive Simulations, University of Colorado",Inclusive Design Researcher,"Taliesin Smith has a master’s degree in Inclusive Design from OCAD University, Toronto, Canada (2016), and a background in linguistics and web accessibility. Her research into non-visual access to PhET’s highly interactive simulations has led to diverse input possibilities through an innovative Parallel DOM architecture (Smith et al, 2018), and a generalizable description design framework (Smith & Moore, 2020) that supports description design for two auditory description features. The Interactive Description feature makes sims accessible to screen reader users, and the Voicing feature delivers descriptions natively through the web browser with simple options to customize how much learners hear.
+",https://www.linkedin.com/in/taliesin-l-smith-0a28161a/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+95cad771-4def-4197-a8bd-ae8e8c308e86,Kristine,Morich,Kristine Morich,Nike,Accessories Product Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3e82a187-db41-4e60-906d-f41d01ec55f2,Raja,Kushalnagar,Raja Kushalnagar,Gallaudet University,"Director, Artificial Intelligence, Accessibility and Sign Languages Center (AIASL)",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6a3675b8-81fd-48e5-84ab-0a0f3de4c39d,Mark,Fitzgerald,Mark Fitzgerald,Khan Academy,Senior Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1954dfc2-9ace-4259-ba48-98f09e6a0098,Vijayshree,Vethantham,Vijayshree Vethantham,Continual Engine US LLC,"Senior Vice President, Growth & Strategy",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2145f89e-8e45-4cdb-8d6a-d09f07945368,Daranpop,Nantaru,Daranpop Nantaru,TAB,Executive member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d0667207-d8ed-40ae-bf3a-a762d33c970a,Kavana,Ramesh,Kavana Ramesh,Lululemon,Accessibility Researcher - Senior UXR,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ad0d833e-4603-4326-a9d1-0005c1d5b947,Josh,Miele,Josh Miele,Amazon Lab 126,Amazon Design Scholar,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+90f0c080-a894-442d-8011-c26233afbb44,Joe,Merino,Joe Merino,Gallaudet University,Graduate Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cb9746d0-7c28-433e-b692-d041380fdedc,Michael,Zuberbier,Michael Zuberbier,Microsoft,Content Creation Senior PM,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+be0a953d-2f37-45e9-9ce8-ffe4fc7b34cc,Catherine,Sherry,Catherine Sherry,Onward Accessibility,Director of Staffing,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0f9cb2b5-ab0d-4698-89bf-732d4e0f3e74,Hanna,Ju,Hanna Ju,LG Electronics,Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c2cf2715-08dd-44e4-b5c2-6b43d70bfe32,Michael,Blume,Michael Blume,Workday,Accessibility Product Manager,,https://www.linkedin.com/in/michael-blume-165b01b9/details/experience/edit/forms/2204377503,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+560d9388-a479-4c7a-8ee1-42adbac2e969,Danielle,Montour,Danielle Montour,Be My Eyes,Community Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0efe2daa-ccf6-4e68-88f0-25d5c7ae1926,Sera,Park,Sera Park,LG Electronics,LG Electronics Accessibility: Inclusive Design through Education & Community,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f82119d6-7088-4ebc-9f1f-66ef4e761e2d,Rachel,Ramos,Rachel Ramos,HumanWare,Blindness Products Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2f556b92-6d3f-46ea-8ee7-ae3e34339590,Mike,Barton,Mike Barton,AudioEye,"VP, Communication",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fad90b7e-2c13-4d5e-829c-1ca84c4be4fd,Noah,Malone,Noah Malone,Nike,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9d37b85d-7126-4ebf-b48e-03f4cb6a608e,Lisa,Zhou,Lisa Zhou,Amazon,Sr. Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+af02a5bf-2760-4963-9613-33c55878637e,Brett,Oppegaard,Brett Oppegaard,University of Hawai‘i at Mānoa,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9c7d0dfe-e3d6-4936-a06b-7b740afb9ce9,Karen,Hawkins,Karen Hawkins,Level Access,Principal of Accessible Design,,www.linkedin.com/in/karen-hawkins-cpacc,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+55d3dad6-a01d-40b3-b737-7dba2b43fc10,Ellie,Maji,Ellie Maji,Colorado Governor's Office,Remediation Support Specialist,Ellie Maji uses manual and automated testing techniques to ensure that documents comply with current accessibility standards while making significant contributions to shared document accessibility knowledge by engaging in collaborative work within the Colorado Governor's Office.,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c8148839-3bd8-4513-a1d2-2f588aa5ecb3,Tina,Morrow,Tina Morrow,Colorado Governor's Office,Accessible Programs Manager,Tina Morrow is responsible for developing and implementing a strategy to address current digital accessibility issues and ensuring that accessibility is integrated into all future digital resources for the Colorado Governor’s Office,https://www.linkedin.com/in/tina-morrow-a87a32b6/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+265964ca-1d76-4103-bb9b-28706d031e75,Jack,Mitchell,Jack Mitchell,Industries of the Blind,Certified Orientation & Mobility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+87a983c5-23d7-40b0-9e35-a63616f4fb83,Jen,Hickey,Jen Hickey,Applied Social Media Lab at Harvard University,Senior Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1e126694-ace9-46e7-88b9-03f56068372d,Sabine,Braun,Sabine Braun,University of Surrey,"Professor of Translation Studies, Director of the Centre for Translation Studies",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+af5de429-8079-4f5b-8006-26a2f60e3e7e,Mikael,Vikman Sunna,Mikael Vikman Sunna,Index Braille AB,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+125d009d-dde5-4d3e-8411-750ec8d46952,Anat,Caspi,Anat Caspi,Taskar Center for Accessible Technology - University  of Washington,Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d6d60d3f-25ba-4191-af84-bcce229c7890,Jessie,Green,Jessie Green,The Ohio State University Nisonger Center,Research Assistant Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f89d201f-1b7f-47db-9958-406a1f7c44ec,Oystein,Moseng,Oystein Moseng,Highcharts,CPO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0dbc9ef2-ba3e-4ae9-8715-25dcbcbc5f66,Klaus,Hoeckner,Klaus Hoeckner,Access Austria/HGBS,,"Klaus Höckner is CEO of the Hilfsgemeinschaft der Blinden und Sehschwachen/Access Austria , based in Vienna. With more than 7000 members and about 70 employees it is the leading privately funded organisation helping visually impaired persons in Austria, existing since 1935. He was a member of the board of the Austrian Disablity Forum – the Austrian umbrella for organisations for persons with disabilities, representing more the 80 organisations with 1,4 million me60mbers,  in IAAPs Global Leadership Council and in several conference boards (ICCHP, AAATE). He works together with Access Israel and Zero Project, acting as an Ambassador in this world wide-initiative. Klaus has an ICT background, working for nearly 20 years in ICT and standardisation in the context of european (i.e. in the European Disability Forum EDF) and inter/national level (CEN, CENELEC/ISO/ITU). From 2018 to 2020 he was a member of the High Level Expert Group on Artificial Intelligence at the European Commission. Recently he was selected as Expert of the Accessible EU platform. His mission is to make the world accessible for all.",https://www.linkedin.com/in/hoeckner/,,https://www.facebook.com/hoeckner.klaus,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e8d55e1d-300d-431f-8f51-a447f98f05cd,Murtuza,Shergadwala,Murtuza Shergadwala,Workday,Responsible AI Research Scientist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4a37d64c-6928-4148-b086-a9824270a9e1,Mike,Buckley,Mike Buckley,Be My Eyes,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6b186710-6530-49b6-a04e-0030596fe710,Jennifer,Sharp,Jennifer Sharp,Microsoft,Sr. Technical Program Mgr.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ff114a53-d2fb-405b-a0df-0a5903d88c2f,Zhi,Huang,Zhi Huang,"National Library Service for the Blind and Print Disabled, Library of Congress",Patron Education and Training Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bb92fbb0-20cc-40e8-8bb5-8ca3ec4f69cb,Steve,Noble,Steve Noble,Pearson,"Principal Researcher, Accessibility","Steve Noble serves as Principal Researcher for Accessibility at Pearson, as Content Specialist in Mathematics and Science for Bridge Multimedia, and as adjunct faculty for the University of Louisville. At Pearson, Steve conducts accessibility and usability research to support the effective usage of Pearson’s digital assessment platforms for students with and without disabilities.",https://www.linkedin.com/in/steve-noble-711113a,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0415a014-c18e-42a2-b602-2cb05ba5d4ae,John,Decker,John Decker,Alta California Regional Center (ACRC),Director of Community Services and Supports,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+eb349516-4640-488b-ad30-8efc1b53e2e1,Ike,Ofobike,Ike Ofobike,Federal Communications Commission,Attorney-Advisor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0066dc3a-4c76-4917-b81e-111f3d664bc2,Jeroen,Hulscher,Jeroen Hulscher,Logius,Accessibility standards specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+20e9b064-3c34-45ed-b51c-be223bea6f1a,Jesse,Greenberg,Jesse Greenberg,"PhET Interactive Simulations, University of Colorado Boulder",Software Developer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f69d1972-f0e9-4f9a-bbe9-a7b17d39bb61,P.V.M.,Rao,P.V.M. Rao,IIT Delhi,Prof.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+50662e1f-8c93-4965-8f74-0a1eaf616319,Ted,Gies,Ted Gies,Elsevier,Accessibility Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0f360b1c-8028-4e09-9adb-71af8775c095,Tanakom,Talawat,Tanakom Talawat,Thai Blind People's Foundation,Software Developer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c2586d25-ac8b-4b15-83ae-7cc2f5dce4cc,Matt,King,Matt King,,"Technical Program Manager, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+65bd3a1a-e72c-46be-a4d5-67055b55e811,Jonny,Marshall,Jonny Marshall,RNIB,"Research Officer, Media, Culture & Immersive Technologies",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+de6e53cd-e0c3-4933-af10-04484816adbe,Brandon,Biggs,Brandon Biggs,XR Navigation and Smith-Kettlewell Eye Research Institute,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8f0f342a-9bb0-4f11-b0a6-d16c449a5470,Anna,Chou,Anna Chou,Google,"Senior UX Designer, Accessibility","When we design for specific needs, we design for all",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+277fae63-9356-458e-8993-cb5191920631,Mariah,Moon,Mariah Moon,Google,Accessibility Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+37d4db59-ecbb-4bd7-a968-ebffe4560785,Khanh,Tran,Khanh Tran,Bolsa Grande High School,"Student (class of 2026), Bolsa Grande High School",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cb6bea96-4f41-453e-845c-e72cc1b3a3e4,Amy,Bordenave,Amy Bordenave,Taskar Center for Accessible Technology - University of Washington,Mapping Program Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3db19736-d087-4e3d-b6ae-599ec9a77c0d,Xiaoran,Wang,Xiaoran Wang,"AGIGA, Inc.",CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b4922aa1-b400-4733-8cae-6fa4fa8c0e21,Dylan,Barrell,Dylan Barrell,Deque Systems Inc.,Chief Product Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4fefc7ed-e843-4530-a462-7788c69492a6,Julia,Winter,Julia Winter,Alchemie,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6fb5cbcf-d935-43a2-9a8a-60df8591c783,Aaron,Page,Aaron Page,Allyant,"VP, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+24bfc8de-e9fc-427c-901c-077c3275605e,Kathryn,Tipton,Kathryn Tipton,CSU Northridge,"Program Manager, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a1e9482b-b10c-453d-a5fd-8305e7f3b253,Nicholas,Giudice,Nicholas Giudice,UNAR Labs,Founder & CRO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+058b124a-4cc6-424a-b1b9-3d4aa84a9345,Jonathan,Whiting,Jonathan Whiting,WebAIM,Director of Training,,https://www.linkedin.com/in/jon-whiting,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+79341b90-3a6e-476d-9fbc-6a6fd3820347,Aidan,Bryant,Aidan Bryant,YouTube,Senior Accessibility UX Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ccd91422-b75c-4559-a872-9d6eb1b120e5,Brittany,Barry,Brittany Barry,Proto Hologram,Real Time Spatial Communication for the Deaf,,https://Brittany Barry,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bed1b935-0a6a-4b19-b8d6-9d40ec1e29a9,Wesley,Hulsizer,Wesley Hulsizer,Level Access,Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bd697ce5-d196-4ec1-a412-64ff8a6336e2,Bernardo,Flores,Bernardo Flores,San Jose State University,Dr.,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1f23e7a1-bd7f-4788-a707-07c626bd8ebe,Dave,Williams,Dave Williams,Dot Inc,Customer Experience Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+eb9fc49e-3ab2-41b6-a76d-d7b2f901d366,Todd,Kloots,Todd Kloots,Salesforce,Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+204aa8b6-9a3c-4992-a8b4-923adf0eec16,Judy,Thai,Judy Thai,University of California Office of the President,Director of Application Engineering,"Judy Thai is the Director of Application Engineering in Digital Innovation & Technology (DigIT) at the University of California Office of the President. With over 25 years of progressive experience at the University of California, she brings deep expertise across the full spectrum of web and application development. She leads multiple teams responsible for enterprise applications that serve the UC's diverse academic and administrative priorities.
+
+Throughout her career, she has championed digital accessibility to ensure technology is inclusive and usable by all individuals, including those with disabilities. Her work reflects a strong commitment to operational excellence, user-centered design, and scalable solutions that advance institutional goals and expand access to opportunity. In her free time, Judy either has her nose in a book, her boots on a hiking trail, or her hands on a video game controller.",https://www.linkedin.com/in/thaijudy/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f7cabaea-8795-4db4-bbe2-6db128b19b25,Timothy,Hornik,Timothy Hornik,Dot Inc,Sales Development Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e3a2f4c4-fecf-4f8b-9448-31a7180b2500,Rose,Rocchio,Rose Rocchio,UCLA,Director of Mobile Web Research & Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+71d781ed-f1da-41a0-a248-2aa88f9709f0,Kyle Yongkyu,Kim,Kyle Yongkyu Kim,LG Electronics,Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5d56e2ce-31ef-435c-823f-4ea2e584e2f5,Marina,Tsallagova,Marina Tsallagova,Raven Accessibility,Co-Founder,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9ce71a9b-9872-4e0e-ac5e-c59b16295124,Ian,McMeeking,Ian McMeeking,Amplify,"Interaction Developer, Senior Graph Specialist",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dac6d2a3-12db-4660-a7e2-e89db5ac30c7,Mike,Mara,Mike Mara,"College of Public Health, Ohio State University",Senior Instructional Designer,,https://www.linkedin.com/in/mikemara/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a2e19a4d-ea9f-478d-b905-44be472a81e1,Marc,Angelier,Marc Angelier,The Braille Program,Founder,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fa036e20-e8bf-439b-b4c2-ba95e455ffcb,Britne,Jenke,Britne Jenke,Inclusive Pixelation,Founder and Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fa60f719-046e-4802-a6f3-d72179fef7f6,Brian,Krause,Brian Krause,El Camino College,Assistive Computer Technology Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+121c8685-6c6d-4efe-a051-b52dcfa02606,Murtaza,Tamjeed,Murtaza Tamjeed,Yahoo!,Senior UX Researcher,,https://www.linkedin.com/in/murtaza-tamjeed/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7a226435-dc43-4e60-a1f3-5cde6699a150,Omar,Wahby,Omar Wahby,Vispero,AI Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+32928707-b5fc-4097-8d9c-502d33e4107f,Jonna,Alonso,Jonna Alonso,Southern Utah University,Research Assistant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ec748743-a385-4c6f-b9d6-8b076ac2a21a,Dana,Randall,Dana Randall,Level Access,Senior Creative Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+eb67c4a2-46f7-4e62-8639-0368f03b8ce2,Alyssa,Shock,Alyssa Shock,American Foundation for the Blind,Research Fellow,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+dbaa04ec-ab9e-4d02-925e-6c31aff3a69f,Julia,Sohnen,Julia Sohnen,"Apple, Inc",Accessibility Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+51b31d83-771b-4574-9f0b-1b8a5c326437,Jules,Luck,Jules Luck,Penn State University Libraries,Accessibility and Production Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9e89b231-1f26-4f55-bd23-30e8312566f8,Lacey,Long,Lacey Long,ND Dual Sensory Project,Project director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+142be421-8efa-4598-a8d6-8f25094fc30b,Nicholas,Seow,Nicholas Seow,Elsevier,Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0372be9b-712d-4fdf-ad4c-4807e332ff82,Cesar,Coronel,Cesar Coronel,SUU/FedGov Partner,Researcher & Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+12961cf7-3fab-46c4-ba0d-b7b35f7c3f2d,Betsy,Sirk,Betsy Sirk,National Aeronautics and Space Administration (NASA),"Director, Digital Accessibility and Strategic Sourcing",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7578bd0d-af93-4ae6-9b3e-8b8d82eea1bc,Tatyana,Boone,Tatyana Boone,Franklin Templeton,VP - Digital Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cae880b4-8f3c-4d85-83d6-def41d126236,Stewart,Hay,Stewart Hay,Intopia,Managing Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2f8750c8-3da0-4997-abf7-99e076b2f53e,Max,Avendano,Max Avendano,CA School for the Blind,Assistive Technology Teacher Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+254378bc-6b45-41f8-b4cd-4ae2bad52d5e,Roger,Steinberg,Roger Steinberg,Humanware,Low Vision Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ec231327-2728-43ce-b2a3-0e228962d0e8,Aaron,Preece,Aaron Preece,American Foundation for the Blind,"Editorial Lead, Digital Inclusion",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b96a4a40-454e-4f67-a27c-098a040f6c11,Tatyana,McFadden,Tatyana McFadden,Nike,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a04f6a84-187f-4eb2-8104-2985e208f461,Nick,Beese,Nick Beese,ID.me,Principal UX Designer + Accessibility Lead,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7a08d10f-f274-448b-bc52-138d6361a3b6,Steven,Forney,Steven Forney,The University of Alabama in Huntsville,Research Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8857c471-38f2-4c40-83dc-513d7bc1db41,Megan,Lilly,Megan Lilly,Hilton,"Senior Manager, Digital Strategy",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ddfc55a8-b408-45a0-8fce-6a43f9ea0b61,Tina,Gonzales Childress,Tina Gonzales Childress,InnoCaption,Director of Accessibility,"Dr. Tina Gonzales Childress is a dynamic audiologist, advocate, and Director of Accessibility for InnoCaption, who bridges audiology, accessibility, and lived experience. A late-deafened adult with bilateral cochlear implants and fluency in ASL, she offers a rare dual perspective across Deaf/Hard of Hearing and Hearing communities. She is also a sought-after international presenter, adjunct lecturer, and mentor supporting individuals of all ages navigating hearing loss. A recognized subject matter expert on assistive and access technologies, Dr. Childress promotes inclusive practices, contributes to Boards and Committees at multiple levels, and creates widely-used resources at TinaChildressAuD.com.",https://www.linkedin.com/in/tinachildress/,,https://www.facebook.com/SeeHearCommunicationMatters,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+af89a22b-973b-42de-aa86-6a7be33d197d,Jan,Williams,Jan Williams,Vispero,Audits and Compliance Practice Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5a8d0411-72f7-45c0-b3f1-c8e6e5df7198,Tim,Podkul,Tim Podkul,Fizz Studio,Vice President for Education,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+033d677b-5866-494d-94fb-e26fd284e381,Meagan,Griffith,Meagan Griffith,Vispero,Accessibility Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3db95237-9e03-4223-89cd-4fa5ed777fb2,Derrick,Smith,Derrick Smith,Auburn University at Montgomery,Dean,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+51f57173-56c9-48bf-9569-b5b2e7b24e9e,Andrew,Chung,Andrew Chung,Level Access,Chief Product Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0846185f-fb94-428c-90dd-47c7e13ffc2c,Harris,Schneiderman,Harris Schneiderman,Deque,Senior Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c19e7dcd-713c-404f-9c4a-774917d8e2f2,Ashley,Kabza,Ashley Kabza,Northwest Association for Blind Athletes,Program Manager Sports Adaptations,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fa83e1ae-c5cd-4553-a0cf-83f1a2d8a55f,Shawn,Henry,Shawn Henry,W3C,"Director, W3C Web Accessibility Initiative (WAI)",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+650117a7-2703-4373-a817-caf75bc05cfd,Tyler,Ortiz,Tyler Ortiz,The City College of New York,Student,,https://www.linkedin.com/in/tyler-ortiz-se/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6892b247-3602-4e7e-895e-53e344cacfd5,Ken,Bigler,Ken Bigler,Intuit,Head of Accessibility Engineering,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+531408cb-7613-4ab4-93a4-4a1899c66409,Christina,Corso,Christina Corso,"Saint Mary's College, Notre Dame",Assistant Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+03c6fdc0-b991-4a34-9032-0617bb62dfef,Mahadeo,Sukhai,Mahadeo Sukhai,IDEA-STEM,Chief Operating Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e928e812-7ad5-477d-ad2c-3f0cf10f18b1,Youngla,Lyu,Youngla Lyu,LG Electronics,Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+867cacf0-4755-4b67-94f7-7a5bdc16db0a,Veronica,Carson,Veronica Carson,Amazon,"Design Program Manager, Packaging",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+92f789ed-c63a-43bc-b2b8-dd9e6a1ce8a9,Mary Jo,Mueller,Mary Jo Mueller,IBM,Worldwide Accessibility Standards Program Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b46ca56e-1f45-4709-82c3-696a350ba8fc,Sean,Montgomery,Sean Montgomery,EmotiBit,"Founder, CEO",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ce4ab9c6-6266-4893-9a3f-991aae494f07,Nathan,Romney,Nathan Romney,Vispero,Chief Technology Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+31914f69-164b-4f75-be1c-92fad446cc70,Mike,Sauter,Mike Sauter,Saddleback College,Alternate Media/Assistive Technology Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+eb5d1e81-9987-4ae4-8188-847bb4d10c85,Jesse,Hairston,Jesse Hairston,The University of Alabama in Huntsville,"Associate Director, Center for Cybersecurity Research and Education",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2f4650ef-710c-4aa5-8a30-15db181a4ce8,Natascha,Zelloe,Natascha Zelloe,Capital One,Digital Accessibility Risk Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5fe6fd9d-0489-4450-a25a-1d55281492a3,Megan,Pletzer,Megan Pletzer,"Deque Systems, Inc.","Director, Product Management",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ef675130-3919-4ab5-9257-00c3c1c525b1,Flint,Million,Flint Million,"Minnesota State University, Mankato",Assistant Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5d0fb3a1-3e13-4bd6-b9c9-d9b02813081d,Mi Ong,Vang,Mi Ong Vang,"Mibility Consulting Services, LLC",Founder and Owner,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e8e57257-89fe-4ee3-8ee9-d2270504eb78,Jennison,Asuncion,Jennison Asuncion,GAAD Foundation,Co-Founder,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9963f6ea-3803-4384-90b2-cc9b8136e60c,Guarionex,Salivia,Guarionex Salivia,Gustavus Adolphus College,Associate Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3e3418e7-961f-407e-96df-92befc2e17dc,Kelly,Melcher,Kelly Melcher,State of Minnesota Department of Human Services,Digital Accessibility Coordinator,"Kelly Melcher is the Digital Accessibility Coordinator for the State of Minnesota Department of Human Services where she leads the effort to make sure everyone can access, use, and understand the digital content and programs they provide. She is passionate about the idea that we all do better when we all do better. Kelly has worked in digital accessibility for over a decade, and has worked in training and communications for more than 20 years. Kelly is a self-described nerd who loves good conversations about cool ideas. ",https://www.linkedin.com/in/kelly-melcher-90a89ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+be2a6aaa-d5de-48ad-b8e8-ac39ab56e550,Daiana,Wheeler,Daiana Wheeler,McGraw Hill Education,"Manager, Content Architecture, CIT",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+339f43a9-2b38-40d1-94cc-01b9c4b4293a,Rachel,Shearer,Rachel Shearer,Google,"Engineering Manager, Search Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+25f208b9-bd91-4490-bf91-6313288c7362,Garima,Rana,Garima Rana,HCLTech,Senior Technical Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7d5eb9c0-b9dd-4f70-9651-830b8ad20a93,Jessie,Lorenz,Jessie Lorenz,Microsoft,AI Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2ab35b05-ca81-458f-9f14-906cb03402dc,Carolyn,Wong,Carolyn Wong,Oracle America Inc,"Senior Manager, Design Research",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+459290fb-6370-4741-a8d2-f67252dfd60e,Nikita,Varma,Nikita Varma,Yahoo,Senior Engineering Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+af4376f4-13f0-4ddc-905d-6fdaaec1e1f1,Victor,Tang,Victor Tang,Independent Researcher,Independent Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7174af99-6ea6-4009-b2e2-5b46eb044dce,Jay,Pope,Jay Pope,Pope Tech,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e81140e2-ef21-4880-8581-149f5f5ea63e,Michael,Paciello,Michael Paciello,AudioEye,Chief Accessibility Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0f8cdf29-2af7-4778-8241-22c96f4221cd,Wendy,Reid,Wendy Reid,eBay Inc.,"Senior Product Manager, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c051f7d9-2d13-4454-9fdc-9c3d21dfabdf,Samuel,Sennott,Samuel Sennott,Portland State University,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b3ed88e0-02b0-481c-9222-504df76dbf8c,Subin,Baekhunthod,Subin Baekhunthod,TAB,Executive member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c6932a1d-d701-4a46-91b9-cabdb227cbde,Peter,Wu,Peter Wu,Microsoft,Principal Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a6863643-71f0-4138-b88e-51ea7654640b,Rahim,Abdi,Rahim Abdi,"Apple, Inc",Senior Accessibility Lead,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+aa3e1966-be78-426f-918b-837cfc125e9c,Kochaporn,Buphakosum,Kochaporn Buphakosum,Bangkok School for the Blind,Teacher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bfc2ae7a-be8b-451a-94e6-e916fb546fba,Rahul,Kumar,Rahul Kumar,Oracle,Principal User Experience Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3cacefb6-963c-4cb3-8dd4-060af43fe94c,Dorte,Larsen,Dorte Larsen,CKV,Vision Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b616f1aa-1a52-409b-a304-b84f62f5fbf3,Junji,Onishi,Junji Onishi,Tsukuba University of Technology,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9ade01d8-6768-427e-b81d-88602ea46ff0,Owen,Chong,Owen Chong,National Aeronautics and Space Administration (NASA),ICT Accessibility Specialist,,https://www.linkedin.com/in/owen-chong/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7ba955ed-9a6c-4aef-9d41-d88816c706f0,Perrin,Anto,Perrin Anto,Google,"Staff UX Design Lead, Accessibility",,https://www.linkedin.com/in/perrindesign,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3879d23e-cdb2-4aaf-83ff-6f5cca0f94cd,Megan,Gross,Megan Gross,San Jose State University,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ee0d0fcd-a2d9-49d7-8e82-466ec385b298,Shirisha,Gubba,Shirisha Gubba,Google LLC,Lead Accessibility Analyst,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bc4f1ba7-5811-4f9d-902b-9e8bc3e0821b,Dennis,McHugh,Dennis McHugh,Vispero,VP of Customer Service Operations,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6e5e3361-8d17-483a-8757-37a45c7587d4,Brian,McNeilly,Brian McNeilly,"University of California, Office of the President",Web Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4d5e497c-ade9-48ee-930d-4bbae84b6a98,Sheri,Byrne-Haber,Sheri Byrne-Haber,Haber Consulting LLC,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f632d145-e7ce-4d7d-a9ca-c87b09f69ec1,Michael,Toguchi,Michael Toguchi,Tectonic,Chief Strategy Officer,"Michael Toguchi helps mission-driven institutions modernize their systems so they can focus on their most impactful work. 
+
+As Chief Strategy Officer at Tectonic, he connects strategy, leadership, and business processes with the right technology solutions.  
+
+He speaks to higher education leaders, nonprofit executives, and association decision-makers about using smart systems to streamline workflows, boost efficiency, and improve outcomes without drowning in technical detail.
+
+His approach helps audiences see technology as a strategic tool, not a black box. With 25+ years in education technology and nonprofit operations, Michael has led digital transformation for universities, nonprofits, think tanks, and foundations.  
+
+He oversees Orchestrate a workflow platform that has processed more than 10 million applications and awarded more than $500 million in scholarships, grants and other awards. And Orchestrate AMS, designed specifically for higher education, provides accommodation management, process automation and all the features disability centers need.
+",https://www.linkedin.com/in/miketoguchi/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+db765bef-7f44-4391-ac72-b85a0b751c55,Ryota,Iizuka,Ryota Iizuka,Tsukuba University of Technology,Student,"I am a first-year Master's student and a Deaf graduate student. My research focuses on exploring communication and expression methods for Deaf and hard-of-hearing individuals who do not use oral speech. I am interested in Deaf and hard-of-hearing communication, welfare informatics, and human–computer interaction (HCI).",,https://x.com/Ninjinkun35,https://www.facebook.com/profile.php?id=61556295226820,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+bbbfad1b-8803-4e3b-abfb-252b152f142b,Jay,Nemchik,Jay Nemchik,Elsevier,Sr. Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a52d2ce2-0712-4d7b-a095-bdcc31d8746d,Nandita,Gupta,Nandita Gupta,Cisco,"Senior Product Manager, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+772037c7-96d1-4796-9cce-3a6d7d577918,Piyush,Chanana,Piyush Chanana,"National Centre for Assistive Health  Technologies, Indian Institute of  Technology Delhi",Lead Scientist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fe489cef-aec1-4a2f-876f-7e64ebff57f3,Devon,Persing,Devon Persing,Devon Persing LLC,Accessibility consultant,"Devon Persing is your neighbor to the north in Seattle, WA, Before joining ""big"" tech as an accessibility specialist around 2012, she worked in ""small"" tech as a UI designer, front-end web developer, and usability advocate in libraries, higher education, and local government. She has an MS in Information and is disabled, chronically ill, and neurodivergent. As a result her approach to digital accessibility centers information literacy, organization dynamics, and disability justice. Her current focus as a solo consultant is on helping people do accessibility work that is more holistic, inclusive, cooperative, and sustainable. She wrote a book called The Accessibility Operations Guidebook with that goal in mind.",https://www.linkedin.com/in/devonpersing/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6cc4dda6-b432-41ae-bd3c-79e341b1aedf,Meredith,Tully,Meredith Tully,Accessible Path Consulting,Founder & CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f4f28c74-84cb-4815-8ddd-ba9f97f583a0,Christian,Mandel,Christian Mandel,German Research Center for Artificial Intelligence DFKI,Senior Researcher,"Christian Mandel is a Senior Researcher at DFKI Bremen, Germany. His research focuses on intelligent robotic systems for electrically powered and sensor-enhanced wheelchairs. This includes driver assistance functions, algorithms for autonomous navigation, and specially adapted user interfaces for people with special needs. Another focus of his work is deep neural networks, particularly the analysis and modeling of medical time-series data.",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9b1481be-99b6-49ff-a197-221146367000,Mana,Yoshimura,Mana Yoshimura,Sony Corporation,Product Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+72a16df3-375b-4a08-9f3a-b540aa48e967,Sabrina,Norton,Sabrina Norton,Sony Electronics Inc.,Senior Human Factors Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7a8cb7c6-853c-4b7a-9efc-dddd4e941def,Madhuvanthi,Ramesh Kumar,Madhuvanthi Ramesh Kumar,"Apple, Inc",Accessibility Software Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3f785d6b-3245-4711-955c-edbcef95eb64,Lauren,Britton,Lauren Britton,Hewlett Packard Enterprise,Lead UX Researcher and Accessibility Strategist,,https://www.linkedin.com/in/laurenee/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+03bdf0b1-941b-45d4-92c0-5f2d880d5075,Thanita,Maneepong,Thanita Maneepong,Bangkok School for the Blind,Teacher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+58548e89-2eb8-4e01-bbc2-2c9aae53a036,Clark,Rachfal,Clark Rachfal,Nike,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0e037b0a-3332-400f-8b2b-2a2eff820fef,Rob,Carr,Rob Carr,WebAIM,Strategic Accessibility Coordinator,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b6491975-d756-4793-9da1-f6f6db8e307e,Ciara,Salmon,Ciara Salmon,Google,UX Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a2aafa0e-cf7c-4dcf-a494-f2fdae24fd05,Takahiro,Miura,Takahiro Miura,National Institute of Advanced Industrial Science and Technology (AIST),Chief Senior Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+25a3ff22-ac82-4221-a29b-979025b2bbf9,Seth,Kane,Seth Kane,Salesforce,Sr. Manager Accessibility Support Engineering,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c35eb808-e3e8-494b-a80a-cdbd15ee62cf,Mansi,Anand,Mansi Anand,Level Access,Lead Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8dd3c3f5-6081-4953-be29-97a0a4a9f5b7,Andrew,Hedges,Andrew Hedges,Assistiv Labs,Chief Operating Officer,"Andrew Hedges is an educator and technologist based in Portland, Oregon. A professional web developer since 1998, Andrew is the COO for Assistiv Labs, a web accessibility testing platform. Prior to Assistiv Labs, Andrew provided engineering leadership to Disney, Apple, and Zapier where he was heavily involved in the company’s accessibility guild.",,https://bsky.app/profile/segdeha.com,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e05df4ef-139e-46e3-a161-1f3da4f2e808,Shaun,Ryan,Shaun Ryan,Vispero,"Director, Product Management",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d8bc93df-23dd-4f82-895e-2d5c7243ce16,Karl,Groves,Karl Groves,AFixt,Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1ad86b62-ca13-4054-a6e5-ad6908513f4e,Mark,Hakkinen,Mark Hakkinen,ETS,Director Digital Accessibility Compliance,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fa564227-42e6-44be-969f-eb9b8309ab54,Stacy,Branham,Stacy Branham,UC Irvine,"Associate Professor, Department of Informatics, UC Irvine",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e698461f-2f63-4f49-8b44-dea171a7379d,Matt,Dunn,Matt Dunn,TruCare Provider Services,Development Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a152fcac-95e3-4bb7-907d-6122e0b77d30,Keith,Newton,Keith Newton,Mantiaba Interactive,Owner/Operator,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a045e6f4-b012-40a1-8845-0450f07c6119,Dax,Castro,Dax Castro,Chax Training and Consulting,Sr. Accessibility Trainer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d5ac7ac7-e302-48eb-88d0-64ae1985820b,Ka'o,Carlos,Ka'o Carlos,ID.me,Chief Design Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b71591b6-54fb-4da8-8b99-59924cea0a65,Goutham,Ponnada,Goutham Ponnada,Ebay,"MTS 2, Software Engineer",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c91ce239-6296-4636-8c2a-ef3a92999578,Brendan,Miller,Brendan Miller,Applied Social Media Lab at Harvard University's Berkman Klein Center,Principal Engineer,"Brendan A. Miller is a Principal Engineer with the Applied Social Media Laboratory at Harvard’s Berkman Klein Center, where he architects technology to serve the public interest. His work focuses on utilizing AI to foster neurodiverse inclusion, healthier interactions online and digital deliberation. A technologist with a civic mission, Brendan applies deep experience from the private and public sectors to these challenges, having served as Chief Software Architect for Fortune 500 clients and as the Director of the Office of Science and Technology for the State of New Mexico. He holds a Math-Computer Science degree from Brown, an MPA from Harvard, and an MBA from MIT.",https://www.linkedin.com/in/brendanmiller/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1e4c8cfd-53aa-48fc-8740-8e30dbd00431,Kate,O'Connor,Kate O'Connor,Onward Search,VP & Practice Leader,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3681153b-32ae-4134-8ddb-4f104a059f99,Ben,Knolles,Ben Knolles,Vispero,Senior Assistive Technology Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7f4ed80a-ff7e-49f8-a25b-6e3359b07f62,Milena,Risi,Milena Risi,"Zanichelli Publishing and University of Rome ""Tor Vergata""",PhD Candidate in Accessible Digital Publishing,,https://www.linkedin.com/in/milena-risi/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b5a60410-1711-4f61-8d13-80146db16e09,Lauren,Nareau,Lauren Nareau,ServiceNow,Sr. UX Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a342abe4-629e-4ff7-b205-fe2cfc2786ba,Eric,Lemuel,Eric Lemuel,TruCare Provider Services,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0cd1219c-5808-4125-a4fe-9c3e59c6021d,Jen,Tennison,Jen Tennison,Saint Louis University,CHROME Lab Lead Research Scientist and Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7a272cec-03c6-477c-a979-0bfb98e6d36a,Julie,Miller,Julie Miller,Executive Functioning for Success,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+93acc263-72df-4ca2-9b59-31f5ba0f1490,Jaunita,Flessas,Jaunita Flessas,Empower Accessibility,Founder,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+033d05df-20f0-414f-a585-45b8f40754e6,Michael,Williamson,Michael Williamson,CU Boulder,Assistant Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0d443ab6-87d3-4988-95e4-023f9ca9a55e,Klaus-Peter,Hars,Klaus-Peter Hars,Inventivio GmbH,General Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+23d33e56-8a48-44b9-aa47-08e22269483e,Magalie,Rosseeuw,Magalie Rosseeuw,"Activision, Beenox",Lead UX,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d2a9ac48-f2ad-4c5d-b9fb-0ac2531aa3b5,Namrata,Roy,Namrata Roy,Saint Louis University,Graduate Research Assistant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9be9343e-0732-49e1-a6c5-f97fcc703547,Corey,Navis,Corey Navis,Kurzweil Education,General Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ac0dfa6d-c684-44fe-85ee-40d468e96a59,Jason,Ray,Jason Ray,Simply Home,CEO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6a530e6d-f16d-493d-b816-16aaca8467c4,David,Martin,David Martin,Intuit Inc.,"Global Compliance & Partner Management Leader, Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9b7db541-6b88-44be-8d8b-d4566680cdc5,Jessica,Ax,Jessica Ax,Moreno Valley Unified School District,"Director, Technology, Innovation & Assessment",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+49804812-16b8-476c-a68c-b2239ca5f7d9,Kate,Sonka,Kate Sonka,Teach Access,Executive Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1adacaf0-2452-4cd5-8291-af0783398995,Hidde,de Vries,Hidde de Vries,Logius,Accessibility standards specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+14f44e5f-f594-4ee6-830f-8fd2482aaeb9,Paula,Kaplan,Paula Kaplan,"Saint Mary's College, Notre Dame","Director, Instructional Design & Technology",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+fe5fa5c6-c264-47a6-a52d-40416b5e53f1,Bill,Curtis-Davidson,Bill Curtis-Davidson,Georgia Tech Center for Inclusive Design and Innovation (CIDI),Executive Director,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7e9cb52e-04d1-42a4-81eb-3a6208aff979,Mariella,Paulino,Mariella Paulino,AudioEye,Senior Advocacy Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1418378c-0f93-470e-a3c1-663c2a9bdff7,Greg,Williams,Greg Williams,Deque,SVP & Chief Architect,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+29fb4f91-31ed-4833-8138-1bf1ea9db478,Corbb,O'Connor,Corbb O'Connor,Level Access,"Director, Thought Leadership",,https://linkedin.com/in/corbb,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3ec9bc1b-0ebd-4139-a618-8452e52bcdad,Doug,Clark,Doug Clark,The Walt Disney Company,Senior Principal Product Manager - Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+763eefbd-78f4-4e82-8c70-d5510e03eb4c,Katie,Ericsson,Katie Ericsson,Whitworth University,Assistant Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e5a5d7e0-cdd5-4be7-88ba-dd0f9b9175c8,Monterey,Thompson,Monterey Thompson,AudioEye,"VP, Communication",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+28c96920-60c4-4bb1-86a4-18c445582a3a,Phaedra,Whatley,Phaedra Whatley,AudioEye,Staff Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+f3ade242-1efc-4d09-9d72-f18485df0c93,Dean,Troup,Dean Troup,Palm Springs Unified School District,Assistive Technology Teacher on Special Assignment,"Dean Troup is a graduate from Pennsylvania State University in Rehabilitation Education Services.  He holds two master degrees in leadership and four teaching credentials.  He has been in the k-22 public teaching profession for over 20 years.  Dean has taught as adjunct professor with Adler Graduate College, Brandman University, and Riverside County Office of Education.  Dean studied and obtained the certificate for assistive technology during the pandemic at CSUN in 2020.  He has an Assistive Technology Professional (A.T.P.) Certification and works as an Assistive Technology Specialist Teacher on Special Assignment for Palm Springs Unified School District.  He is the founder of the assistive technology library for Palm Springs Unified.  His email is Deantroup2021@gmail.com
+",linkedin.com/in/dean-troup-aa51339,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+6ba75e51-eb6b-4463-ac65-5c8327d73a6f,Pisit,Prougestaporn,Pisit Prougestaporn,Bangkok School for the Blind,Technology and Research Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+cb738b5c-9b23-4138-8ac6-7cdd0e9f1910,Maitreya,Shah,Maitreya Shah,American Association of People with Disabilities,"Director, Technology Policy",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b5a47182-6e74-46ac-af0b-1fa5aede712a,Wayne,Dick,Wayne Dick,CSU Long Beach,Professor Emeritus,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0b1df70c-a55e-47d4-91c1-a28f180d7e7f,Pataranit,Sirithummarak,Pataranit Sirithummarak,Thai Blind People's Foundation,Researcher,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+03d62da5-02aa-4215-907d-771534646a6b,Daniel,Tsivkovski,Daniel Tsivkovski,Chapman University,Student and Research Assistant,"Daniel Tsivkovski is a Computer Science student at Chapman University with a minor in Information Security and Policy. His technical interests span full-stack web development, app development, assistive technology, and cybersecurity.
+
+He is an undergraduate researcher in the Etezad Lab developing accessible STEM learning software for blind and visually impaired students in grades K-6, and has presented at multiple conferences including SCCUR 2023 and ATIA 2025. The Etezad Lab's research is supported by a $499,134 NSF grant. 
+
+Alongside his research, Daniel works as a Software Engineering Intern at Dry Scientific. He also serves as VP of Operations for Chapman's Computer Science Club, where he co-organized PantherHacks 2025 and 2026, the university's student-run hackathons. ",https://www.linkedin.com/in/danieltsivkovski/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b2a35023-051b-4bc9-ab33-041bf8c7b416,Erin,Coleman,Erin Coleman,Scribely,CPO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+864d9a71-d463-4822-80bb-59787dbe6fb5,Mary,Goldberg,Mary Goldberg,University of Pittsburgh,"Associate Dean for Interprofessional Studies, Director of the Master of Rehabilitation Technology Pr",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+c9c23d19-c19f-4f05-8ba6-cec22bf8ab67,Neil,Barrett,Neil Barrett,Microsoft,Senior Director of Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d3a5b228-38f4-4529-893a-bdc67dea52fa,Sonali,Rai,Sonali Rai,RNIB,"Senior Manager, Media, Culture & Immersive Technologies",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+4463b557-b7bc-4581-95ed-23d293af2526,Adam,Rodenbeck,Adam Rodenbeck,Salesforce,,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b2f3f61c-dbad-4ecf-9d4e-51189c25423e,Charles,LaPierre,Charles LaPierre,Benetech,"Principal, Accessibility and Content Quality Architect",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8ed21107-bfce-4a02-8c43-7cd4486d5521,Mallika,Meiyappan,Mallika Meiyappan,Microsoft,Principal Group Product Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5472603c-40bf-4b4e-b80a-b7ec65d7a64a,JoAnna,Hansen,JoAnna Hansen,Amazon,"Director of Accessibility, Worldwide Stores",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+8a084f9d-4092-4e26-af5d-57ddf1479d2e,Joy,Mistovich,Joy Mistovich,Butler Institute of American Art,Assistant Education Director/Digital UX Accessibility Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+b1108f10-b7a6-474d-a4c6-4e480f46ecec,Nancy,Le,Nancy Le,Golden West College,"Student (class of 2027), Golden West College",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+101ceafc-4488-4f01-8b12-77c3cbd221b8,Joshua,Miele,Joshua Miele,Center for Accessibility and Open Source,Founder,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+45c09d57-1901-4434-b913-857a84ee3af1,Nicole,Brennan,Nicole Brennan,Applied Social Media Lab at Harvard University,Senior UX Designer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5c620ae8-0a17-49e1-b002-357a1ec8b119,Patty,Grapenthin,Patty Grapenthin,United Airlines,Sr. Manager - Digital Channel Accessibility,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+88a46e47-ae6a-44bd-9b11-bea34c77e224,Kai,Wong,Kai Wong,Teladoc Health,"Principal, Digital Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+1aa7db5c-bae2-479a-b4ee-30403486837e,Carissa,Rudolf,Carissa Rudolf,Nike,Director of Footwear Innovation Integration,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+7597fee3-243e-418c-ae81-a7d0fc8e5cc0,Brian,Fischler,Brian Fischler,That Real Blind Tech Show,Creator/Producer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5e22c315-b1f3-4db2-b7b2-ab993b33a1b7,Quintin,Balsdon,Quintin Balsdon,Evinced,Technology Advocate,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+9ac5e1bc-1074-4df9-8671-c9e669229398,Dan,Tripp,Dan Tripp,Siteimprove,Accessibility Engineer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+e2257cfb-2f11-4cb4-bdee-02713f772e73,Stephanie,Naufel,Stephanie Naufel,Meta,N/A,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3702254a-6284-4ca1-b5ae-c45512b79cc0,Ligia,Mora,Ligia Mora,Crawford Technologies,Senior Product Manager,"Ligia Mora is a strategic visionary with 30 years of software industry expertise and a deep specialization in Document Accessibility over the past seven years. As a Senior Product Development Manager at Crawford Technologies, Ligia bridges the gap between customer needs and technical innovation, collaborating with engineering and sales teams to develop high-quality solutions that streamline workflows and enhance customer communication.
+
+A veteran speaker and technical trainer, Ligia has shared her insights with audiences across the United States, Europe, Latin America, Asia, and Australia. She is dedicated to delivering tailored, accessible solutions that empower organizations to meet the unique needs of their users while maintaining excellence in the document management arena.",https://www.linkedin.com/in/ligiamora,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a2cde828-e3c6-4acc-b394-999779ae23a0,Shadi,Abou-Zahra,Shadi Abou-Zahra,Amazon,Principal Accessibility Standards and Policy Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+08ef50b3-b464-4d1f-9c44-32fdbccec8b3,Wilco,Fiers,Wilco Fiers,Deque,Director of Accessibility Automation,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d881c3b7-0231-4eb0-92c3-27a1c2f293c3,Chris,Fleizach,Chris Fleizach,"Apple, Inc",Accessibility Software Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5ab2c60e-e4f8-49b7-83b3-c9faf75b3b05,Laura,Ciporen,Laura Ciporen,McGraw Hill Higher Ed.,Digital Content Accessibility Manager,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+247314cb-9311-4f1d-a24a-c33b523f9416,Jens Victor,Petersen,Jens Victor Petersen,Region Syddanmark,Vision Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0c5f88ec-a45c-496e-99bc-da3377d5c636,May-Fei,Lee,May-Fei Lee,Intopia,Senior Digital Accessibility Consultant,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+0b217206-2102-4998-aa52-2a738874ae06,Wilfredo,Robinson Moore,Wilfredo Robinson Moore,Saint Louis University,Graduate Research Assistant (PhD Candidate),,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+3c72313b-da9e-447c-b47d-a0ff9988494e,Christopher,Phillips,Christopher Phillips,National Center on Accessible Digital Educational Materials & Instruction,Technical Assistance Specialist,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+d336c0eb-9048-4c4e-816b-3002d931ac6c,Greg,Pollock,Greg Pollock,Communication Service for the Deaf,"President, CSD Access",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+ad45ed48-a10e-4ecb-bf50-07fe09bed52d,Nanci,Shepardson,Nanci Shepardson,,Accessibility and Literacy Specialist,"Nanci Shepardson is a Reading and Educational Specialist with an M.S.Ed. in Language and Literacy and an Ed.S. in Assistive Technology. She is a certified Dyslexia Practitioner and holds a CPACC credential.
+
+She is a past administrator, seasoned teacher and a credentialed K-12 Reading Specialist. She is a published author, an advocate for students with disabilities and their families, and is also a professional speaker on dyslexia, language-based disabilities, executive functioning, and assistive technology throughout the country. 
+
+Equity and access for all, especially regarding access to research-based reading instruction and assistive technology services, are at the forefront of her work.  
+",https://www.linkedin.com/in/nanci-shepardson-4518621b/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+76e4d6c3-775d-4365-96dc-87b2f57e17f9,Zhigang,Zhu,Zhigang Zhu,The City College of The City University of New York,Professor,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+2db49c57-7ca0-45fc-88d2-50c8b2af79fc,Adam,Page,Adam Page,Hilton,"Manager, Digital Accessibility",,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+5b1b1030-6c1f-4f9c-baef-271d4f270185,Richard,Orme,Richard Orme,DAISY Consortium,Chief Executive Officer,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+a9a43f04-ba56-4833-b585-56cec5984dea,Cassandra,Mendez,Cassandra Mendez,JPMorgan Chase,Sr. Accessibility Specialist,"Cassandra is a subject-matter expert in accessibility, serving as an internal advisor at JPMorgan Chase. She partners with experience and content designers, developers, and testers to ensure accessibility is integrated into every stage of their work. Cassandra has leveraged her seven years of accessibility experience to champion design, usability, and access for all. She holds a BS in Computer Science & Engineering from The Ohio State University and an MS in User Experience Design from Kent State University.",,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+25787b57-6070-4611-8c1c-548463f36cd9,Simon,Miner,Simon Miner,Case for Vision,Director of Digital Strategy,"Simon Miner is the founder of Pedal Point Solutions, an agency dedicated to helping organizations learn, practice, and experience digital accessibility. He is a Certified Web Accessibility Professional with IAAP and has over 25 years of experience in web development and software engineering. Simon has given  presentations and training on web accessibility to corporations, colleges, and community organizations for more than 10 years. He also creates software tools to help people with disabilities better use the Internet such as the Site Unseen and Sound Pointer Chrome extensions, the Song Clock web app, and the award-winning Inclusiville website. He regularly gives talks and presentations at events such as the CSUN Assistive Technology Conference, the Focus on Vision Conference, and the Disabled Stories Collective.
+",https://www.linkedin.com/in/simonminer/,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+231a0dcc-0588-4dd5-b483-a0d74ba4fe85,Chatupol,Nootatong,Chatupol Nootatong,National Braille Promotion and Development Fund,Board Member,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+19dfb79b-92c4-4fc6-9ae7-885df2f35cf1,Jennifer,Strickland,Jennifer Strickland,Maryland Department of IT,"Technology Platform Director, Lead Designer","30 years of experience in design & dev. W3C Invited Expert for multiple groups. Also, a Masters of Public Administration candidate at Syracuse University, Maxwell School of Citizenship & Public Affairs.",https://www.linkedin.com/in/stricklandjen,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026
+daa1d8f9-2413-4363-bb59-4302b80cda81,David,Sexton,David Sexton,AccessibleWorld,CTO,,,,,420b4dc7-586e-48c2-ab7c-6ece7cb4f208,2026

@@ -1,0 +1,83 @@
+{
+  "year": 2026,
+  "tiers": [
+    {
+      "name": "Diamond",
+      "price": 50000,
+      "comp_registrations": 12,
+      "push_notifications": 2,
+      "bag_insert": true,
+      "program_ad": true,
+      "function_space": "Full-day or Evening",
+      "branding_options": [
+        "Grand Showcase Suite"
+      ]
+    },
+    {
+      "name": "Platinum",
+      "price": 35000,
+      "comp_registrations": 8,
+      "push_notifications": 1,
+      "bag_insert": true,
+      "program_ad": true,
+      "function_space": "Full-day or Evening",
+      "branding_options": [
+        "Showcase Suites"
+      ]
+    },
+    {
+      "name": "Gold",
+      "price": 25000,
+      "comp_registrations": 6,
+      "push_notifications": 1,
+      "bag_insert": true,
+      "program_ad": true,
+      "function_space": "Half-day",
+      "branding_options": [
+        "Welcome Reception",
+        "Featured Presentation",
+        "Luncheon Presentation",
+        "Sign Language Services",
+        "CART Services",
+        "Conference Tote Bags",
+        "Name Badge Holders",
+        "Lanyards",
+        "Conference Wi-Fi"
+      ]
+    },
+    {
+      "name": "Silver",
+      "price": 20000,
+      "comp_registrations": 4,
+      "push_notifications": 0,
+      "bag_insert": true,
+      "program_ad": true,
+      "function_space": "Half-day",
+      "branding_options": [
+        "Game Night",
+        "Karaoke Night",
+        "Happy Hour",
+        "Audio-Visual Program",
+        "Job Fair",
+        "Hackathon",
+        "Coffee Klatch"
+      ]
+    },
+    {
+      "name": "Bronze",
+      "price": 15000,
+      "comp_registrations": 3,
+      "push_notifications": 0,
+      "bag_insert": false,
+      "program_ad": true,
+      "function_space": "Half-day",
+      "branding_options": [
+        "CSUNATC Scholarship",
+        "Indoor Navigation",
+        "Photo Booth",
+        "Charging Stations",
+        "DAISY Alternative Format"
+      ]
+    }
+  ]
+}
