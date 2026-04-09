@@ -100,7 +100,7 @@ DEFAULT_LAYOUT = dict(
     title_font=dict(family=_FONT_FAMILY, size=20, color="#1A1A2E"),
     plot_bgcolor="#FAFAFA",
     paper_bgcolor="#FFFFFF",
-    margin=dict(l=60, r=40, t=80, b=60),
+    margin=dict(l=20, r=40, t=80, b=60, autoexpand=True),
     hoverlabel=dict(
         bgcolor="white",
         font_size=13,
@@ -117,6 +117,7 @@ DEFAULT_LAYOUT = dict(
         gridcolor="#EBEBEB",
         linecolor="#CCCCCC",
         zerolinecolor="#CCCCCC",
+        automargin=True,
     ),
 )
 
@@ -128,19 +129,22 @@ def apply_default_layout(fig: go.Figure, title: str = "", **overrides) -> go.Fig
         layout_kwargs["title_text"] = title
     # plotly.js 3.x needs explicit categoryorder="array" with categoryarray
     # to treat numeric-looking strings (e.g. "2023") as categories.
+    # Only apply when x-values are strings — numeric x-values (e.g. counts
+    # in horizontal bar charts) must remain on a linear axis.
     if fig.data and hasattr(fig.data[0], "x") and fig.data[0].x is not None:
         x_vals = list(fig.data[0].x)
-        xaxis_defaults = dict(
-            type="category",
-            categoryorder="array",
-            categoryarray=x_vals,
-            gridcolor="#EBEBEB",
-            linecolor="#CCCCCC",
-            zerolinecolor="#CCCCCC",
-        )
-        xaxis_overrides = overrides.get("xaxis", {})
-        if isinstance(xaxis_overrides, dict):
-            xaxis_defaults.update(xaxis_overrides)
-        layout_kwargs["xaxis"] = xaxis_defaults
+        if x_vals and isinstance(x_vals[0], str):
+            xaxis_defaults = dict(
+                type="category",
+                categoryorder="array",
+                categoryarray=x_vals,
+                gridcolor="#EBEBEB",
+                linecolor="#CCCCCC",
+                zerolinecolor="#CCCCCC",
+            )
+            xaxis_overrides = overrides.get("xaxis", {})
+            if isinstance(xaxis_overrides, dict):
+                xaxis_defaults.update(xaxis_overrides)
+            layout_kwargs["xaxis"] = xaxis_defaults
     fig.update_layout(**layout_kwargs)
     return fig

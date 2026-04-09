@@ -122,7 +122,7 @@ def fig_topic_distribution(
         height=height,
         showlegend=False,
     )
-    fig.update_xaxes(range=[0, max(counts) * 1.35] if counts else None)
+    fig.update_xaxes(range=[0, max(counts) * 1.10] if counts else None)
     return fig
 
 
@@ -252,49 +252,34 @@ def fig_ai_growth(ai_trend: dict[int, dict]) -> go.Figure:
 # ---------------------------------------------------------------------------
 
 def fig_org_bubble(org_trends: list[dict]) -> go.Figure:
-    """Bubble chart of organizations across years.
+    """Horizontal grouped bar chart of organizations across years.
 
     org_trends rows: {organization, total_sessions, sessions_2023..sessions_2026}
     """
-    # Limit to top 30 for readability
-    data = org_trends[:30]
+    data = sorted(org_trends[:30], key=lambda d: d["total_sessions"])
+    orgs = [d["organization"] for d in data]
 
     fig = go.Figure()
-
     for y in _YEARS:
-        orgs = [d["organization"] for d in data]
         sessions = [d.get(f"sessions_{y}", 0) for d in data]
-        totals = [d["total_sessions"] for d in data]
-        colors = [get_org_color(d["organization"], i) for i, d in enumerate(data)]
-
         fig.add_trace(
-            go.Scatter(
-                x=[str(y)] * len(data),
+            go.Bar(
                 y=orgs,
-                mode="markers",
+                x=sessions,
                 name=str(y),
-                marker=dict(
-                    size=[max(s * 6, 4) for s in sessions],
-                    color=YEAR_COLORS.get(y, "#636EFA"),
-                    opacity=0.75,
-                    line=dict(width=1, color="white"),
-                ),
-                hovertemplate=(
-                    "<b>%{y}</b><br>"
-                    f"Year: {y}<br>"
-                    "Sessions: %{marker.size}<br>"
-                    "<extra></extra>"
-                ),
-                customdata=sessions,
+                orientation="h",
+                marker_color=YEAR_COLORS.get(y, "#636EFA"),
+                hovertemplate="<b>%{y}</b><br>Year: " + str(y) + "<br>Sessions: %{x}<extra></extra>",
             )
         )
 
-    height = max(600, len(data) * 24 + 120)
+    height = max(600, len(data) * 28 + 120)
     apply_default_layout(
         fig,
         title="Organization Presence Across Years",
-        xaxis_title="Year",
+        xaxis_title="Sessions",
         height=height,
+        barmode="group",
         legend=dict(title="Year"),
     )
     return fig

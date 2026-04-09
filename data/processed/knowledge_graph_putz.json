@@ -7,155 +7,126 @@
   },
   "nodes": [
     {
-      "session_id": "48bae125-99d6-4f55-9a6b-c982d7a0fe2b",
-      "title": "Earning Trust with Effective Prioritization Frameworks",
+      "session_id": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "title": "Growing Your Career While Building a More Accessible Future",
       "year": 2025,
+      "presenters": [
+        {
+          "name": "Katie Hansen",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Riley Giese",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Mark Tamura",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Engineering",
+        "Development",
+        "Employment & Workplace",
+        "School-to-Work Transitioning"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-14",
+      "time": "09:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "2b9b59da-11b8-48f7-bd31-c4406242b898",
+      "title": "Shaping Access: Who’s at the Table or on the Menu?",
+      "year": 2026,
       "presenters": [
         {
           "name": "JoAnna Hansen",
           "affiliation": "Amazon"
+        },
+        {
+          "name": "Jennison Asuncion",
+          "affiliation": "GAAD Foundation"
+        },
+        {
+          "name": "Tina Gonzales Childress",
+          "affiliation": "InnoCaption"
         }
       ],
       "primary_topic": "Digital Accessibility",
       "secondary_topics": [
-        "Evaluation & Remediation",
+        "Leadership and Strategy",
+        "Law/Compliance and Policy"
+      ],
+      "target_audiences": [
+        "Healthcare & Rehabilitation",
+        "Administration & Business Support",
+        "Higher Education",
+        "Disability Specific",
+        "Government",
+        "Legal",
+        "Employment & Human Resources",
         "Information & Communications Technology"
       ],
-      "target_audiences": [],
-      "date": "2025-03-12",
-      "time": "13:20",
+      "date": "2026-03-11",
+      "time": "14:20",
       "location": "Platinum 4 - Amazon"
     },
     {
-      "session_id": "1524",
-      "title": "Wait. I Thought Alexa Was Just a Voice AI?",
-      "year": 2023,
-      "presenters": [
-        {
-          "name": "Juliana Tarpey",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Artificial Intelligence (AI) & Machine Learning (ML)",
-        "Augmentative and Alternative Communications (AAC)",
-        "Mobile Technology",
-        "Product Demonstration"
-      ],
-      "target_audiences": [
-        "Information & Communications Technology",
-        "Disability Specific",
-        "Healthcare & Rehabilitation",
-        "Research & Development"
-      ],
-      "date": "Wednesday, March 15, 2023",
-      "time": "10:20 AM PST",
-      "location": "Platinum 6 (LIVESTREAM)"
-    },
-    {
-      "session_id": "1856",
-      "title": "What does it Mean for AI to be I?",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Chris McMeeking",
-          "affiliation": "HAi1Y"
-        }
-      ],
-      "primary_topic": "Artificial Intelligence (AI) & Machine Learning (ML)",
-      "secondary_topics": [
-        "Development",
-        "Digital Accessibility",
-        "Emerging Technologies",
-        "Research"
-      ],
-      "target_audiences": [
-        "Information & Communications Technology",
-        "Government",
-        "Finance & Banking",
-        "Research & Development",
-        "Retail & Wholesale"
-      ],
-      "date": "Friday, March 22, 2024",
-      "time": "3:20 PM PDT",
-      "location": "Elite 1-3"
-    },
-    {
-      "session_id": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "title": "Accessibility by Design: Strategies for Shifting Left",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Asha Jayadevan",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Design",
-      "secondary_topics": [
-        "Digital Accessibility",
-        "Leadership & Strategy",
-        "Development"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-13",
-      "time": "11:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "1bcbb8a0-b27f-4e5f-b093-8a9085cf08be",
-      "title": "Unlocking Data Visualization Accessibility with Generative AI",
+      "session_id": "885de2cf-4242-45c9-8b58-241dd5394341",
+      "title": "How Accessibility is Shaping the Future of AI for Everyone",
       "year": 2026,
       "presenters": [
         {
-          "name": "Jory Cunningham",
-          "affiliation": "Amazon AWS"
+          "name": "Neil Barrett",
+          "affiliation": "Microsoft"
         }
       ],
       "primary_topic": "Digital Accessibility",
       "secondary_topics": [
-        "Blind/Low Vision",
+        "Emerging Technologies",
         "Artificial Intelligence (AI) and Machine Learning (ML)"
       ],
       "target_audiences": [
-        "Retail & Wholesale",
+        "Healthcare & Rehabilitation",
         "Research & Development",
-        "Information & Communications Technology"
+        "Information & Communications Technology",
+        "Marketing"
       ],
       "date": "2026-03-12",
       "time": "11:20",
-      "location": "Platinum 4 - Amazon"
+      "location": "Grand JK"
     },
     {
-      "session_id": "3098",
-      "title": "Audio Descriptions at Prime Video",
-      "year": 2024,
+      "session_id": "81949073-b61a-4fd4-95f8-879649577eb7",
+      "title": "Accessibility at Scale: Closing the 97% Gap",
+      "year": 2026,
       "presenters": [
         {
-          "name": "Dipa Balakrishnan",
-          "affiliation": "Amazon"
+          "name": "Michael Paciello",
+          "affiliation": "AudioEye"
         },
         {
-          "name": "Jayashree Rajagopalan",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Joshua Miele",
-          "affiliation": "Amazon"
+          "name": "Phaedra Whatley",
+          "affiliation": "AudioEye"
         }
       ],
-      "primary_topic": "Blind/Low Vision",
+      "primary_topic": "Digital Accessibility",
       "secondary_topics": [
-        "Digital Accessibility",
-        "Independent Living",
-        "Video & Live Streaming"
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
       ],
       "target_audiences": [
-        "Entertainment & Recreation"
+        "Administration & Business Support",
+        "Insurance",
+        "Media & Publishing",
+        "Finance & Banking",
+        "Retail & Wholesale",
+        "Marketing"
       ],
-      "date": "Wednesday, March 20, 2024",
-      "time": "11:20 AM PDT",
-      "location": "Platinum 6 (BROADCAST STUDIO)"
+      "date": "2026-03-11",
+      "time": "11:20",
+      "location": "Platinum 7 - AudioEye"
     },
     {
       "session_id": "efd37585-8c50-4c44-81f8-e98c84107c7c",
@@ -190,357 +161,6 @@
       "location": "Platinum 4 - Amazon"
     },
     {
-      "session_id": "6c8b88e3-e97f-4a96-98f6-054ddad3429c",
-      "title": "Beyond the Pixels: Re-Anchoring Meaning in Alt Text Systems",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Caroline Desrosiers",
-          "affiliation": "Scribely"
-        },
-        {
-          "name": "Erin Coleman",
-          "affiliation": "Scribely"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Media & Publishing",
-        "Information & Communications Technology",
-        "Marketing"
-      ],
-      "date": "2026-03-11",
-      "time": "16:20",
-      "location": "Grand GH"
-    },
-    {
-      "session_id": "3034",
-      "title": "Introducing ATDD:  Accessibility Test-Driven Development",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Yossi Synett",
-          "affiliation": "Evinced"
-        }
-      ],
-      "primary_topic": "Development",
-      "secondary_topics": [
-        "Artificial Intelligence (AI) & Machine Learning (ML)",
-        "Digital Accessibility",
-        "Emerging Technologies"
-      ],
-      "target_audiences": [
-        "Information & Communications Technology",
-        "Government",
-        "Finance & Banking",
-        "Research & Development",
-        "Retail & Wholesale"
-      ],
-      "date": "Thursday, March 21, 2024",
-      "time": "10:20 AM PDT",
-      "location": "Orange County 3-4"
-    },
-    {
-      "session_id": "3100",
-      "title": "Automating Keyboard Accessibility Testing",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Aaron Schneider",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Godwin",
-          "affiliation": "Amazon - Worldwide Stores A11y"
-        }
-      ],
-      "primary_topic": "Artificial Intelligence (AI) & Machine Learning (ML)",
-      "secondary_topics": [
-        "Digital Accessibility",
-        "Engineering",
-        "Web"
-      ],
-      "target_audiences": [
-        "Research & Development"
-      ],
-      "date": "Thursday, March 21, 2024",
-      "time": "1:20 PM PDT",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "1516",
-      "title": "Accessible Shopping via Voice with Amazon Alexa",
-      "year": 2023,
-      "presenters": [
-        {
-          "name": "Fabio Sacca",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Jessie Lorenz",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Product Demonstration",
-      "secondary_topics": [
-        "Digital Accessibility",
-        "Emerging Technologies",
-        "Independent Living",
-        "Product Demonstration"
-      ],
-      "target_audiences": [
-        "Retail & Wholesale"
-      ],
-      "date": "Wednesday, March 15, 2023",
-      "time": "1:20 PM PST",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "90b70bdb-1433-4a6f-b240-60935727957e",
-      "title": "What's New with Amazon Devices",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Peter Korn",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Artificial Intelligence (AI) & Machine Learning (ML)",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Blind/Low Vision",
-        "Independent Living",
-        "Augmentative and Alternative Communications (AAC)"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-11",
-      "time": "13:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "1b90f7a3-3d9d-4f8b-9da4-ceb81c64246d",
-      "title": "All Aboard! A Trip Through Europe's 7 Accessibility Standards",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Shadi Abou-Zahra",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Wilco Fiers",
-          "affiliation": "Deque Systems, Inc."
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Law/Compliance and Policy"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-13",
-      "time": "15:20",
-      "location": "Platinum 3 - Deque"
-    },
-    {
-      "session_id": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "title": "Growing Your Career While Building a More Accessible Future",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Katie Hansen",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Riley Giese",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Mark Tamura",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Engineering",
-        "Development",
-        "Employment & Workplace",
-        "School-to-Work Transitioning"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-14",
-      "time": "09:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "25403452-9207-4609-9a05-52396ecc6581",
-      "title": "Making Text Work for Everyone: Readability in Action",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Terra Masiel",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Blind/Low Vision",
-        "Cognitive and Learning Disabilities"
-      ],
-      "target_audiences": [
-        "Media & Publishing",
-        "Entertainment & Recreation",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-11",
-      "time": "13:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "1696",
-      "title": "Creating Equitable Customer Experiences for Deaf Consumers",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Ryan Bonheyo",
-          "affiliation": "Communication Service for the Deaf"
-        },
-        {
-          "name": "Greg Pollock",
-          "affiliation": "Communication Service for the Deaf"
-        }
-      ],
-      "primary_topic": "Deaf and Hard of Hearing",
-      "secondary_topics": [
-        "Design",
-        "Digital Accessibility",
-        "Emerging Technologies",
-        "Information & Communications Technology (ICT)"
-      ],
-      "target_audiences": [
-        "Information & Communications Technology",
-        "Disability Specific",
-        "Employment & Human Resources",
-        "Retail & Wholesale",
-        "Administration & Business Support"
-      ],
-      "date": "Tuesday, March 19, 2024",
-      "time": "11:20 AM PDT",
-      "location": "Platinum 8"
-    },
-    {
-      "session_id": "f641efd3-34e0-42f5-b5b7-b0d40ad25cef",
-      "title": "The Zero Project’s Equitable AI Alliance: Bridging Innovation and Inclusion",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Klaus Hoeckner",
-          "affiliation": "Access Austria/HGBS"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Disability Specific",
-        "Research & Development",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-13",
-      "time": "09:20",
-      "location": "Platinum 6"
-    },
-    {
-      "session_id": "3105",
-      "title": "How to Standardize Accessibility Testing",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Carlos Cordero",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Employment & Workplace",
-      "secondary_topics": [
-        "Design",
-        "Development",
-        "Digital Accessibility",
-        "Leadership & Strategy"
-      ],
-      "target_audiences": [
-        "Employment & Human Resources"
-      ],
-      "date": "Thursday, March 21, 2024",
-      "time": "11:20 AM PDT",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "ab1049ea-5e31-4013-93cd-43174af73a21",
-      "title": "Feature vs. Foundation: Google on AI & Accessibility",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Erika Lehmkuhl",
-          "affiliation": "Google"
-        },
-        {
-          "name": "Daniel Tarekegn",
-          "affiliation": "Google"
-        },
-        {
-          "name": "Anna Chou",
-          "affiliation": "Google"
-        },
-        {
-          "name": "Perrin Anto",
-          "affiliation": "Google"
-        },
-        {
-          "name": "Rachel Shearer",
-          "affiliation": "Google"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Disability Specific",
-        "Research & Development",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-12",
-      "time": "16:20",
-      "location": "Grand GH"
-    },
-    {
-      "session_id": "1520",
-      "title": "Trouble Using Your Hands? Watch/Listen/Read on Fire Tablet",
-      "year": 2023,
-      "presenters": [
-        {
-          "name": "Ryan French",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Mobile Technology",
-      "secondary_topics": [
-        "Deaf and Hard of Hearing",
-        "Emerging Technologies"
-      ],
-      "target_audiences": [
-        "Information & Communications Technology"
-      ],
-      "date": "Tuesday, March 14, 2023",
-      "time": "2:20 PM PST",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
       "session_id": "1523",
       "title": "How Alexa is Helping PWD Stay in Touch with Loved Ones",
       "year": 2023,
@@ -567,6 +187,26 @@
       "location": "Platinum 4 (AMAZON)"
     },
     {
+      "session_id": "48bae125-99d6-4f55-9a6b-c982d7a0fe2b",
+      "title": "Earning Trust with Effective Prioritization Frameworks",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "JoAnna Hansen",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Evaluation & Remediation",
+        "Information & Communications Technology"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-12",
+      "time": "13:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
       "session_id": "16b2b397-6d0e-4d57-ab14-cfa67297997b",
       "title": "Get More Out of Reading with Kindle's Accessibility Features",
       "year": 2025,
@@ -589,225 +229,50 @@
       "location": "Platinum 4 - Amazon"
     },
     {
-      "session_id": "502088da-72d1-4930-9f3f-9e7e85755e38",
-      "title": "Growing Your Career in Accessibility Beyond Testing",
+      "session_id": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "title": "Amazon Accessibility and Marketing: The Importance of Mechanisms",
       "year": 2025,
       "presenters": [
         {
-          "name": "Mannika Kshettry",
+          "name": "Elodie Fichet",
           "affiliation": "Amazon"
         },
         {
-          "name": "Suruchi Dhall",
+          "name": "Elaine KA",
           "affiliation": "Amazon"
         }
       ],
       "primary_topic": "Digital Accessibility",
       "secondary_topics": [
-        "Employment & Workplace"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-11",
-      "time": "15:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "1527",
-      "title": "Hear What Your Camera Sees With Blink Cameras and Doorbells",
-      "year": 2023,
-      "presenters": [
-        {
-          "name": "Wendy Richardson",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Om Goeckermann",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Michael Forzano",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Product Demonstration",
-      "secondary_topics": [
-        "Artificial Intelligence (AI) & Machine Learning (ML)",
-        "Blind/Low Vision",
-        "Emerging Technologies",
-        "Video & Live Streaming"
-      ],
-      "target_audiences": [
-        "Higher Education",
-        "Information & Communications Technology",
-        "Disability Specific",
-        "Research & Development",
-        "Employment & Human Resources"
-      ],
-      "date": "Thursday, March 16, 2023",
-      "time": "2:20 PM PST",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "b127299a-9fa5-4bec-952c-ed55dab2f882",
-      "title": "Leveraging AI for A11y: Lessons in Validation and Safeguarding",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Kiran Kaja",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Andreas Putz",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Retail & Wholesale",
-        "Research & Development",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-12",
-      "time": "13:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "dda1d554-5881-4ca4-bf41-d507d840dde4",
-      "title": "Automated Accessibility Testing for Design Systems Using AI",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Goutham Ponnada",
-          "affiliation": "Ebay"
-        },
-        {
-          "name": "Ian McBurnie",
-          "affiliation": "eBay"
-        },
-        {
-          "name": "Wendy Reid",
-          "affiliation": "eBay Inc."
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Retail & Wholesale",
-        "Research & Development",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-11",
-      "time": "14:20",
-      "location": "Grand GH"
-    },
-    {
-      "session_id": "3017",
-      "title": "Building More Accessible Web Applications with Cloudscape",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Samantha Barry",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Akanksha Garg",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Marwa Abdalrazeq",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Design",
-      "secondary_topics": [
-        "Digital Accessibility",
-        "Engineering",
         "Web"
       ],
-      "target_audiences": [
-        "Information & Communications Technology",
-        "Government",
-        "Research & Development",
-        "Employment & Human Resources",
-        "Administration & Business Support"
-      ],
-      "date": "Thursday, March 21, 2024",
-      "time": "2:20 PM PDT",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "title": "How to Create an Accessibility Self-Service Mechanism",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Carlos Cordero",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Development"
-      ],
       "target_audiences": [],
-      "date": "2025-03-13",
-      "time": "10:20",
+      "date": "2025-03-12",
+      "time": "11:20",
       "location": "Platinum 4 - Amazon"
     },
     {
-      "session_id": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "title": "Keyboard Shortcuts for Faster, Mouseless Shopping on Amazon",
-      "year": 2025,
+      "session_id": "25403452-9207-4609-9a05-52396ecc6581",
+      "title": "Making Text Work for Everyone: Readability in Action",
+      "year": 2026,
       "presenters": [
         {
           "name": "Terra Masiel",
           "affiliation": "Amazon"
-        },
-        {
-          "name": "Flo Truong",
-          "affiliation": "Amazon"
         }
       ],
       "primary_topic": "Digital Accessibility",
       "secondary_topics": [
         "Blind/Low Vision",
-        "Web",
-        "Mobility"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-13",
-      "time": "13:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "54ab5830-3391-47f0-a09f-2f568cc5c139",
-      "title": "Social Feedback Loop: From Insights to Opportunities",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Lisa Zhou",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Engineering",
-      "secondary_topics": [
-        "Artificial Intelligence (AI) and Machine Learning (ML)",
-        "Evaluation and Remediation"
+        "Cognitive and Learning Disabilities"
       ],
       "target_audiences": [
-        "Retail & Wholesale",
-        "Research & Development",
+        "Media & Publishing",
+        "Entertainment & Recreation",
         "Information & Communications Technology"
       ],
       "date": "2026-03-11",
-      "time": "15:20",
+      "time": "13:20",
       "location": "Platinum 4 - Amazon"
     },
     {
@@ -860,6 +325,62 @@
       "location": "Platinum 4 (AMAZON)"
     },
     {
+      "session_id": "3105",
+      "title": "How to Standardize Accessibility Testing",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Carlos Cordero",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Employment & Workplace",
+      "secondary_topics": [
+        "Design",
+        "Development",
+        "Digital Accessibility",
+        "Leadership & Strategy"
+      ],
+      "target_audiences": [
+        "Employment & Human Resources"
+      ],
+      "date": "Thursday, March 21, 2024",
+      "time": "11:20 AM PDT",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "60ca65ba-abe8-4017-a31b-5cb73befb91a",
+      "title": "Balancing Automation and Human Insight in Mobile Testing",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Megan Pletzer",
+          "affiliation": "Deque Systems, Inc."
+        }
+      ],
+      "primary_topic": "Mobile Technology",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Healthcare & Rehabilitation",
+        "Higher Education",
+        "Disability Specific",
+        "K-12 Education",
+        "Government",
+        "Insurance",
+        "Employment & Human Resources",
+        "Finance & Banking",
+        "Entertainment & Recreation",
+        "Manufacturing",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-12",
+      "time": "15:20",
+      "location": "Platinum 3 - Deque"
+    },
+    {
       "session_id": "3104",
       "title": "Accessible Ways to Use Blink Security Cameras",
       "year": 2024,
@@ -887,300 +408,6 @@
       "date": "Wednesday, March 20, 2024",
       "time": "9:20 AM PDT",
       "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "title": "Amazon Accessibility and Marketing: The Importance of Mechanisms",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Elodie Fichet",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Elaine KA",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Web"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-12",
-      "time": "11:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "3102",
-      "title": "Digital Reading Features for Reading-Related Disabilities",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Terra Masiel",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Blind/Low Vision",
-        "Captions & Transcription",
-        "Design",
-        "Emerging Technologies"
-      ],
-      "target_audiences": [
-        "Higher Education",
-        "Disability Specific",
-        "K-12 Education",
-        "Government",
-        "Entertainment & Recreation"
-      ],
-      "date": "Tuesday, March 19, 2024",
-      "time": "2:20 PM PDT",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "885de2cf-4242-45c9-8b58-241dd5394341",
-      "title": "How Accessibility is Shaping the Future of AI for Everyone",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Neil Barrett",
-          "affiliation": "Microsoft"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Healthcare & Rehabilitation",
-        "Research & Development",
-        "Information & Communications Technology",
-        "Marketing"
-      ],
-      "date": "2026-03-12",
-      "time": "11:20",
-      "location": "Grand JK"
-    },
-    {
-      "session_id": "ad06f869-5370-4474-b5f1-d223ed0a9662",
-      "title": "Accessibility at Prime Video",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Josh Miele",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Jayashree Rajagopalan",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Video & Live Streaming",
-      "secondary_topics": [
-        "Artificial Intelligence (AI) & Machine Learning (ML)",
-        "Emerging Technologies",
-        "Blind/Low Vision",
-        "Deaf and Hard of Hearing"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-11",
-      "time": "14:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "title": "Crafting Seamless Keyboard Shortcuts for a Global Audience",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Mannika Kshettry",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Aaron Schneider",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Web",
-        "Mobility"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-12",
-      "time": "16:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "2b9b59da-11b8-48f7-bd31-c4406242b898",
-      "title": "Shaping Access: Who’s at the Table or on the Menu?",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "JoAnna Hansen",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Jennison Asuncion",
-          "affiliation": "GAAD Foundation"
-        },
-        {
-          "name": "Tina Gonzales Childress",
-          "affiliation": "InnoCaption"
-        }
-      ],
-      "primary_topic": "Digital Accessibility",
-      "secondary_topics": [
-        "Leadership and Strategy",
-        "Law/Compliance and Policy"
-      ],
-      "target_audiences": [
-        "Healthcare & Rehabilitation",
-        "Administration & Business Support",
-        "Higher Education",
-        "Disability Specific",
-        "Government",
-        "Legal",
-        "Employment & Human Resources",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-11",
-      "time": "14:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "3096",
-      "title": "Disability Inclusive Marketing: What’s the Playbook?",
-      "year": 2024,
-      "presenters": [
-        {
-          "name": "Elodie Fichet",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Elaine KA",
-          "affiliation": "Amazon"
-        }
-      ],
-      "primary_topic": "Leadership & Strategy",
-      "secondary_topics": [
-        "Digital Accessibility"
-      ],
-      "target_audiences": [
-        "Entertainment & Recreation",
-        "Marketing"
-      ],
-      "date": "Wednesday, March 20, 2024",
-      "time": "10:20 AM PDT",
-      "location": "Platinum 4 (AMAZON)"
-    },
-    {
-      "session_id": "7a78bbb7-c18a-4538-a663-d7e2bcfed0ee",
-      "title": "AI for Accessibility: Balancing Automation with Human Oversight",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Sowjanya Param",
-          "affiliation": "Walmart"
-        }
-      ],
-      "primary_topic": "Design",
-      "secondary_topics": [
-        "Digital Accessibility",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Higher Education",
-        "Government",
-        "Employment & Human Resources",
-        "Finance & Banking",
-        "Retail & Wholesale",
-        "Research & Development",
-        "Marketing",
-        "Healthcare & Rehabilitation",
-        "Administration & Business Support",
-        "Disability Specific",
-        "K-12 Education",
-        "Media & Publishing",
-        "Entertainment & Recreation",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-11",
-      "time": "09:20",
-      "location": "Platinum 6"
-    },
-    {
-      "session_id": "6424a376-4454-476f-8ebb-76f3aa191c32",
-      "title": "Advancing Accessibility and Inclusion Through Open Source",
-      "year": 2025,
-      "presenters": [
-        {
-          "name": "Ed Summers",
-          "affiliation": "GitHub"
-        },
-        {
-          "name": "Joe Devon",
-          "affiliation": "A11y Audits"
-        },
-        {
-          "name": "Josh Miele",
-          "affiliation": "Amazon"
-        },
-        {
-          "name": "Jennifer Mankoff",
-          "affiliation": "University of Washington"
-        }
-      ],
-      "primary_topic": "Engineering",
-      "secondary_topics": [
-        "Emerging Technologies",
-        "Development",
-        "Information & Communications Technology"
-      ],
-      "target_audiences": [],
-      "date": "2025-03-13",
-      "time": "16:20",
-      "location": "Platinum 4 - Amazon"
-    },
-    {
-      "session_id": "cd87571d-10c5-413a-8fb1-be4cb1b239cc",
-      "title": "CANCELLED: Learning from Blind-Centered AI Use at Scale",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Mike Buckley",
-          "affiliation": "Be My Eyes"
-        },
-        {
-          "name": "Bryan Bashin",
-          "affiliation": "Be My Eyes"
-        }
-      ],
-      "primary_topic": "Emerging Technologies",
-      "secondary_topics": [
-        "Blind/Low Vision",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Administration & Business Support",
-        "Higher Education",
-        "Government",
-        "Insurance",
-        "Transportation",
-        "Media & Publishing",
-        "Legal",
-        "Employment & Human Resources",
-        "Retail & Wholesale",
-        "Entertainment & Recreation",
-        "Agriculture",
-        "Information & Communications Technology"
-      ],
-      "date": "2026-03-11",
-      "time": "10:20",
-      "location": "Grand JK"
     },
     {
       "session_id": "1519",
@@ -1222,90 +449,307 @@
       "location": "Platinum 6 (LIVESTREAM)"
     },
     {
-      "session_id": "2524be9f-19bd-448d-8951-cd1167406226",
-      "title": "New Kindle Features Advancing Inclusive Reading",
+      "session_id": "3098",
+      "title": "Audio Descriptions at Prime Video",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Dipa Balakrishnan",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Jayashree Rajagopalan",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Joshua Miele",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Blind/Low Vision",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Independent Living",
+        "Video & Live Streaming"
+      ],
+      "target_audiences": [
+        "Entertainment & Recreation"
+      ],
+      "date": "Wednesday, March 20, 2024",
+      "time": "11:20 AM PDT",
+      "location": "Platinum 6 (BROADCAST STUDIO)"
+    },
+    {
+      "session_id": "3034",
+      "title": "Introducing ATDD:  Accessibility Test-Driven Development",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Yossi Synett",
+          "affiliation": "Evinced"
+        }
+      ],
+      "primary_topic": "Development",
+      "secondary_topics": [
+        "Artificial Intelligence (AI) & Machine Learning (ML)",
+        "Digital Accessibility",
+        "Emerging Technologies"
+      ],
+      "target_audiences": [
+        "Information & Communications Technology",
+        "Government",
+        "Finance & Banking",
+        "Research & Development",
+        "Retail & Wholesale"
+      ],
+      "date": "Thursday, March 21, 2024",
+      "time": "10:20 AM PDT",
+      "location": "Orange County 3-4"
+    },
+    {
+      "session_id": "cd87571d-10c5-413a-8fb1-be4cb1b239cc",
+      "title": "CANCELLED: Learning from Blind-Centered AI Use at Scale",
       "year": 2026,
       "presenters": [
         {
-          "name": "Terra Masiel",
+          "name": "Mike Buckley",
+          "affiliation": "Be My Eyes"
+        },
+        {
+          "name": "Bryan Bashin",
+          "affiliation": "Be My Eyes"
+        }
+      ],
+      "primary_topic": "Emerging Technologies",
+      "secondary_topics": [
+        "Blind/Low Vision",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Administration & Business Support",
+        "Higher Education",
+        "Government",
+        "Insurance",
+        "Transportation",
+        "Media & Publishing",
+        "Legal",
+        "Employment & Human Resources",
+        "Retail & Wholesale",
+        "Entertainment & Recreation",
+        "Agriculture",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-11",
+      "time": "10:20",
+      "location": "Grand JK"
+    },
+    {
+      "session_id": "1520",
+      "title": "Trouble Using Your Hands? Watch/Listen/Read on Fire Tablet",
+      "year": 2023,
+      "presenters": [
+        {
+          "name": "Ryan French",
           "affiliation": "Amazon"
         }
       ],
       "primary_topic": "Mobile Technology",
       "secondary_topics": [
-        "Digital Accessibility",
-        "Product Demonstration"
+        "Deaf and Hard of Hearing",
+        "Emerging Technologies"
       ],
       "target_audiences": [
-        "Media & Publishing",
-        "Entertainment & Recreation",
         "Information & Communications Technology"
       ],
-      "date": "2026-03-10",
-      "time": "14:20",
-      "location": "Platinum 4 - Amazon"
+      "date": "Tuesday, March 14, 2023",
+      "time": "2:20 PM PST",
+      "location": "Platinum 4 (AMAZON)"
     },
     {
-      "session_id": "81949073-b61a-4fd4-95f8-879649577eb7",
-      "title": "Accessibility at Scale: Closing the 97% Gap",
+      "session_id": "ab1049ea-5e31-4013-93cd-43174af73a21",
+      "title": "Feature vs. Foundation: Google on AI & Accessibility",
       "year": 2026,
       "presenters": [
         {
-          "name": "Michael Paciello",
-          "affiliation": "AudioEye"
+          "name": "Erika Lehmkuhl",
+          "affiliation": "Google"
         },
         {
-          "name": "Phaedra Whatley",
-          "affiliation": "AudioEye"
+          "name": "Daniel Tarekegn",
+          "affiliation": "Google"
+        },
+        {
+          "name": "Anna Chou",
+          "affiliation": "Google"
+        },
+        {
+          "name": "Perrin Anto",
+          "affiliation": "Google"
+        },
+        {
+          "name": "Rachel Shearer",
+          "affiliation": "Google"
         }
       ],
       "primary_topic": "Digital Accessibility",
       "secondary_topics": [
+        "Emerging Technologies",
         "Artificial Intelligence (AI) and Machine Learning (ML)"
       ],
       "target_audiences": [
-        "Administration & Business Support",
-        "Insurance",
-        "Media & Publishing",
-        "Finance & Banking",
-        "Retail & Wholesale",
-        "Marketing"
-      ],
-      "date": "2026-03-11",
-      "time": "11:20",
-      "location": "Platinum 7 - AudioEye"
-    },
-    {
-      "session_id": "60ca65ba-abe8-4017-a31b-5cb73befb91a",
-      "title": "Balancing Automation and Human Insight in Mobile Testing",
-      "year": 2026,
-      "presenters": [
-        {
-          "name": "Megan Pletzer",
-          "affiliation": "Deque Systems, Inc."
-        }
-      ],
-      "primary_topic": "Mobile Technology",
-      "secondary_topics": [
-        "Digital Accessibility",
-        "Artificial Intelligence (AI) and Machine Learning (ML)"
-      ],
-      "target_audiences": [
-        "Healthcare & Rehabilitation",
-        "Higher Education",
         "Disability Specific",
-        "K-12 Education",
-        "Government",
-        "Insurance",
-        "Employment & Human Resources",
-        "Finance & Banking",
-        "Entertainment & Recreation",
-        "Manufacturing",
+        "Research & Development",
         "Information & Communications Technology"
       ],
       "date": "2026-03-12",
+      "time": "16:20",
+      "location": "Grand GH"
+    },
+    {
+      "session_id": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "title": "Accessibility by Design: Strategies for Shifting Left",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Asha Jayadevan",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Design",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Leadership & Strategy",
+        "Development"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-13",
+      "time": "11:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "1524",
+      "title": "Wait. I Thought Alexa Was Just a Voice AI?",
+      "year": 2023,
+      "presenters": [
+        {
+          "name": "Juliana Tarpey",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Artificial Intelligence (AI) & Machine Learning (ML)",
+        "Augmentative and Alternative Communications (AAC)",
+        "Mobile Technology",
+        "Product Demonstration"
+      ],
+      "target_audiences": [
+        "Information & Communications Technology",
+        "Disability Specific",
+        "Healthcare & Rehabilitation",
+        "Research & Development"
+      ],
+      "date": "Wednesday, March 15, 2023",
+      "time": "10:20 AM PST",
+      "location": "Platinum 6 (LIVESTREAM)"
+    },
+    {
+      "session_id": "6c8b88e3-e97f-4a96-98f6-054ddad3429c",
+      "title": "Beyond the Pixels: Re-Anchoring Meaning in Alt Text Systems",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Caroline Desrosiers",
+          "affiliation": "Scribely"
+        },
+        {
+          "name": "Erin Coleman",
+          "affiliation": "Scribely"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Emerging Technologies",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Media & Publishing",
+        "Information & Communications Technology",
+        "Marketing"
+      ],
+      "date": "2026-03-11",
+      "time": "16:20",
+      "location": "Grand GH"
+    },
+    {
+      "session_id": "1b90f7a3-3d9d-4f8b-9da4-ceb81c64246d",
+      "title": "All Aboard! A Trip Through Europe's 7 Accessibility Standards",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Shadi Abou-Zahra",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Wilco Fiers",
+          "affiliation": "Deque Systems, Inc."
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Law/Compliance and Policy"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-13",
       "time": "15:20",
       "location": "Platinum 3 - Deque"
+    },
+    {
+      "session_id": "502088da-72d1-4930-9f3f-9e7e85755e38",
+      "title": "Growing Your Career in Accessibility Beyond Testing",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Mannika Kshettry",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Suruchi Dhall",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Employment & Workplace"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-11",
+      "time": "15:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "54ab5830-3391-47f0-a09f-2f568cc5c139",
+      "title": "Social Feedback Loop: From Insights to Opportunities",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Lisa Zhou",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Engineering",
+      "secondary_topics": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Evaluation and Remediation"
+      ],
+      "target_audiences": [
+        "Retail & Wholesale",
+        "Research & Development",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-11",
+      "time": "15:20",
+      "location": "Platinum 4 - Amazon"
     },
     {
       "session_id": "1452",
@@ -1340,6 +784,108 @@
       "location": "Orange County 3-4"
     },
     {
+      "session_id": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "title": "How to Create an Accessibility Self-Service Mechanism",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Carlos Cordero",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Development"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-13",
+      "time": "10:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "f641efd3-34e0-42f5-b5b7-b0d40ad25cef",
+      "title": "The Zero Project’s Equitable AI Alliance: Bridging Innovation and Inclusion",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Klaus Hoeckner",
+          "affiliation": "Access Austria/HGBS"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Emerging Technologies",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Disability Specific",
+        "Research & Development",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-13",
+      "time": "09:20",
+      "location": "Platinum 6"
+    },
+    {
+      "session_id": "3096",
+      "title": "Disability Inclusive Marketing: What’s the Playbook?",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Elodie Fichet",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Elaine KA",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Leadership & Strategy",
+      "secondary_topics": [
+        "Digital Accessibility"
+      ],
+      "target_audiences": [
+        "Entertainment & Recreation",
+        "Marketing"
+      ],
+      "date": "Wednesday, March 20, 2024",
+      "time": "10:20 AM PDT",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "6424a376-4454-476f-8ebb-76f3aa191c32",
+      "title": "Advancing Accessibility and Inclusion Through Open Source",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Ed Summers",
+          "affiliation": "GitHub"
+        },
+        {
+          "name": "Joe Devon",
+          "affiliation": "A11y Audits"
+        },
+        {
+          "name": "Josh Miele",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Jennifer Mankoff",
+          "affiliation": "University of Washington"
+        }
+      ],
+      "primary_topic": "Engineering",
+      "secondary_topics": [
+        "Emerging Technologies",
+        "Development",
+        "Information & Communications Technology"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-13",
+      "time": "16:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
       "session_id": "9f342f02-9e9a-43ab-ad10-3a6b75456913",
       "title": "AI for Accessibility: Real-World Innovations Empowering All",
       "year": 2026,
@@ -1370,6 +916,457 @@
       "date": "2026-03-10",
       "time": "15:20",
       "location": "Platinum 6"
+    },
+    {
+      "session_id": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "title": "Crafting Seamless Keyboard Shortcuts for a Global Audience",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Mannika Kshettry",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Aaron Schneider",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Web",
+        "Mobility"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-12",
+      "time": "16:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "1527",
+      "title": "Hear What Your Camera Sees With Blink Cameras and Doorbells",
+      "year": 2023,
+      "presenters": [
+        {
+          "name": "Wendy Richardson",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Om Goeckermann",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Michael Forzano",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Product Demonstration",
+      "secondary_topics": [
+        "Artificial Intelligence (AI) & Machine Learning (ML)",
+        "Blind/Low Vision",
+        "Emerging Technologies",
+        "Video & Live Streaming"
+      ],
+      "target_audiences": [
+        "Higher Education",
+        "Information & Communications Technology",
+        "Disability Specific",
+        "Research & Development",
+        "Employment & Human Resources"
+      ],
+      "date": "Thursday, March 16, 2023",
+      "time": "2:20 PM PST",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "1856",
+      "title": "What does it Mean for AI to be I?",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Chris McMeeking",
+          "affiliation": "HAi1Y"
+        }
+      ],
+      "primary_topic": "Artificial Intelligence (AI) & Machine Learning (ML)",
+      "secondary_topics": [
+        "Development",
+        "Digital Accessibility",
+        "Emerging Technologies",
+        "Research"
+      ],
+      "target_audiences": [
+        "Information & Communications Technology",
+        "Government",
+        "Finance & Banking",
+        "Research & Development",
+        "Retail & Wholesale"
+      ],
+      "date": "Friday, March 22, 2024",
+      "time": "3:20 PM PDT",
+      "location": "Elite 1-3"
+    },
+    {
+      "session_id": "3097",
+      "title": "Watch & Read: Control Amazon Fire Tablet with Voice Access",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Ryan French",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Augmentative and Alternative Communications (AAC)",
+      "secondary_topics": [
+        "Blind/Low Vision",
+        "Digital Accessibility",
+        "Mobility"
+      ],
+      "target_audiences": [
+        "Information & Communications Technology"
+      ],
+      "date": "Tuesday, March 19, 2024",
+      "time": "1:20 PM PDT",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "title": "Keyboard Shortcuts for Faster, Mouseless Shopping on Amazon",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Terra Masiel",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Flo Truong",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Blind/Low Vision",
+        "Web",
+        "Mobility"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-13",
+      "time": "13:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "3017",
+      "title": "Building More Accessible Web Applications with Cloudscape",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Samantha Barry",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Akanksha Garg",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Marwa Abdalrazeq",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Design",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Engineering",
+        "Web"
+      ],
+      "target_audiences": [
+        "Information & Communications Technology",
+        "Government",
+        "Research & Development",
+        "Employment & Human Resources",
+        "Administration & Business Support"
+      ],
+      "date": "Thursday, March 21, 2024",
+      "time": "2:20 PM PDT",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "3100",
+      "title": "Automating Keyboard Accessibility Testing",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Aaron Schneider",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Godwin",
+          "affiliation": "Amazon - Worldwide Stores A11y"
+        }
+      ],
+      "primary_topic": "Artificial Intelligence (AI) & Machine Learning (ML)",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Engineering",
+        "Web"
+      ],
+      "target_audiences": [
+        "Research & Development"
+      ],
+      "date": "Thursday, March 21, 2024",
+      "time": "1:20 PM PDT",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "1bcbb8a0-b27f-4e5f-b093-8a9085cf08be",
+      "title": "Unlocking Data Visualization Accessibility with Generative AI",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Jory Cunningham",
+          "affiliation": "Amazon AWS"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Blind/Low Vision",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Retail & Wholesale",
+        "Research & Development",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-12",
+      "time": "11:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "1516",
+      "title": "Accessible Shopping via Voice with Amazon Alexa",
+      "year": 2023,
+      "presenters": [
+        {
+          "name": "Fabio Sacca",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Jessie Lorenz",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Product Demonstration",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Emerging Technologies",
+        "Independent Living",
+        "Product Demonstration"
+      ],
+      "target_audiences": [
+        "Retail & Wholesale"
+      ],
+      "date": "Wednesday, March 15, 2023",
+      "time": "1:20 PM PST",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "7a78bbb7-c18a-4538-a663-d7e2bcfed0ee",
+      "title": "AI for Accessibility: Balancing Automation with Human Oversight",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Sowjanya Param",
+          "affiliation": "Walmart"
+        }
+      ],
+      "primary_topic": "Design",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Higher Education",
+        "Government",
+        "Employment & Human Resources",
+        "Finance & Banking",
+        "Retail & Wholesale",
+        "Research & Development",
+        "Marketing",
+        "Healthcare & Rehabilitation",
+        "Administration & Business Support",
+        "Disability Specific",
+        "K-12 Education",
+        "Media & Publishing",
+        "Entertainment & Recreation",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-11",
+      "time": "09:20",
+      "location": "Platinum 6"
+    },
+    {
+      "session_id": "2524be9f-19bd-448d-8951-cd1167406226",
+      "title": "New Kindle Features Advancing Inclusive Reading",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Terra Masiel",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Mobile Technology",
+      "secondary_topics": [
+        "Digital Accessibility",
+        "Product Demonstration"
+      ],
+      "target_audiences": [
+        "Media & Publishing",
+        "Entertainment & Recreation",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-10",
+      "time": "14:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "1696",
+      "title": "Creating Equitable Customer Experiences for Deaf Consumers",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Ryan Bonheyo",
+          "affiliation": "Communication Service for the Deaf"
+        },
+        {
+          "name": "Greg Pollock",
+          "affiliation": "Communication Service for the Deaf"
+        }
+      ],
+      "primary_topic": "Deaf and Hard of Hearing",
+      "secondary_topics": [
+        "Design",
+        "Digital Accessibility",
+        "Emerging Technologies",
+        "Information & Communications Technology (ICT)"
+      ],
+      "target_audiences": [
+        "Information & Communications Technology",
+        "Disability Specific",
+        "Employment & Human Resources",
+        "Retail & Wholesale",
+        "Administration & Business Support"
+      ],
+      "date": "Tuesday, March 19, 2024",
+      "time": "11:20 AM PDT",
+      "location": "Platinum 8"
+    },
+    {
+      "session_id": "dda1d554-5881-4ca4-bf41-d507d840dde4",
+      "title": "Automated Accessibility Testing for Design Systems Using AI",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Goutham Ponnada",
+          "affiliation": "Ebay"
+        },
+        {
+          "name": "Ian McBurnie",
+          "affiliation": "eBay"
+        },
+        {
+          "name": "Wendy Reid",
+          "affiliation": "eBay Inc."
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Emerging Technologies",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Retail & Wholesale",
+        "Research & Development",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-11",
+      "time": "14:20",
+      "location": "Grand GH"
+    },
+    {
+      "session_id": "3102",
+      "title": "Digital Reading Features for Reading-Related Disabilities",
+      "year": 2024,
+      "presenters": [
+        {
+          "name": "Terra Masiel",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Blind/Low Vision",
+        "Captions & Transcription",
+        "Design",
+        "Emerging Technologies"
+      ],
+      "target_audiences": [
+        "Higher Education",
+        "Disability Specific",
+        "K-12 Education",
+        "Government",
+        "Entertainment & Recreation"
+      ],
+      "date": "Tuesday, March 19, 2024",
+      "time": "2:20 PM PDT",
+      "location": "Platinum 4 (AMAZON)"
+    },
+    {
+      "session_id": "b127299a-9fa5-4bec-952c-ed55dab2f882",
+      "title": "Leveraging AI for A11y: Lessons in Validation and Safeguarding",
+      "year": 2026,
+      "presenters": [
+        {
+          "name": "Kiran Kaja",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Andreas Putz",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Digital Accessibility",
+      "secondary_topics": [
+        "Emerging Technologies",
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "target_audiences": [
+        "Retail & Wholesale",
+        "Research & Development",
+        "Information & Communications Technology"
+      ],
+      "date": "2026-03-12",
+      "time": "13:20",
+      "location": "Platinum 4 - Amazon"
+    },
+    {
+      "session_id": "90b70bdb-1433-4a6f-b240-60935727957e",
+      "title": "What's New with Amazon Devices",
+      "year": 2025,
+      "presenters": [
+        {
+          "name": "Peter Korn",
+          "affiliation": "Amazon"
+        }
+      ],
+      "primary_topic": "Artificial Intelligence (AI) & Machine Learning (ML)",
+      "secondary_topics": [
+        "Emerging Technologies",
+        "Blind/Low Vision",
+        "Independent Living",
+        "Augmentative and Alternative Communications (AAC)"
+      ],
+      "target_audiences": [],
+      "date": "2025-03-11",
+      "time": "13:20",
+      "location": "Platinum 4 - Amazon"
     },
     {
       "session_id": "57e03e81-c688-4aa0-8ed0-452986ab4093",
@@ -1418,27 +1415,30 @@
       "location": "Platinum 6"
     },
     {
-      "session_id": "3097",
-      "title": "Watch & Read: Control Amazon Fire Tablet with Voice Access",
-      "year": 2024,
+      "session_id": "ad06f869-5370-4474-b5f1-d223ed0a9662",
+      "title": "Accessibility at Prime Video",
+      "year": 2025,
       "presenters": [
         {
-          "name": "Ryan French",
+          "name": "Josh Miele",
+          "affiliation": "Amazon"
+        },
+        {
+          "name": "Jayashree Rajagopalan",
           "affiliation": "Amazon"
         }
       ],
-      "primary_topic": "Augmentative and Alternative Communications (AAC)",
+      "primary_topic": "Video & Live Streaming",
       "secondary_topics": [
+        "Artificial Intelligence (AI) & Machine Learning (ML)",
+        "Emerging Technologies",
         "Blind/Low Vision",
-        "Digital Accessibility",
-        "Mobility"
+        "Deaf and Hard of Hearing"
       ],
-      "target_audiences": [
-        "Information & Communications Technology"
-      ],
-      "date": "Tuesday, March 19, 2024",
-      "time": "1:20 PM PDT",
-      "location": "Platinum 4 (AMAZON)"
+      "target_audiences": [],
+      "date": "2025-03-11",
+      "time": "14:20",
+      "location": "Platinum 4 - Amazon"
     }
   ],
   "edges": [
@@ -1466,7 +1466,7 @@
         {
           "type": "copresenter",
           "weight": 0.8,
-          "detail": "wendy richardson"
+          "detail": "michael forzano"
         }
       ]
     },
@@ -1716,33 +1716,6 @@
       ]
     },
     {
-      "source": "3100",
-      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "combined_weight": 1.9667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        },
-        {
-          "type": "copresenter",
-          "weight": 0.8,
-          "detail": "aaron schneider"
-        }
-      ]
-    },
-    {
       "source": "1519",
       "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
       "combined_weight": 1.9667,
@@ -1766,6 +1739,33 @@
           "type": "copresenter",
           "weight": 0.8,
           "detail": "katie hansen"
+        }
+      ]
+    },
+    {
+      "source": "3100",
+      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "combined_weight": 1.9667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        },
+        {
+          "type": "copresenter",
+          "weight": 0.8,
+          "detail": "aaron schneider"
         }
       ]
     },
@@ -2392,52 +2392,6 @@
       ]
     },
     {
-      "source": "3017",
-      "target": "3100",
-      "combined_weight": 1.5,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 1.0,
-          "detail": [
-            "digital accessibility",
-            "engineering",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "combined_weight": 1.5,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 1.0,
-          "detail": [
-            "digital accessibility",
-            "mobility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
       "source": "3105",
       "target": "3a77e273-b482-4cea-a606-4257be3112a8",
       "combined_weight": 1.5,
@@ -2450,29 +2404,6 @@
             "development",
             "digital accessibility",
             "leadership & strategy"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3105",
-      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "combined_weight": 1.5,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 1.0,
-          "detail": [
-            "development",
-            "digital accessibility",
-            "employment & workplace"
           ]
         },
         {
@@ -2519,6 +2450,75 @@
             "cognitive & learning disabilities",
             "digital accessibility",
             "product demonstration"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3017",
+      "target": "3100",
+      "combined_weight": 1.5,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 1.0,
+          "detail": [
+            "digital accessibility",
+            "engineering",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3105",
+      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "combined_weight": 1.5,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 1.0,
+          "detail": [
+            "development",
+            "digital accessibility",
+            "employment & workplace"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "combined_weight": 1.5,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 1.0,
+          "detail": [
+            "digital accessibility",
+            "mobility",
+            "web"
           ]
         },
         {
@@ -2644,72 +2644,6 @@
           "weight": 0.25,
           "detail": [
             "retail & wholesale"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1524",
-      "target": "3097",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "augmentative and alternative communications (aac)",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1524",
-      "target": "90b70bdb-1433-4a6f-b240-60935727957e",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "artificial intelligence (ai) & machine learning (ml)",
-            "augmentative and alternative communications (aac)"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3097",
-      "target": "90b70bdb-1433-4a6f-b240-60935727957e",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "augmentative and alternative communications (aac)",
-            "blind/low vision"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
           ]
         }
       ]
@@ -2996,6 +2930,72 @@
           "weight": 0.5,
           "detail": [
             "microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1524",
+      "target": "3097",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "augmentative and alternative communications (aac)",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1524",
+      "target": "90b70bdb-1433-4a6f-b240-60935727957e",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "artificial intelligence (ai) & machine learning (ml)",
+            "augmentative and alternative communications (aac)"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3097",
+      "target": "90b70bdb-1433-4a6f-b240-60935727957e",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "augmentative and alternative communications (aac)",
+            "blind/low vision"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
           ]
         }
       ]
@@ -3485,424 +3485,6 @@
       ]
     },
     {
-      "source": "1518",
-      "target": "3017",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1518",
-      "target": "3100",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1518",
-      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1518",
-      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1518",
-      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3017",
-      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3017",
-      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3017",
-      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3100",
-      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3100",
-      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1519",
-      "target": "3105",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1519",
-      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1519",
-      "target": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "6424a376-4454-476f-8ebb-76f3aa191c32",
-      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "combined_weight": 1.1667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "engineering"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
       "source": "3017",
       "target": "3102",
       "combined_weight": 1.1667,
@@ -4124,6 +3706,50 @@
     },
     {
       "source": "1518",
+      "target": "3017",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1518",
+      "target": "3100",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1518",
       "target": "3105",
       "combined_weight": 1.1667,
       "connections": [
@@ -4168,6 +3794,72 @@
     },
     {
       "source": "1518",
+      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1518",
+      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1518",
+      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1518",
       "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
       "combined_weight": 1.1667,
       "connections": [
@@ -4198,6 +3890,72 @@
           "weight": 0.6667,
           "detail": [
             "deaf and hard of hearing",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1519",
+      "target": "3105",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1519",
+      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1519",
+      "target": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
             "digital accessibility"
           ]
         },
@@ -4300,6 +4058,72 @@
     },
     {
       "source": "3017",
+      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3017",
+      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3017",
+      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3017",
       "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
       "combined_weight": 1.1667,
       "connections": [
@@ -4388,6 +4212,50 @@
     },
     {
       "source": "3100",
+      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3100",
+      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3100",
       "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
       "combined_weight": 1.1667,
       "connections": [
@@ -4453,6 +4321,116 @@
       ]
     },
     {
+      "source": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
       "source": "1b90f7a3-3d9d-4f8b-9da4-ceb81c64246d",
       "target": "2b9b59da-11b8-48f7-bd31-c4406242b898",
       "combined_weight": 1.1667,
@@ -4463,6 +4441,28 @@
           "detail": [
             "digital accessibility",
             "law/compliance and policy"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "6424a376-4454-476f-8ebb-76f3aa191c32",
+      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "combined_weight": 1.1667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "engineering"
           ]
         },
         {
@@ -6799,90 +6799,6 @@
           "weight": 0.3333,
           "detail": [
             "mobile technology"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1519",
-      "target": "6424a376-4454-476f-8ebb-76f3aa191c32",
-      "combined_weight": 0.8333,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.3333,
-          "detail": [
-            "development"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3105",
-      "target": "6424a376-4454-476f-8ebb-76f3aa191c32",
-      "combined_weight": 0.8333,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.3333,
-          "detail": [
-            "development"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "6424a376-4454-476f-8ebb-76f3aa191c32",
-      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "combined_weight": 0.8333,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.3333,
-          "detail": [
-            "development"
-          ]
-        },
-        {
-          "type": "organization_overlap",
-          "weight": 0.5,
-          "detail": [
-            "amazon"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "target": "6424a376-4454-476f-8ebb-76f3aa191c32",
-      "combined_weight": 0.8333,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.3333,
-          "detail": [
-            "development"
           ]
         },
         {
@@ -12334,6 +12250,90 @@
       ]
     },
     {
+      "source": "1519",
+      "target": "6424a376-4454-476f-8ebb-76f3aa191c32",
+      "combined_weight": 0.8333,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.3333,
+          "detail": [
+            "development"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3105",
+      "target": "6424a376-4454-476f-8ebb-76f3aa191c32",
+      "combined_weight": 0.8333,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.3333,
+          "detail": [
+            "development"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "6424a376-4454-476f-8ebb-76f3aa191c32",
+      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "combined_weight": 0.8333,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.3333,
+          "detail": [
+            "development"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "target": "6424a376-4454-476f-8ebb-76f3aa191c32",
+      "combined_weight": 0.8333,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.3333,
+          "detail": [
+            "development"
+          ]
+        },
+        {
+          "type": "organization_overlap",
+          "weight": 0.5,
+          "detail": [
+            "amazon"
+          ]
+        }
+      ]
+    },
+    {
       "source": "1527",
       "target": "2524be9f-19bd-448d-8951-cd1167406226",
       "combined_weight": 0.8333,
@@ -13996,231 +13996,6 @@
       ]
     },
     {
-      "source": "1452",
-      "target": "1518",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1452",
-      "target": "3100",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1452",
-      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1452",
-      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1452",
-      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "digital accessibility",
-            "web"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1519",
-      "target": "1856",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1519",
-      "target": "3034",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1856",
-      "target": "3105",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1856",
-      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1856",
-      "target": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "1856",
-      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3034",
-      "target": "3105",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3034",
-      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3034",
-      "target": "3a77e273-b482-4cea-a606-4257be3112a8",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
-      "source": "3034",
-      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
-      "combined_weight": 0.6667,
-      "connections": [
-        {
-          "type": "topic_overlap",
-          "weight": 0.6667,
-          "detail": [
-            "development",
-            "digital accessibility"
-          ]
-        }
-      ]
-    },
-    {
       "source": "1696",
       "target": "3017",
       "combined_weight": 0.6667,
@@ -14327,6 +14102,21 @@
     },
     {
       "source": "1452",
+      "target": "1518",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1452",
       "target": "3096",
       "combined_weight": 0.6667,
       "connections": [
@@ -14336,6 +14126,96 @@
           "detail": [
             "digital accessibility",
             "leadership & strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1452",
+      "target": "3100",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1452",
+      "target": "84983fe7-c2a6-492d-ac9e-3bb7073acdc4",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1452",
+      "target": "ec8ca5dc-3084-42bd-9c29-e703228382de",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1452",
+      "target": "95622842-dc0e-4da2-86ed-b6bee72ff9f8",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "digital accessibility",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1519",
+      "target": "1856",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1519",
+      "target": "3034",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
           ]
         }
       ]
@@ -14431,6 +14311,66 @@
       ]
     },
     {
+      "source": "1856",
+      "target": "3105",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1856",
+      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1856",
+      "target": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "1856",
+      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
       "source": "3034",
       "target": "3100",
       "combined_weight": 0.6667,
@@ -14440,6 +14380,66 @@
           "weight": 0.6667,
           "detail": [
             "artificial intelligence (ai) & machine learning (ml)",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3034",
+      "target": "3105",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3034",
+      "target": "f88cdb54-d07b-4201-b33b-6cb40a45572e",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3034",
+      "target": "3a77e273-b482-4cea-a606-4257be3112a8",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
+            "digital accessibility"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "3034",
+      "target": "dccdb593-4bde-4db5-b85f-2c214f3e381b",
+      "combined_weight": 0.6667,
+      "connections": [
+        {
+          "type": "topic_overlap",
+          "weight": 0.6667,
+          "detail": [
+            "development",
             "digital accessibility"
           ]
         }

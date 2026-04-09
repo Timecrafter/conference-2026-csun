@@ -53,7 +53,7 @@ The talk bridges three key themes: AI/ML, Digital Accessibility, and Emerging Te
 ### 2. Automated Accessibility Testing for Design Systems Using AI (2026)
 - **Combined weight**: 1.250
 - **Presenters**: Goutham Ponnada, Ian McBurnie, Wendy Reid
-- **Organizations**: Ebay, eBay, eBay Inc.
+- **Organizations**: eBay Inc., eBay, Ebay
 - **Connection types**: topic overlap, audience overlap
   - topic_overlap: artificial intelligence (ai) and machine learning (ml), digital accessibility, emerging technologies (w=1.000)
   - audience_overlap: retail & wholesale (w=0.250)
@@ -246,7 +246,7 @@ The talk bridges three key themes: AI/ML, Digital Accessibility, and Emerging Te
 ### 26. Advancing Accessibility and Inclusion Through Open Source (2025)
 - **Combined weight**: 0.833
 - **Presenters**: Ed Summers, Joe Devon, Josh Miele, Jennifer Mankoff
-- **Organizations**: GitHub, University of Washington, Amazon, A11y Audits
+- **Organizations**: University of Washington, A11y Audits, Amazon, GitHub
 - **Connection types**: topic overlap, organization overlap
   - topic_overlap: emerging technologies (w=0.333)
   - organization_overlap: amazon (w=0.500)
